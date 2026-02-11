@@ -1,13 +1,7 @@
-#EXTM3U
-#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U  x-tvg-url="https://epg.pw/xmltv/epg.xml",tvg-url="https://epg.pw/xmltv/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/epg.xml.gz, https://epg.pw/xmltv/epg.xml, https://epg.pw/xmltv/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="1440" max-conn="1" refresh="24" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" 
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
-https://static.vecteezy.com/system/resources/thumbnails/003/582/701/small_2x/coming-soon-background-illustration-template-design-free-vector.jpg
+#EXTINF:-1  group-title="FTA/Local" tvg-id="NatureStream.tv.distro" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TV1" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=1
@@ -20,6 +14,24 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 #KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="AstroRia" tvg-chno="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Astro_Ria_%28Nov_2024%29.png/revision/latest?cb=20241121174644",Astro Ria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="AstroPrima" tvg-chno="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Prima_%28Dec_2024%29.png/revision/latest?cb=20241121184003",Astro Prima
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="AstroOasis" tvg-chno="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"17d5d62dc61954b82ee016da264abd10": "5f35f815699140e2649d825f0d24028e"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="DidikTVKPM" tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest?cb=20210529054804",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -48,7 +60,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1  group-title="FTA/Local" tvg-id="479449" tvg-chno="113" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMFITRAH.jpg?raw=true",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TV_Alhijrah_%282013%29.svg/revision/latest?cb=20240630121348",TV Alhijrah
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -151,9 +163,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 #EXTINF:-1  group-title="Indian" tvg-id="464177" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="463866" tvg-chno="312" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png",B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-
 #EXTINF:-1  group-title="Indian" tvg-id="463994" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5761fa88d426be19ba1d457c027d3049.png",Vasanth TV
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 
@@ -171,9 +180,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1  group-title="Indian" tvg-id="464146" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="464104" tvg-chno="319" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/09b7b007c267d1a78c37726c3301df5b.png",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="DW" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -227,7 +233,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="ABCAustralia" tvg-chno="417" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/488244024_29501497062797379_780752661912306651_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efFpH_zR8iYQ7kNvwFRDF_E&_nc_oc=AdmFEbya8MJdwIMGl3CPlPIAQvGGWkc2TO8fizmUAv3pdOxiNaAuUqmAdE7cOqT94NKbU0_rgu88HloBpnwqVVDy&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=dEkDGPvL31QE9Z51sJq9WQ&oh=00_AfqwANxKAlAiqnxQDFs4gkUHywkFunC-Qdx6DAdV_mKAdA&oe=697FB023",ABC Australia
+#EXTINF:-1  group-title="News" tvg-id="ABCAustralia" tvg-chno="417" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF:-1  group-title="News" tvg-id="412147" tvg-chno="418" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411",Arirang TV
@@ -283,9 +289,6 @@ https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="TRACE.Urban.distro" tvg-chno="605" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-
-#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="606" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/travelxp_4k_wide.png",Travelxp 4K
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
