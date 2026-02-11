@@ -1,226 +1,230 @@
 #EXTM3U
 #EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U  x-tvg-url="https://epg.pw/xmltv/epg.xml",tvg-url="https://epg.pw/xmltv/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="100" tvg-logo="",iSDTV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="100" tvg-logo="",iSDTV
 https://static.vecteezy.com/system/resources/thumbnails/003/582/701/small_2x/coming-soon-background-illustration-template-design-free-vector.jpg
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV1" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=1
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523",TV2
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV2" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="103" tvg-logo="",TV3
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV3" tvg-chno="103" tvg-logo="",TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest?cb=20210529054804",DidikTV KPM
+#EXTINF:-1  group-title="FTA/Local" tvg-id="DidikTVKPM" tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest?cb=20210529054804",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e509735b5f89750d42ace2410ead7210": "1726083509d570b5de4730ab9f338cc3"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/8TV_Malaysia-Chinese.svg/revision/latest?cb=20221104063304",8TV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="8TV" tvg-chno="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/8TV_Malaysia-Chinese.svg/revision/latest?cb=20221104063304",8TV
 http://cdn6.163189.xyz/163189/8tv
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="109" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/TV9.svg/revision/latest?cb=20230307233250",TV9
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV9" tvg-chno="109" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/TV9.svg/revision/latest?cb=20230307233250",TV9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054",TV Okey
+#EXTINF:-1  group-title="FTA/Local" tvg-id="OKEY" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",RTM Apetito
+#EXTINF:-1  group-title="FTA/Local" tvg-id="479619" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",RTM Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="112" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg",RTM Snap
+#EXTINF:-1  group-title="FTA/Local" tvg-id="478717" tvg-chno="112" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg",RTM Fitrah
+#EXTINF:-1  group-title="FTA/Local" tvg-id="479449" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="114" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TV_Alhijrah_%282013%29.svg/revision/latest?cb=20240630121348",TV Alhijrah
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TV_Alhijrah_%282013%29.svg/revision/latest?cb=20240630121348",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="115" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Drama_Hebat.png/revision/latest?cb=20260102080145",Drama Hebat
+#EXTINF:-1  group-title="FTA/Local" tvg-id="DramaHebat" tvg-chno="115" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Drama_Hebat.png/revision/latest?cb=20260102080145",Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+#EXTINF:-1  group-title="FTA/Local" tvg-id="370131" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="117" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg",RTM Aura
+#EXTINF:-1  group-title="FTA/Local" tvg-id="479618" tvg-chno="117" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg",RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="118" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg",RTM Roll
+#EXTINF:-1  group-title="FTA/Local" tvg-id="478719" tvg-chno="118" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg",RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Travel_%26_Taste.png/revision/latest?cb=20260102080638",Travel And Taste
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TravelandTaste" tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Travel_%26_Taste.png/revision/latest?cb=20260102080638",Travel And Taste
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="120" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Filem_Mantap.png/revision/latest?cb=20260102080318",Filem Mentap
+#EXTINF:-1  group-title="FTA/Local" tvg-id="FilemMantap" tvg-chno="120" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Filem_Mantap.png/revision/latest?cb=20260102080318",Filem Mentap
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Lawak_Sentral.png/revision/latest?cb=20260102080509",Lawak Sentral
+#EXTINF:-1  group-title="FTA/Local" tvg-id="LawakSentral" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Lawak_Sentral.png/revision/latest?cb=20260102080509",Lawak Sentral
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="" tvg-chno="122" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_%282024%29.svg/revision/latest/scale-to-width-down/1000?cb=20240614044004",TV Sarawak
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TVS" tvg-chno="122" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_%282024%29.svg/revision/latest/scale-to-width-down/1000?cb=20240614044004",TV Sarawak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
+#EXTINF:-1  group-title="Oriental" tvg-id="AstroAEC" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
 https://smt.1678520.xyz/smt3.2.3.php?id=AEC
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="205" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Drama_Hotpot.png/revision/latest?cb=20260102080231",Drama Hotpot
+#EXTINF:-1  group-title="Oriental" tvg-id="DramaHotpot" tvg-chno="205" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Drama_Hotpot.png/revision/latest?cb=20260102080231",Drama Hotpot
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="206" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Xing_Kong.svg/revision/latest?cb=20230402103445",Xing Kong TV
+#EXTINF:-1  group-title="Oriental" tvg-id="Local.Programming.Dummy.us" tvg-chno="206" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Xing_Kong.svg/revision/latest?cb=20230402103445",Xing Kong TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="207" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
+#EXTINF:-1  group-title="Oriental" tvg-id="AstroHuaHeeDai" tvg-chno="207" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
 https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="208" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
+#EXTINF:-1  group-title="Oriental" tvg-id="iQIYI" tvg-chno="208" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
 https://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K-Plus
+#EXTINF:-1  group-title="Oriental" tvg-id="K-Plus" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K-Plus
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="210" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427",Phoenix Chinese Channel
+#EXTINF:-1  group-title="Oriental" tvg-id="PhoenixChineseChannel" tvg-chno="210" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427",Phoenix Chinese Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest?cb=20200119091533",CCTV-4
+#EXTINF:-1  group-title="Oriental" tvg-id="CCTV4" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest?cb=20200119091533",CCTV-4
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Phoenix_InfoNews_Channel.png/revision/latest/scale-to-width-down/1000?cb=20221122014417&path-prefix=vi",Phoenix InfoNews
+#EXTINF:-1  group-title="Oriental" tvg-id="PhoenixInfoNews" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Phoenix_InfoNews_Channel.png/revision/latest/scale-to-width-down/1000?cb=20221122014417&path-prefix=vi",Phoenix InfoNews
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
+#EXTINF:-1  group-title="Oriental" tvg-id="KBSWorld" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
+#EXTINF:-1  group-title="Oriental" tvg-id="ONE" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8 
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="216" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg",New KPOP
+#EXTINF:-1  group-title="Oriental" tvg-id="plex.tv.NEW.K-POP.plex" tvg-chno="216" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg",New KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
+#EXTINF:-1  group-title="Oriental" tvg-id="TVBXingHe" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
 https://cdn6.163189.xyz/163189/tvbxh
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi",CCM
+#EXTINF:-1  group-title="Oriental" tvg-id="CCM" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi",CCM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="227" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
+#EXTINF:-1  group-title="Oriental" tvg-id="CelestialMovies" tvg-chno="227" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c8f1ae2e296bb1e53f5dea441f95fcd4.png",Makkal TV
+#EXTINF:-1  group-title="Indian" tvg-id="Makkal.TV.in" tvg-chno="304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c8f1ae2e296bb1e53f5dea441f95fcd4.png",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="305" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
+#EXTINF:-1  group-title="Indian" tvg-id="412116" tvg-chno="305" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436",Puthiya Thalaimurai TV
+#EXTINF:-1  group-title="Indian" tvg-id="463960" tvg-chno="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436",Puthiya Thalaimurai TV
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
+#EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
+#EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
+#EXTINF:-1  group-title="Indian" tvg-id="464156" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg/revision/latest?cb=20191217211703",PTC Punjabi Gold
+#EXTINF:-1  group-title="Indian" tvg-id="463854" tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg/revision/latest?cb=20191217211703",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
+#EXTINF:-1  group-title="Indian" tvg-id="464177" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="312" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png",B4U Music
+#EXTINF:-1  group-title="Indian" tvg-id="463866" tvg-chno="312" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5761fa88d426be19ba1d457c027d3049.png",Vasanth TV
+#EXTINF:-1  group-title="Indian" tvg-id="463994" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5761fa88d426be19ba1d457c027d3049.png",Vasanth TV
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
+#EXTINF:-1  group-title="Indian" tvg-id="441317" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
+#EXTINF:-1  group-title="Indian" tvg-id="YRF.Music.distro" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="316" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest?cb=20181116224348",Bollywood HD
+#EXTINF:-1  group-title="Indian" tvg-id="Bollywood.HD.distro" tvg-chno="316" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest?cb=20181116224348",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
+#EXTINF:-1  group-title="Indian" tvg-id="464146" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="" tvg-chno="319" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/09b7b007c267d1a78c37726c3301df5b.png",B4U Movies
+#EXTINF:-1  group-title="Indian" tvg-id="464104" tvg-chno="319" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/09b7b007c267d1a78c37726c3301df5b.png",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
+#EXTINF:-1  group-title="News" tvg-id="DW" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="402" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/France_24_in_English.svg/revision/latest?cb=20231031204651",France 24 English
+#EXTINF:-1  group-title="News" tvg-id="France24" tvg-chno="402" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/France_24_in_English.svg/revision/latest?cb=20231031204651",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="403" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg/revision/latest?cb=20230131161916",Euronews
+#EXTINF:-1  group-title="News" tvg-id="Euronews.distro" tvg-chno="403" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg/revision/latest?cb=20230131161916",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="404" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_Awani_%282026%29.png/revision/latest?cb=20251231175003",Astro Awani
+#EXTINF:-1  group-title="News" tvg-id="AstroAwani" tvg-chno="404" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_Awani_%282026%29.png/revision/latest?cb=20251231175003",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_2.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="405" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg",RTM Lead
+#EXTINF:-1  group-title="News" tvg-id="478718" tvg-chno="405" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg",RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN
+#EXTINF:-1  group-title="News" tvg-id="CGTN" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="407" tvg-logo="https://github.com/astroaqilfans2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/GLOBALBIZ.jpg?raw=true",CGTN Global Biz
+#EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="407" tvg-logo="https://github.com/astroaqilfans2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/GLOBALBIZ.jpg?raw=true",CGTN Global Biz
 https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="408" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
+#EXTINF:-1  group-title="News" tvg-id="BernamaTV" tvg-chno="408" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="409" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest?cb=20220425110627",BBC News
+#EXTINF:-1  group-title="News" tvg-id="BBCNews" tvg-chno="409" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest?cb=20220425110627",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="410" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",Channel NewsAsia
+#EXTINF:-1  group-title="News" tvg-id="CNA" tvg-chno="410" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
+#EXTINF:-1  group-title="News" tvg-id="370132" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="412" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",RTM Parlimen Dewan Rakyat
+#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="412" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",RTM Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b346000_slENG.m3u8?id=7
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="413" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",RTM Parlimen Dewan Negara
+#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="413" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",RTM Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="414" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938",Al Jazeera English
+#EXTINF:-1  group-title="News" tvg-id="AlJazeeraEnglish" tvg-chno="414" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="415" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest?cb=20100524171519",Bloomberg TV Asia
+#EXTINF:-1  group-title="News" tvg-id="BloombergTV" tvg-chno="415" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest?cb=20100524171519",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
+#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="" tvg-chno="417" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/488244024_29501497062797379_780752661912306651_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efFpH_zR8iYQ7kNvwFRDF_E&_nc_oc=AdmFEbya8MJdwIMGl3CPlPIAQvGGWkc2TO8fizmUAv3pdOxiNaAuUqmAdE7cOqT94NKbU0_rgu88HloBpnwqVVDy&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=dEkDGPvL31QE9Z51sJq9WQ&oh=00_AfqwANxKAlAiqnxQDFs4gkUHywkFunC-Qdx6DAdV_mKAdA&oe=697FB023",ABC Australia
+#EXTINF:-1  group-title="News" tvg-id="ABCAustralia" tvg-chno="417" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/488244024_29501497062797379_780752661912306651_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efFpH_zR8iYQ7kNvwFRDF_E&_nc_oc=AdmFEbya8MJdwIMGl3CPlPIAQvGGWkc2TO8fizmUAv3pdOxiNaAuUqmAdE7cOqT94NKbU0_rgu88HloBpnwqVVDy&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=dEkDGPvL31QE9Z51sJq9WQ&oh=00_AfqwANxKAlAiqnxQDFs4gkUHywkFunC-Qdx6DAdV_mKAdA&oe=697FB023",ABC Australia
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF:-1  group-title="Learning" tvg-id="" tvg-chno="503" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",NatureTime
