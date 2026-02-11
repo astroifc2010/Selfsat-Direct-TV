@@ -190,7 +190,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1  group-title="News" tvg-id="CGTN" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="407" tvg-logo="https://github.com/astroaqilfans2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/GLOBALBIZ.jpg?raw=true",CGTN Global Biz
+#EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="407" tvg-logo="",CGTN Global Biz
 https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1  group-title="News" tvg-id="BernamaTV" tvg-chno="408" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
@@ -227,139 +227,139 @@ https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 #EXTINF:-1  group-title="News" tvg-id="ABCAustralia" tvg-chno="417" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/488244024_29501497062797379_780752661912306651_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efFpH_zR8iYQ7kNvwFRDF_E&_nc_oc=AdmFEbya8MJdwIMGl3CPlPIAQvGGWkc2TO8fizmUAv3pdOxiNaAuUqmAdE7cOqT94NKbU0_rgu88HloBpnwqVVDy&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=dEkDGPvL31QE9Z51sJq9WQ&oh=00_AfqwANxKAlAiqnxQDFs4gkUHywkFunC-Qdx6DAdV_mKAdA&oe=697FB023",ABC Australia
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
-#EXTINF:-1  group-title="Learning" tvg-id="" tvg-chno="503" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",NatureTime
+#EXTINF:-1  group-title="Learning" tvg-id="Local.Programming.Dummy.us" tvg-chno="503" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
-#EXTINF:-1  group-title="Learning" tvg-id="" tvg-chno="504" tvg-logo="https://github.com/astroaqilfans2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/DISCOVERINGCHINA.jpg?raw=true",CGTN Discovering China
+#EXTINF:-1  group-title="Learning" tvg-id="Discovering.China.distro" tvg-chno="504" tvg-logo="",CGTN Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/CGTN_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
-#EXTINF:-1  group-title="Learning" tvg-id="" tvg-chno="505" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest?cb=20210818141459",CGTN Documentary
+#EXTINF:-1  group-title="Learning" tvg-id="CGTNDocumentary" tvg-chno="505" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest?cb=20210818141459",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1  group-title="Learning" tvg-id="" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
+#EXTINF:-1  group-title="Learning" tvg-id="BBCEarth" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="551" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst
+#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="551" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest?cb=20260123044400",CBeebies
+#EXTINF:-1  group-title="Kids" tvg-id="CBeebies" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest?cb=20260123044400",CBeebies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="553" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",RTM Jr.
+#EXTINF:-1  group-title="Kids" tvg-id="502308" tvg-chno="553" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",RTM Jr.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",Oh My Ceria
+#EXTINF:-1  group-title="Kids" tvg-id="OhMyCeria" tvg-chno="554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",Oh My Ceria
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
+#EXTINF:-1  group-title="Kids" tvg-id="NickJr" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
+#EXTINF:-1  group-title="Kids" tvg-id="465350" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
 https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/chunks.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="562" tvg-logo="https://github.com/astroaqilfans2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/KIDDOPLUS.jpg?raw=true",Kiddo Plus
+#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="562" tvg-logo="",Kiddo Plus
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
+#EXTINF:-1  group-title="Kids" tvg-id="171962" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
+#EXTINF:-1  group-title="Variety" tvg-id="AXN" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="603" tvg-logo="https://m.media-amazon.com/images/S/amzn-author-media-prod/gtcf53han7skgemu365vmrvsok._SY450_CR0%2C0%2C450%2C450_.jpg",Tastemade
+#EXTINF:-1  group-title="Variety" tvg-id="plex.tv.Tastemade.plex" tvg-chno="603" tvg-logo="https://m.media-amazon.com/images/S/amzn-author-media-prod/gtcf53han7skgemu365vmrvsok._SY450_CR0%2C0%2C450%2C450_.jpg",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
+#EXTINF:-1  group-title="Variety" tvg-id="AFN" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
 https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="605" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
+#EXTINF:-1  group-title="Variety" tvg-id="TRACE.Urban.distro" tvg-chno="605" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="606" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/travelxp_4k_wide.png",Travelxp 4K
+#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="606" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/travelxp_4k_wide.png",Travelxp 4K
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
+#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
+#EXTINF:-1  group-title="Variety" tvg-id="BBCLifestyle" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
+#EXTINF:-1  group-title="Variety" tvg-id="Gusto.TV.distro" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="614" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Stingray_Classica_RGB-02.svg/revision/latest?cb=20191120223259",Stingray Classica
+#EXTINF:-1  group-title="Variety" tvg-id="Classica.distro" tvg-chno="614" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Stingray_Classica_RGB-02.svg/revision/latest?cb=20191120223259",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
+#EXTINF:-1  group-title="Variety" tvg-id="171865" tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="616" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127",TravelXP HD
+#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="616" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127",TravelXP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="617" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942",Rock Entertainment
+#EXTINF:-1  group-title="Variety" tvg-id="171917" tvg-chno="617" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="618" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829",Rock Action
+#EXTINF:-1  group-title="Variety" tvg-id="171977" tvg-chno="618" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
+#EXTINF:-1  group-title="Variety" tvg-id="Qello.distro" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/NOW_Rock.png/revision/latest?cb=20221227132922",Now Rock
+#EXTINF:-1  group-title="Variety" tvg-id="492913" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/NOW_Rock.png/revision/latest?cb=20221227132922",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest/scale-to-width-down/1000?cb=20240802061617",KCM
+#EXTINF:-1  group-title="Variety" tvg-id="KCM.in" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest/scale-to-width-down/1000?cb=20240802061617",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="622" tvg-logo="https://github.com/astroaqilfans2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/CHINATRAVEL.jpg?raw=true",CGTN China Travel
+#EXTINF:-1  group-title="Variety" tvg-id="China.Travel.distro" tvg-chno="622" tvg-logo="",CGTN China Travel
 https://ml-pull-hwc.myco.io/CGTN5/hls/CGTN5_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="623" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/NOW_70s_2022.png/revision/latest/scale-to-width-down/250?cb=20220601014433",Now 70s
+#EXTINF:-1  group-title="Variety" tvg-id="492912" tvg-chno="623" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/NOW_70s_2022.png/revision/latest/scale-to-width-down/250?cb=20220601014433",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="624" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png/revision/latest?cb=20180102212624",Now 80s
+#EXTINF:-1  group-title="Variety" tvg-id="492911" tvg-chno="624" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png/revision/latest?cb=20180102212624",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="" tvg-chno="625" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t1.6435-9/135207035_3426408424152016_6993270599073988848_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=6Q18J6yOdiQQ7kNvwGveidQ&_nc_oc=AdnrAxsYMZNWlXpwSvlYW00wWttRc8E0fC0kcSZ2toFB0DMZF1kZYY4I04emCXk6WHwARYw0WBxmSuk-PETkioFC&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=etqFkUr1elw1R-K6BFnvwg&oh=00_AfpV_GKjUqhk_AnIzlR-FVRndbwoQbQqPi1Oi3RaDQDZlA&oe=699EC973",Drybar Comedy
+#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="625" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t1.6435-9/135207035_3426408424152016_6993270599073988848_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=6Q18J6yOdiQQ7kNvwGveidQ&_nc_oc=AdnrAxsYMZNWlXpwSvlYW00wWttRc8E0fC0kcSZ2toFB0DMZF1kZYY4I04emCXk6WHwARYw0WBxmSuk-PETkioFC&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=etqFkUr1elw1R-K6BFnvwg&oh=00_AfpV_GKjUqhk_AnIzlR-FVRndbwoQbQqPi1Oi3RaDQDZlA&oe=699EC973",Drybar Comedy
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="" tvg-chno="651" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
+#EXTINF:-1  group-title="Movies" tvg-id="105812" tvg-chno="651" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204",Thrill
+#EXTINF:-1  group-title="Movies" tvg-id="171864" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204",Thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="" tvg-chno="653" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Miramax_2022.svg/revision/latest?cb=20221029144725",Miramax Movie Channel
+#EXTINF:-1  group-title="Movies" tvg-id="plex.tv.Miramax.Movie.Channel.plex" tvg-chno="653" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Miramax_2022.svg/revision/latest?cb=20221029144725",Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="" tvg-chno="654" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000114M_20220329T055323SQUARE.png_20220329055323.png&h=250",Action Hollywood Movies
+#EXTINF:-1  group-title="Movies" tvg-id="492910" tvg-chno="654" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000114M_20220329T055323SQUARE.png_20220329055323.png&h=250",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
+#EXTINF:-1  group-title="Sports" tvg-id="370133" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",BeIN Sports Xtra
+#EXTINF:-1  group-title="Sports" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",BeIN Sports Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="703" tvg-logo="https://images-platform.99static.com/ujD9bZTDL0BrLcALM8QZ0IsceWc=/21x797:701x1477/500x500/top/smart/99designs-contests-attachments/158/158349/attachment_158349780",Bowling TV
+#EXTINF:-1  group-title="Sports" tvg-id="494592" tvg-chno="703" tvg-logo="https://images-platform.99static.com/ujD9bZTDL0BrLcALM8QZ0IsceWc=/21x797:701x1477/500x500/top/smart/99designs-contests-attachments/158/158349/attachment_158349780",Bowling TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
+#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Trace_Sports_Stars.svg/revision/latest?cb=20191113143747",Trace Sports Stars
+#EXTINF:-1  group-title="Sports" tvg-id="492896" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Trace_Sports_Stars.svg/revision/latest?cb=20191113143747",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="712" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/MTRSPT1_blkred_rgb-1024x410.png/revision/latest?cb=20240918151831",MTRSPT1
+#EXTINF:-1  group-title="Sports" tvg-id="MTRSPT1.distro" tvg-chno="712" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/MTRSPT1_blkred_rgb-1024x410.png/revision/latest?cb=20240918151831",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="713" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
+#EXTINF:-1  group-title="Sports" tvg-id="412181" tvg-chno="713" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="714" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
+#EXTINF:-1  group-title="Sports" tvg-id="171940" tvg-chno="714" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="715" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",SPOTV2
+#EXTINF:-1  group-title="Sports" tvg-id="412187" tvg-chno="715" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="801" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
