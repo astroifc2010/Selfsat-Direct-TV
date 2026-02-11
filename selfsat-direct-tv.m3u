@@ -6,7 +6,7 @@
 #EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U  x-tvg-url="",tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="100" tvg-logo="",iSDTV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
 https://static.vecteezy.com/system/resources/thumbnails/003/582/701/small_2x/coming-soon-background-illustration-template-design-free-vector.jpg
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TV1" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
@@ -15,7 +15,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TV2" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV3" tvg-chno="103" tvg-logo="",TV3
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV3" tvg-chno="103" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TV3%20Logo%20Remake%20(2010-2014).png?raw=true",TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -39,13 +39,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="OKEY" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="479619" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",RTM Apetito
+#EXTINF:-1  group-title="FTA/Local" tvg-id="479619" tvg-chno="111" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAPETITO.jpg?raw=true",RTM Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="478717" tvg-chno="112" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg",RTM Snap
+#EXTINF:-1  group-title="FTA/Local" tvg-id="478717" tvg-chno="112" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMSNAP.jpg?raw=true",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="479449" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg",RTM Fitrah
+#EXTINF:-1  group-title="FTA/Local" tvg-id="479449" tvg-chno="113" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMFITRAH.jpg?raw=true",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TV_Alhijrah_%282013%29.svg/revision/latest?cb=20240630121348",TV Alhijrah
@@ -60,10 +60,10 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1  group-title="FTA/Local" tvg-id="370131" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="479618" tvg-chno="117" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg",RTM Aura
+#EXTINF:-1  group-title="FTA/Local" tvg-id="479618" tvg-chno="117" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAURA.jpg?raw=true",RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="478719" tvg-chno="118" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg",RTM Roll
+#EXTINF:-1  group-title="FTA/Local" tvg-id="478719" tvg-chno="118" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMROLL.jpg?raw=true",RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TravelandTaste" tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Travel_%26_Taste.png/revision/latest?cb=20260102080638",Travel And Taste
@@ -115,7 +115,7 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1  group-title="Oriental" tvg-id="ONE" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8 
 
-#EXTINF:-1  group-title="Oriental" tvg-id="plex.tv.NEW.K-POP.plex" tvg-chno="216" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg",New KPOP
+#EXTINF:-1  group-title="Oriental" tvg-id="plex.tv.NEW.K-POP.plex" tvg-chno="216" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/NEWKPOP.png?raw=true",New KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="Oriental" tvg-id="TVBXingHe" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
@@ -158,13 +158,16 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="441317" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="YRF.Music.distro" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Bollywood.HD.distro" tvg-chno="316" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest?cb=20181116224348",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="Shemaroo.Bollywood.in" tvg-chno="316" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8?ads.vf=XKHddsaKvTu
+
+#EXTINF:-1  group-title="Indian" tvg-id="Shemaroo.Filmy.Gaane.in" tvg-chno="317" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",Shemaroo Filmi Gaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8?ads.vf=XvjJifm4b-C
 
 #EXTINF:-1  group-title="Indian" tvg-id="464146" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
@@ -179,18 +182,18 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Euronews.distro" tvg-chno="403" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg/revision/latest?cb=20230131161916",Euronews
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=wcz9wNOQ76u
 
 #EXTINF:-1  group-title="News" tvg-id="AstroAwani" tvg-chno="404" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_Awani_%282026%29.png/revision/latest?cb=20251231175003",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_2.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="478718" tvg-chno="405" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg",RTM Lead
+#EXTINF:-1  group-title="News" tvg-id="478718" tvg-chno="405" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMLEAD.jpg?raw=true",RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="CGTN" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="407" tvg-logo="",CGTN Global Biz
+#EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="407" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/GLOBALBIZ.jpg?raw=true",CGTN Global Biz
 https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1  group-title="News" tvg-id="BernamaTV" tvg-chno="408" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
@@ -227,10 +230,13 @@ https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 #EXTINF:-1  group-title="News" tvg-id="ABCAustralia" tvg-chno="417" tvg-logo="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/488244024_29501497062797379_780752661912306651_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efFpH_zR8iYQ7kNvwFRDF_E&_nc_oc=AdmFEbya8MJdwIMGl3CPlPIAQvGGWkc2TO8fizmUAv3pdOxiNaAuUqmAdE7cOqT94NKbU0_rgu88HloBpnwqVVDy&_nc_zt=23&_nc_ht=scontent.fbki2-1.fna&_nc_gid=dEkDGPvL31QE9Z51sJq9WQ&oh=00_AfqwANxKAlAiqnxQDFs4gkUHywkFunC-Qdx6DAdV_mKAdA&oe=697FB023",ABC Australia
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
+#EXTINF:-1  group-title="News" tvg-id="412147" tvg-chno="418" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411",Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
+
 #EXTINF:-1  group-title="Learning" tvg-id="Local.Programming.Dummy.us" tvg-chno="503" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
-#EXTINF:-1  group-title="Learning" tvg-id="Discovering.China.distro" tvg-chno="504" tvg-logo="",CGTN Discovering China
+#EXTINF:-1  group-title="Learning" tvg-id="Discovering.China.distro" tvg-chno="504" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/DISCOVERINGCHINA.jpg?raw=true",CGTN Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/CGTN_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1  group-title="Learning" tvg-id="CGTNDocumentary" tvg-chno="505" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest?cb=20210818141459",CGTN Documentary
@@ -245,11 +251,14 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 #EXTINF:-1  group-title="Kids" tvg-id="CBeebies" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest?cb=20260123044400",CBeebies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="502308" tvg-chno="553" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",RTM Jr.
+#EXTINF:-1  group-title="Kids" tvg-id="502308" tvg-chno="553" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMJR.jpg?raw=true",RTM Jr.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="OhMyCeria" tvg-chno="554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",Oh My Ceria
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#EXTINF:-1  group-title="Kids" tvg-id="411919" tvg-chno="555" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest?cb=20221226165505",Da Vinci TV
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="NickJr" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
@@ -257,7 +266,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 #EXTINF:-1  group-title="Kids" tvg-id="465350" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
 https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/chunks.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="562" tvg-logo="",Kiddo Plus
+#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="562" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/KIDDOPLUS.jpg?raw=true",Kiddo Plus
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="171962" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
@@ -266,7 +275,7 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1  group-title="Variety" tvg-id="AXN" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="plex.tv.Tastemade.plex" tvg-chno="603" tvg-logo="https://m.media-amazon.com/images/S/amzn-author-media-prod/gtcf53han7skgemu365vmrvsok._SY450_CR0%2C0%2C450%2C450_.jpg",Tastemade
+#EXTINF:-1  group-title="Variety" tvg-id="plex.tv.Tastemade.plex" tvg-chno="603" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TASTEMADE.png?raw=true",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="AFN" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
@@ -283,6 +292,9 @@ https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video
 
 #EXTINF:-1  group-title="Variety" tvg-id="BBCLifestyle" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+
+#EXTINF:-1  group-title="Variety" tvg-id="171877" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Gusto.TV.distro" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
@@ -311,7 +323,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Variety" tvg-id="KCM.in" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest/scale-to-width-down/1000?cb=20240802061617",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="China.Travel.distro" tvg-chno="622" tvg-logo="",CGTN China Travel
+#EXTINF:-1  group-title="Variety" tvg-id="China.Travel.distro" tvg-chno="622" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/CHINATRAVEL.jpg?raw=true",CGTN China Travel
 https://ml-pull-hwc.myco.io/CGTN5/hls/CGTN5_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1  group-title="Variety" tvg-id="492912" tvg-chno="623" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/NOW_70s_2022.png/revision/latest/scale-to-width-down/250?cb=20220601014433",Now 70s
@@ -341,8 +353,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 #EXTINF:-1  group-title="Sports" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",BeIN Sports Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="494592" tvg-chno="703" tvg-logo="https://images-platform.99static.com/ujD9bZTDL0BrLcALM8QZ0IsceWc=/21x797:701x1477/500x500/top/smart/99designs-contests-attachments/158/158349/attachment_158349780",Bowling TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8
+#EXTINF:-1  group-title="Sports" tvg-id="494592" tvg-chno="703" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/BOWLINGTV.png?raw=true",Bowling TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8?ads.vf=18RSBHgmEAW
 
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
@@ -430,3 +442,6 @@ https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8
 
 #EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="823" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Kool_FM_%282025%29.svg/revision/latest?cb=20251104052647",Kool FM
 https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
+
+#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="824" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest?cb=20220103100925",Molek FM
+https://stream.rcs.revma.com/z56xa78mtd3vv
