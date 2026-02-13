@@ -1,12 +1,12 @@
-#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml, https://epg.pw/xmltv/epg.xml, https://epg.pw/xmltv/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="2" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" 
+#EXTM3U  x-tvg-url="https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="2" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" 
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="NatureStream.tv.distro" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="NatureStream.tv.distro" tvg-chno="100" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3E365F9C-E1F6-434F-9C51-0F331DCCBC2C/3-1x1.png/900",NatureStream.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV1" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
+#EXTINF:-1  group-title="FTA/Local" tvg-id="101.astro" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=1
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV2" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523",TV2
+#EXTINF:-1  group-title="FTA/Local" tvg-id="102.astro" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="103.astro" tvg-chno="103" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TV3%20Logo%20Remake%20(2010-2014).png?raw=true",TV3
@@ -15,42 +15,42 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="AstroRia" tvg-chno="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Astro_Ria_%28Nov_2024%29.png/revision/latest?cb=20241121174644",Astro Ria
+#EXTINF:-1  group-title="FTA/Local" tvg-id="104.astro" tvg-chno="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Astro_Ria_%28Nov_2024%29.png/revision/latest?cb=20241121174644",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d5249cb40505495494828f42c37087cb": "d59f6a7bed00bd5348355ab5b3ee6aa0"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://load.perfecttv.net/mpd/ria/manifest.mpd
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="AstroPrima" tvg-chno="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Prima_%28Dec_2024%29.png/revision/latest?cb=20241121184003",Astro Prima
+#EXTINF:-1  group-title="FTA/Local" tvg-id="105.astro" tvg-chno="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Prima_%28Dec_2024%29.png/revision/latest?cb=20241121184003",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50": "fc9eaf659647c675315f65747c2553da"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://load.perfecttv.net/mpd/prima/manifest.mpd
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="AstroOasis" tvg-chno="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
+#EXTINF:-1  group-title="FTA/Local" tvg-id="106.astro" tvg-chno="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"17d5d62dc61954b82ee016da264abd10": "5f35f815699140e2649d825f0d24028e"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="DidikTVKPM" tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest?cb=20210529054804",DidikTV KPM
+#EXTINF:-1  group-title="FTA/Local" tvg-id="147.astro" tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest?cb=20210529054804",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e509735b5f89750d42ace2410ead7210": "1726083509d570b5de4730ab9f338cc3"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="8TV" tvg-chno="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/8TV_Malaysia-Chinese.svg/revision/latest?cb=20221104063304",8TV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/8TV_Malaysia-Chinese.svg/revision/latest?cb=20221104063304",8TV
 http://cdn6.163189.xyz/163189/8tv
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV9" tvg-chno="109" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/TV9.svg/revision/latest?cb=20230307233250",TV9
+#EXTINF:-1  group-title="FTA/Local" tvg-id="149.astro" tvg-chno="109" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/TV9.svg/revision/latest?cb=20230307233250",TV9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="OKEY" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054",TV Okey
+#EXTINF:-1  group-title="FTA/Local" tvg-id="146.astro" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="479619" tvg-chno="111" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAPETITO.jpg?raw=true",RTM Apetito
@@ -62,7 +62,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1  group-title="FTA/Local" tvg-id="479449" tvg-chno="113" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMFITRAH.jpg?raw=true",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",TV Alhijrah
+#EXTINF:-1  group-title="FTA/Local" tvg-id="114.astro" tvg-chno="114" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -71,7 +71,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="509.sooka" tvg-chno="115" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Drama_Hebat.png/revision/latest?cb=20260102080145",Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="370131" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="479618" tvg-chno="117" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAURA.jpg?raw=true",RTM Aura
@@ -89,14 +89,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1  group-title="FTA/Local" tvg-id="511.sooka" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Lawak_Sentral.png/revision/latest?cb=20260102080509",Lawak Sentral
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TVS" tvg-chno="122" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_%282024%29.svg/revision/latest/scale-to-width-down/1000?cb=20240614044004",TV Sarawak
+#EXTINF:-1  group-title="FTA/Local" tvg-id="122.astro" tvg-chno="122" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_%282024%29.svg/revision/latest/scale-to-width-down/1000?cb=20240614044004",TV Sarawak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="AstroAEC" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
+
+#EXTINF:-1  group-title="Oriental" tvg-id="306.astro" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
 https://smt.1678520.xyz/smt3.2.3.php?id=AEC
 
 #EXTINF:-1  group-title="Oriental" tvg-id="512.sooka" tvg-chno="205" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Drama_Hotpot.png/revision/latest?cb=20260102080231",Drama Hotpot
@@ -109,49 +111,49 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key={"9d267de2a8184683bd8de9ff6a761b2a": "ff83fafbef57e24fc626a9f589ca1da9"}
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Seti
 
-#EXTINF:-1  group-title="Oriental" tvg-id="AstroHuaHeeDai" tvg-chno="207" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
+#EXTINF:-1  group-title="Oriental" tvg-id="333.astro" tvg-chno="207" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
 https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
 
-#EXTINF:-1  group-title="Oriental" tvg-id="iQIYI" tvg-chno="208" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
+#EXTINF:-1  group-title="Oriental" tvg-id="300.astro" tvg-chno="208" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
 https://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
 
-#EXTINF:-1  group-title="Oriental" tvg-id="K-Plus" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K-Plus
+#EXTINF:-1  group-title="Oriental" tvg-id="396.astro" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K-Plus
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="PhoenixChineseChannel" tvg-chno="210" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427",Phoenix Chinese Channel
+#EXTINF:-1  group-title="Oriental" tvg-id="325.astro" tvg-chno="210" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427",Phoenix Chinese Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="CCTV4" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest?cb=20200119091533",CCTV-4
+#EXTINF:-1  group-title="Oriental" tvg-id="335.astro" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest?cb=20200119091533",CCTV-4
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
-#EXTINF:-1  group-title="Oriental" tvg-id="PhoenixInfoNews" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Phoenix_InfoNews_Channel.png/revision/latest/scale-to-width-down/1000?cb=20221122014417&path-prefix=vi",Phoenix InfoNews
+#EXTINF:-1  group-title="Oriental" tvg-id="326.astro" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Phoenix_InfoNews_Channel.png/revision/latest/scale-to-width-down/1000?cb=20221122014417&path-prefix=vi",Phoenix InfoNews
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="KBSWorld" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
+#EXTINF:-1  group-title="Oriental" tvg-id="392.astro" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="ONE" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
+#EXTINF:-1  group-title="Oriental" tvg-id="393.astro" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8 
 
 #EXTINF:-1  group-title="Oriental" tvg-id="plex.tv.NEW.K-POP.plex" tvg-chno="216" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/NEWKPOP.png?raw=true",New KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="TVBXingHe" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
+#EXTINF:-1  group-title="Oriental" tvg-id="319.astro" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
 https://cdn6.163189.xyz/163189/tvbxh
 
-#EXTINF:-1  group-title="Oriental" tvg-id="CCM" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi",CCM
+#EXTINF:-1  group-title="Oriental" tvg-id="321.astro" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi",CCM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 
-#EXTINF:-1  group-title="Oriental" tvg-id="CelestialMovies" tvg-chno="227" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
+#EXTINF:-1  group-title="Oriental" tvg-id="309.astro" tvg-chno="227" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Makkal.TV.in" tvg-chno="304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c8f1ae2e296bb1e53f5dea441f95fcd4.png",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="412116" tvg-chno="305" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
+#EXTINF:-1  group-title="Indian" tvg-id="Kalaignar.TV.in" tvg-chno="305" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="463960" tvg-chno="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436",Puthiya Thalaimurai TV
+#EXTINF:-1  group-title="Indian" tvg-id="Puthiya.Thalimurai.in" tvg-chno="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436",Puthiya Thalaimurai TV
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
@@ -160,19 +162,19 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/inde
 #EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="464156" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
+#EXTINF:-1  group-title="Indian" tvg-id="PTC.Punjabi.in" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="463854" tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg/revision/latest?cb=20191217211703",PTC Punjabi Gold
+#EXTINF:-1  group-title="Indian" tvg-id="PTC.Punjabi.Gold.in" tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg/revision/latest?cb=20191217211703",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="464177" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
+#EXTINF:-1  group-title="Indian" tvg-id="KALAIGNAR.CHITHIRAM.in" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="463994" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5761fa88d426be19ba1d457c027d3049.png",Vasanth TV
+#EXTINF:-1  group-title="Indian" tvg-id="Vasanth.TV.in" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5761fa88d426be19ba1d457c027d3049.png",Vasanth TV
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="441317" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
+#EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="YRF.Music.distro" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
@@ -184,44 +186,44 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  group-title="Indian" tvg-id="Shemaroo.Filmy.Gaane.in" tvg-chno="317" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",Shemaroo Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8?ads.vf=XvjJifm4b-C
 
-#EXTINF:-1  group-title="Indian" tvg-id="464146" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
+#EXTINF:-1  group-title="Indian" tvg-id="MURASU.in" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="DW" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
+#EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="France24" tvg-chno="402" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/France_24_in_English.svg/revision/latest?cb=20231031204651",France 24 English
+#EXTINF:-1  group-title="News" tvg-id="522.astro" tvg-chno="402" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/France_24_in_English.svg/revision/latest?cb=20231031204651",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Euronews.distro" tvg-chno="403" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg/revision/latest?cb=20230131161916",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=wcz9wNOQ76u
 
-#EXTINF:-1  group-title="News" tvg-id="AstroAwani" tvg-chno="404" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_Awani_%282026%29.png/revision/latest?cb=20251231175003",Astro Awani
+#EXTINF:-1  group-title="News" tvg-id="501.astro" tvg-chno="404" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_Awani_%282026%29.png/revision/latest?cb=20251231175003",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_2.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="478718" tvg-chno="405" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMLEAD.jpg?raw=true",RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="CGTN" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN
+#EXTINF:-1  group-title="News" tvg-id="503.astro" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="407" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/GLOBALBIZ.jpg?raw=true",CGTN Global Biz
 https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
-#EXTINF:-1  group-title="News" tvg-id="BernamaTV" tvg-chno="408" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
+#EXTINF:-1  group-title="News" tvg-id="502.astro" tvg-chno="408" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="BBCNews" tvg-chno="409" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest?cb=20220425110627",BBC News
+#EXTINF:-1  group-title="News" tvg-id="512.astro" tvg-chno="409" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest?cb=20220425110627",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="CNA" tvg-chno="410" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",Channel NewsAsia
+#EXTINF:-1  group-title="News" tvg-id="515.astro" tvg-chno="410" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="370132" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
+#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
 
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="412" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",RTM Parlimen Dewan Rakyat
@@ -230,19 +232,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b346000_slENG.m3u8?i
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="413" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",RTM Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
-#EXTINF:-1  group-title="News" tvg-id="AlJazeeraEnglish" tvg-chno="414" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938",Al Jazeera English
+#EXTINF:-1  group-title="News" tvg-id="513.astro" tvg-chno="414" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="BloombergTV" tvg-chno="415" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest?cb=20100524171519",Bloomberg TV Asia
+#EXTINF:-1  group-title="News" tvg-id="517.astro" tvg-chno="415" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest?cb=20100524171519",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="ABCAustralia" tvg-chno="417" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
+#EXTINF:-1  group-title="News" tvg-id="518.astro" tvg-chno="417" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
-#EXTINF:-1  group-title="News" tvg-id="412147" tvg-chno="418" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411",Arirang TV
+#EXTINF:-1  group-title="News" tvg-id="Arirang.id" tvg-chno="418" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411",Arirang TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1  group-title="Learning" tvg-id="Local.Programming.Dummy.us" tvg-chno="503" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",NatureTime
@@ -251,16 +253,16 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #EXTINF:-1  group-title="Learning" tvg-id="Discovering.China.distro" tvg-chno="504" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/DISCOVERINGCHINA.jpg?raw=true",CGTN Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/CGTN_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
-#EXTINF:-1  group-title="Learning" tvg-id="CGTNDocumentary" tvg-chno="505" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest?cb=20210818141459",CGTN Documentary
+#EXTINF:-1  group-title="Learning" tvg-id="556.astro" tvg-chno="505" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest?cb=20210818141459",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1  group-title="Learning" tvg-id="BBCEarth" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
+#EXTINF:-1  group-title="Learning" tvg-id="554.astro" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="551" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="CBeebies" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest?cb=20260123044400",CBeebies
+#EXTINF:-1  group-title="Kids" tvg-id="620.astro" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest?cb=20260123044400",CBeebies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="502308" tvg-chno="553" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMJR.jpg?raw=true",RTM Jr.
@@ -269,10 +271,10 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1  group-title="Kids" tvg-id="528.sooka" tvg-chno="554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",Oh My Ceria
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1  group-title="Kids" tvg-id="411919" tvg-chno="555" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest?cb=20221226165505",Da Vinci TV
+#EXTINF:-1  group-title="Kids" tvg-id="Da.Vinci.Learning.id" tvg-chno="555" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest?cb=20221226165505",Da Vinci TV
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="NickJr" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
+#EXTINF:-1  group-title="Kids" tvg-id="617.astro" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="465350" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
@@ -281,16 +283,16 @@ https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="562" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/KIDDOPLUS.jpg?raw=true",Kiddo Plus
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="171962" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
+#EXTINF:-1  group-title="Kids" tvg-id="Zoomoo.id" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="AXN" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
+#EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="plex.tv.Tastemade.plex" tvg-chno="603" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TASTEMADE.png?raw=true",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="AFN" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
+#EXTINF:-1  group-title="Variety" tvg-id="709.astro" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
 https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="TRACE.Urban.distro" tvg-chno="605" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
@@ -299,10 +301,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="BBCLifestyle" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
+#EXTINF:-1  group-title="Variety" tvg-id="717.astro" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="171877" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
+#EXTINF:-1  group-title="Variety" tvg-id="Kix.id" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Gusto.TV.distro" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
@@ -311,16 +313,16 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 #EXTINF:-1  group-title="Variety" tvg-id="Classica.distro" tvg-chno="614" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Stingray_Classica_RGB-02.svg/revision/latest?cb=20191120223259",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="171865" tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
+#EXTINF:-1  group-title="Variety" tvg-id="Animax.id" tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="616" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127",TravelXP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="171917" tvg-chno="617" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942",Rock Entertainment
+#EXTINF:-1  group-title="Variety" tvg-id="Rock.Entertainment.id" tvg-chno="617" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1  group-title="Variety" tvg-id="171977" tvg-chno="618" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829",Rock Action
+#EXTINF:-1  group-title="Variety" tvg-id="Rock.Action.id" tvg-chno="618" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Qello.distro" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
@@ -347,7 +349,7 @@ https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title="Movies" tvg-id="105812" tvg-chno="651" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="171864" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204",Thrill
+#EXTINF:-1  group-title="Movies" tvg-id="Thrill.id" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204",Thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="plex.tv.Miramax.Movie.Channel.plex" tvg-chno="653" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Miramax_2022.svg/revision/latest?cb=20221029144725",Miramax Movie Channel
@@ -356,7 +358,7 @@ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3
 #EXTINF:-1  group-title="Movies" tvg-id="492910" tvg-chno="654" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000114M_20220329T055323SQUARE.png_20220329055323.png&h=250",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="370133" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
+#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 
 #EXTINF:-1  group-title="Sports" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",BeIN Sports Xtra
@@ -368,19 +370,19 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="492896" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Trace_Sports_Stars.svg/revision/latest?cb=20191113143747",Trace Sports Stars
+#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Trace_Sports_Stars.svg/revision/latest?cb=20191113143747",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="MTRSPT1.distro" tvg-chno="712" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/MTRSPT1_blkred_rgb-1024x410.png/revision/latest?cb=20240918151831",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="412181" tvg-chno="713" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
+#EXTINF:-1  group-title="Sports" tvg-id="SPOTV.id" tvg-chno="713" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="171940" tvg-chno="714" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
+#EXTINF:-1  group-title="Sports" tvg-id="Outdoor.Channel.id" tvg-chno="714" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="412187" tvg-chno="715" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",SPOTV2
+#EXTINF:-1  group-title="Sports" tvg-id="SPOTV.2.id" tvg-chno="715" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="801" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
