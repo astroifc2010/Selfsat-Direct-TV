@@ -133,7 +133,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
 #EXTINF:-1  group-title="Oriental" tvg-id="393.astro" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d8fe398c79065173fa9788f226056510": "45e77e6a8ba767b63cacfdb01ef2ac29"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="plex.tv.NEW.K-POP.plex" tvg-chno="216" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/NEWKPOP.png?raw=true",New KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -142,10 +145,16 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://cdn6.163189.xyz/163189/tvbxh
 
 #EXTINF:-1  group-title="Oriental" tvg-id="321.astro" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi",CCM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="309.astro" tvg-chno="227" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5c1ba26907291afec11a9a78d513410": "361197805d0149c29801946cf2dde67c"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="Makkal.TV.in" tvg-chno="304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c8f1ae2e296bb1e53f5dea441f95fcd4.png",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
@@ -257,13 +266,10 @@ https://ml-pull-hwc.myco.io/CGTN/hls/CGTN_H264-720p.m3u8?pkg_media=video&pkg_hm=
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1  group-title="Learning" tvg-id="554.astro" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
-
-#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="551" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="620.astro" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest?cb=20260123044400",CBeebies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="502308" tvg-chno="553" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMJR.jpg?raw=true",RTM Jr.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
@@ -275,7 +281,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="617.astro" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa65220c9f76e424173899df533a6d10": "b4abbee95b69b3e80a0d141272c870db"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="465350" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
 https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/chunks.m3u8
@@ -287,7 +295,10 @@ https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_10
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c24a7811d9ab46b48b746a0e7e269210": "c321afe1689b07d5b7e55bd025c483ce"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="plex.tv.Tastemade.plex" tvg-chno="603" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TASTEMADE.png?raw=true",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
@@ -314,7 +325,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Animax.id" tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4bd30e54571144eb9168a1a7e5915f75": "f8cb24e54d555381a326c157b5dfaa59"}
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Animax
+https://service.samproject.my.id/unifi/Animax.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="616" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127",TravelXP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -350,7 +366,7 @@ https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="Thrill.id" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204",Thrill
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="plex.tv.Miramax.Movie.Channel.plex" tvg-chno="653" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Miramax_2022.svg/revision/latest?cb=20221029144725",Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3u8
@@ -377,13 +393,23 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="SPOTV.id" tvg-chno="713" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b593bd530f1403a8f3eb9b2cd9236c8": "d07c6a7f0b37a4090341e6380ff85060"}
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV
+https://service.samproject.my.id/unifi/spoTV.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Outdoor.Channel.id" tvg-chno="714" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="SPOTV.2.id" tvg-chno="715" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",SPOTV2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1af079fb8e1d43d890c1d804431ad84c": "3dc40bc5aaf09af8b1572646a45b1242"}
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2
+https://service.samproject.my.id/unifi/spoTV2.mpd
 
 #EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="801" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
 https://22243.live.streamtheworld.com/MUZIKFMAAC.aac
