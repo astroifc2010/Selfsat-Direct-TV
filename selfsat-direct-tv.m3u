@@ -17,17 +17,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="104.astro" tvg-chno="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Astro_Ria_%28Nov_2024%29.png/revision/latest?cb=20241121174644",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d5249cb40505495494828f42c37087cb": "d59f6a7bed00bd5348355ab5b3ee6aa0"}
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/ria/manifest.mpd
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+https://live.aqfadtv.xyz/ria/index.mpd
+https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="105.astro" tvg-chno="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Prima_%28Dec_2024%29.png/revision/latest?cb=20241121184003",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50": "fc9eaf659647c675315f65747c2553da"}
+#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/prima/manifest.mpd
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://live.aqfadtv.xyz/prima/index.mpd
+https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="106.astro" tvg-chno="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -253,7 +255,7 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="518.astro" tvg-chno="417" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
@@ -288,6 +290,7 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1  group-title="Kids" tvg-id="617.astro" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"fa65220c9f76e424173899df533a6d10": "b4abbee95b69b3e80a0d141272c870db"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="465350" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
