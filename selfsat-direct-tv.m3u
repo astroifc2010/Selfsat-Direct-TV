@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD, https://github.com/ediey7523017/tv/raw/main/AstroFirst, https://github.com/ediey7523017/tv/raw/main/CollectionVOD, https://github.com/ediey7523017/tv/raw/main/AseanVOD, https://github.com/ediey7523017/tv/raw/main/EnglishVOD, https://github.com/ediey7523017/tv/raw/main/IndianVOD, https://github.com/ediey7523017/tv/raw/main/KidsVOD" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
+#EXTM3U  x-tvg-url="https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml, https://www.open-epg.com/files/malaysia2.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD, https://github.com/ediey7523017/tv/raw/main/AstroFirst, https://github.com/ediey7523017/tv/raw/main/CollectionVOD, https://github.com/ediey7523017/tv/raw/main/AseanVOD, https://github.com/ediey7523017/tv/raw/main/EnglishVOD, https://github.com/ediey7523017/tv/raw/main/IndianVOD, https://github.com/ediey7523017/tv/raw/main/KidsVOD" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="NatureStream.tv.distro" tvg-chno="100" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3E365F9C-E1F6-434F-9C51-0F331DCCBC2C/3-1x1.png/900",NatureStream.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
@@ -19,14 +19,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41GhCG_cXZSEFqsQJM6LtwUkkWCNTUEwzJMmqiNR_qrxg=L8qo/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41GhCG_cXZSEFqsQJM6LtwUtAFyib6x23lR3533Wpw1YI=Xcs3/dash-wv/jitp-linearwm/1004/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="105.astro" tvg-chno="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Prima_%28Dec_2024%29.png/revision/latest?cb=20241121184003",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41DPQCEKYk_f0aX1ZW_kzpK0cQy5D2io5Eijj7Ni22Agg=KBlS/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=93b7b628-8118-4075-9995-0805ff8d3a3a
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41DPQCEKYk_f0aX1ZW_kzpK6BQzDK5xTfWZXloAa1aevc=nH6x/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=415bdcb8-f4f5-45b8-bd4b-32b15675d43c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="106.astro" tvg-chno="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
@@ -103,7 +103,7 @@ https://get.perfecttv.net/mytv.m3u8?channel=tv5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41G0FipZDtuE4vEyYamzPyVHiLy4jeJ4wwhaRgKYecgEw=wh6P/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=45a9e769-1bad-430d-bf12-94926303391d
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41G0FipZDtuE4vEyYamzPyVFm4FRW1TXWjn2HTdj8xZss=PzGx/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=8e141d7e-f699-44db-b84c-408fa00a3350
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
@@ -317,13 +317,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="709.astro" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
-https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"346b9f41e2933748c8861f82932e0110": "cf0cffb637b81598a27bd6b0d90d65a8"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="TRACE.Urban.distro" tvg-chno="605" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="717.astro" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
