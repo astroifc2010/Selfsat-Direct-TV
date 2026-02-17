@@ -106,10 +106,28 @@ https://get.perfecttv.net/mytv.m3u8?channel=tv5
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41G0FipZDtuE4vEyYamzPyVFm4FRW1TXWjn2HTdj8xZss=PzGx/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=8e141d7e-f699-44db-b84c-408fa00a3350
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="125" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="527.sooka" tvg-chno="126" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Jom_Ngaji.png/revision/latest?cb=20260102080355",Jom Ngaji
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Rotana.Aflam+.distro" tvg-chno="129" tvg-logo="https://a.jsrdn.com/hls/23137/rotana-aflam-plus/poster_20231205_181838.jpg",Rotana Aflam Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
+
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
 
+#EXTINF:-1  group-title="Foreign" tvg-id="AlQuran.Kareem.id" tvg-chno="141" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/5/5a/Saudi_Quran_TV_Logo_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025150801",Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="142" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/0/01/Saudi_Sunnah_TV_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025151637",Al Sunnah Al Nabawiyah TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
 #EXTINF:-1  group-title="Oriental" tvg-id="306.astro" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
-https://smt.1678520.xyz/smt3.2.3.php?id=AEC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"06282157da4e8f97623a70ed017fad10": "8da72ca8501a4deb4bfc381fe1737ef4"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="512.sooka" tvg-chno="205" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Drama_Hotpot.png/revision/latest?cb=20260102080231",Drama Hotpot
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
@@ -122,10 +140,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Seti
 
 #EXTINF:-1  group-title="Oriental" tvg-id="333.astro" tvg-chno="207" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
-https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"60507ef0dc9c813d5f8c7b2229412f10": "c8a0f7e69bb31dfd475da26fc6c6003b"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="300.astro" tvg-chno="208" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
-https://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ef7e913ce85a1131b27036069169a10": "77d98ed71db7524c27875a09a975f9e6"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="396.astro" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K-Plus
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
@@ -140,7 +164,10 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="392.astro" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"692950d39869c92af9a9ddea453c0d10": "eadc626ab959255f7ab881c03d306fe2"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="393.astro" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -498,3 +525,6 @@ https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
 
 #EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="824" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest?cb=20220103100925",Molek FM
 https://stream.rcs.revma.com/z56xa78mtd3vv
+
+#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="825" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/IKIM_FM_2024.png/revision/latest?cb=20240208022639",Ikim FM
+https://das-edge52-sa28-dal03.cdnstream.com/5035/playlist.m3u8
