@@ -117,10 +117,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
 
-#EXTINF:-1  group-title="Foreign" tvg-id="AlQuran.Kareem.id" tvg-chno="141" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/5/5a/Saudi_Quran_TV_Logo_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025150801",Al Quran Al Kareem TV
+#EXTINF:-1  group-title="Foreign" tvg-id="AlQuran.Kareem.id" tvg-chno="141" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Saudi_Quran_TV_Logo_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025150801",Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="142" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/0/01/Saudi_Sunnah_TV_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025151637",Al Sunnah Al Nabawiyah TV
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="142" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Saudi_Sunnah_TV_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025151637",Al Sunnah Al Nabawiyah TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1  group-title="Oriental" tvg-id="306.astro" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
