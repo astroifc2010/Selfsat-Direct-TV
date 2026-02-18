@@ -104,6 +104,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  group-title="Foreign" tvg-id="wedotv Amor.my" tvg-chno="130" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png",WeDoTV Amor
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="131" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/DramaChannel.png/revision/latest?cb=20180818063040",Drama Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://slive.mana2.my/DramaChannel/index.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="132" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530",Pesona HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d6a2211cff9545979f6f1a09851fa495": "804119b128f5fe51dba371d18b3c70c5"}
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Pesona
+https://unifi.whacat.tech/Pesona
+
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
 
 #EXTINF:-1  group-title="Foreign" tvg-id="AlQuran.Kareem.id" tvg-chno="141" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Saudi_Quran_TV_Logo_2009.png/revision/latest/scale-to-width-down/1000?cb=20241025150801",Al Quran Al Kareem TV
@@ -224,6 +238,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  group-title="Indian" tvg-id="MURASU.in" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 
+#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="319" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony Kal Hindi
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
@@ -314,11 +331,11 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1  group-title="Learning" tvg-id="554.astro" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 
-#EXTINF:-1  group-title="Learning" tvg-id="Animal.Planet.id" tvg-chno="507" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest?cb=20210825085349",Animal Planet
+#EXTINF:-1  group-title="Learning" tvg-id="Global.Trekker.id" tvg-chno="507" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg/revision/latest/scale-to-width-down/1000?cb=20240114082358",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://slive.mana2.my/GlobalTrekker/index.mpd
 
 #EXTINF:-1  group-title="Learning" tvg-id="wedotv Big stories.my" tvg-chno="508" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png",WeDoTV Big Stories
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
