@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml, https://www.open-epg.com/files/malaysia2.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD, https://github.com/ediey7523017/tv/raw/main/AstroFirst, https://github.com/ediey7523017/tv/raw/main/CollectionVOD, https://github.com/ediey7523017/tv/raw/main/AseanVOD, https://github.com/ediey7523017/tv/raw/main/EnglishVOD, https://github.com/ediey7523017/tv/raw/main/IndianVOD, https://github.com/ediey7523017/tv/raw/main/KidsVOD" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
+#EXTM3U  x-tvg-url="https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml, https://walpak1.github.io/epg/mana2.xml, https://www.open-epg.com/files/malaysia2.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD, https://github.com/ediey7523017/tv/raw/main/AstroFirst, https://github.com/ediey7523017/tv/raw/main/CollectionVOD, https://github.com/ediey7523017/tv/raw/main/AseanVOD, https://github.com/ediey7523017/tv/raw/main/EnglishVOD, https://github.com/ediey7523017/tv/raw/main/IndianVOD, https://github.com/ediey7523017/tv/raw/main/KidsVOD" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="NatureStream.tv.distro" tvg-chno="100" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3E365F9C-E1F6-434F-9C51-0F331DCCBC2C/3-1x1.png/900",NatureStream.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
@@ -64,7 +64,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="509.sooka" tvg-chno="115" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Drama_Hebat.png/revision/latest?cb=20260102080145",Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV6.mana2" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="479618" tvg-chno="117" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAURA.jpg?raw=true",RTM Aura
@@ -89,10 +89,10 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="123" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509",Enjoy TV5
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV5ENJOYTV.mana2" tvg-chno="123" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509",Enjoy TV5
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="125" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png",TVIKIM
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TVIKIM.mana2" tvg-chno="125" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="527.sooka" tvg-chno="126" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Jom_Ngaji.png/revision/latest?cb=20260102080355",Jom Ngaji
@@ -104,7 +104,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  group-title="Foreign" tvg-id="wedotv Amor.my" tvg-chno="130" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png",WeDoTV Amor
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="131" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/DramaChannel.png/revision/latest?cb=20180818063040",Drama Channel
+#EXTINF:-1  group-title="FTA/Local" tvg-id="DRAMACHANNEL.mana2" tvg-chno="131" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/DramaChannel.png/revision/latest?cb=20180818063040",Drama Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -131,6 +131,12 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"06282157da4e8f97623a70ed017fad10": "8da72ca8501a4deb4bfc381fe1737ef4"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
+
+#EXTINF:-1  group-title="Oriental" tvg-id="311.astro" tvg-chno="202" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Astro_AOD_%28Nov_2024%29.png/revision/latest?cb=20241121180737",Astro AOD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"286aef4e8d85db66e05fe4a5c799e410": "176e2938bce795d1c85559a2440477f7"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="512.sooka" tvg-chno="205" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Drama_Hotpot.png/revision/latest?cb=20260102080231",Drama Hotpot
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
@@ -229,8 +235,8 @@ https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="YRF.Music.distro" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="YRF music.my" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
+https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Goldmines.Bollywood.in" tvg-chno="316" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831",Goldmines Bollywood
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
@@ -275,7 +281,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1  group-title="News" tvg-id="515.astro" tvg-chno="410" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
+#EXTINF:-1  group-title="News" tvg-id="BERITARTM.mana2" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
 
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="412" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530",Parlimen Malaysia
@@ -328,7 +334,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1  group-title="Learning" tvg-id="554.astro" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 
-#EXTINF:-1  group-title="Learning" tvg-id="Global.Trekker.id" tvg-chno="507" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg/revision/latest/scale-to-width-down/1000?cb=20240114082358",Global Trekker
+#EXTINF:-1  group-title="Learning" tvg-id="GLOBALTREKKER.mana2" tvg-chno="507" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg/revision/latest/scale-to-width-down/1000?cb=20240114082358",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -371,7 +377,7 @@ https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="562" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/KIDDOPLUS.jpg?raw=true",Kiddo Plus
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="Zoomoo.id" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
+#EXTINF:-1  group-title="Kids" tvg-id="ZOOMOO.mana2" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
@@ -380,8 +386,8 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
-#EXTINF:-1  group-title="Variety" tvg-id="plex.tv.Tastemade.plex" tvg-chno="603" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TASTEMADE.png?raw=true",Tastemade
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1  group-title="Variety" tvg-id="Tastemade.my" tvg-chno="603" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/TASTEMADE.png?raw=true",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-hls-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="709.astro" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -392,7 +398,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 #EXTINF:-1  group-title="Variety" tvg-id="TRACE.Urban.distro" tvg-chno="605" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
+#EXTINF:-1  group-title="Variety" tvg-id="FTV.my" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000?cb=20191026175440",Fashion TV
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="717.astro" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
@@ -421,8 +427,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetwor
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=WarnerTV
 https://service.samproject.my.id/unifi/WarnerTV.mpd
 
-#EXTINF:-1  group-title="Variety" tvg-id="Gusto.TV.distro" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1  group-title="Variety" tvg-id="GustoTV HD.my" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Classica.distro" tvg-chno="614" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Stingray_Classica_RGB-02.svg/revision/latest?cb=20191120223259",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
@@ -450,7 +456,7 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 #EXTINF:-1  group-title="Variety" tvg-id="492913" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/NOW_Rock.png/revision/latest?cb=20221227132922",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="KCM.in" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest/scale-to-width-down/1000?cb=20240802061617",KCM
+#EXTINF:-1  group-title="Variety" tvg-id="KCM.my" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest/scale-to-width-down/1000?cb=20240802061617",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="China.Travel.distro" tvg-chno="622" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/CHINATRAVEL.jpg?raw=true",CGTN China Travel
@@ -532,13 +538,13 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
+#EXTINF:-1  group-title="Sports" tvg-id="SUKANRTM.mana2" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 
 #EXTINF:-1  group-title="Sports" tvg-id="494592" tvg-chno="703" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/BOWLINGTV.png?raw=true",Bowling TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8?ads.vf=18RSBHgmEAW
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="704" tvg-logo="",Horizon Sports
+#EXTINF:-1  group-title="Sports" tvg-id="Horizon.Sports.distro" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/HORIZONSPORTS.jpg/revision/latest?cb=20191030033922",Horizon Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=yqVv-4q1FVG
 
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
@@ -578,86 +584,86 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF:-1  group-title="Sports" tvg-id="wedotv Sports.my" tvg-chno="718" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png",WeDoTV Sports
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="719" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SPOTV_Now_logo_%28%C4%90N%C3%81%29.png/revision/latest/scale-to-width-down/1000?cb=20231224030110&path-prefix=vi",SPOTVNOW
+#EXTINF:-1  group-title="Sports" tvg-id="SPOTVNOW.mana2" tvg-chno="719" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SPOTV_Now_logo_%28%C4%90N%C3%81%29.png/revision/latest/scale-to-width-down/1000?cb=20231224030110&path-prefix=vi",SPOTVNOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://slive.mana2.my/SpotvNow/index.mpd
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="801" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="801" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
 https://22243.live.streamtheworld.com/MUZIKFMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="802" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Radio_Bisnes.png/revision/latest?cb=20240803131732",Radio Bisnes
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="802" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Radio_Bisnes.png/revision/latest?cb=20240803131732",Radio Bisnes
 https://14623.live.streamtheworld.com/RADIOBISNESAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="803" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Kuala_Lumpur_FM.PNG/revision/latest?cb=20211113233642",KL FM
+#EXTINF:-1  group-title="Radio" tvg-id="411251" tvg-chno="803" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Kuala_Lumpur_FM.PNG/revision/latest?cb=20211113233642",KL FM
 https://28163.live.streamtheworld.com/KL_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="804" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/NasionalFMMY.png/revision/latest?cb=20191218065554",Nasional FM
+#EXTINF:-1  group-title="Radio" tvg-id="NASIONALFM.mana2" tvg-chno="804" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/NasionalFMMY.png/revision/latest?cb=20191218065554",Nasional FM
 https://22253.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Radio_Klasik_2021.png/revision/latest?cb=20230803150446",Radio Klasik
+#EXTINF:-1  group-title="Radio" tvg-id="RADIOKLASIK.mana2" tvg-chno="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Radio_Klasik_2021.png/revision/latest?cb=20230803150446",Radio Klasik
 https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="806" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Traxx_FM.png/revision/latest?cb=20191218065550",TraXX FM
+#EXTINF:-1  group-title="Radio" tvg-id="TRAXXFM.mana2" tvg-chno="806" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Traxx_FM.png/revision/latest?cb=20191218065550",TraXX FM
 https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="807" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg",Asyik FM/Salam FM
+#EXTINF:-1  group-title="Radio" tvg-id="ASYIKFM.mana2" tvg-chno="807" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg",Asyik FM/Salam FM
 https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="808" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Ai_FM_Logo.png/revision/latest?cb=20131101032953",Ai FM
+#EXTINF:-1  group-title="Radio" tvg-id="AIFM.mana2" tvg-chno="808" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Ai_FM_Logo.png/revision/latest?cb=20131101032953",Ai FM
 https://22243.live.streamtheworld.com/AI_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="809" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Minnal_FM.jpg/revision/latest?cb=20210413202833",Minnal FM
+#EXTINF:-1  group-title="Radio" tvg-id="MINNALFM.mana2" tvg-chno="809" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Minnal_FM.jpg/revision/latest?cb=20210413202833",Minnal FM
 https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="810" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sabahfmlogo2012.png/revision/latest?cb=20240430092848",Sabah FM
+#EXTINF:-1  group-title="Radio" tvg-id="SABAHFM.mana2" tvg-chno="810" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sabahfmlogo2012.png/revision/latest?cb=20240430092848",Sabah FM
 https://28163.live.streamtheworld.com/SABAH_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah Vfm
+#EXTINF:-1  group-title="Radio" tvg-id="SABAHVFM.mana2" tvg-chno="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah Vfm
 https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="812" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Sarawak_FM_2021.png/revision/latest?cb=20211114001059",Sarawak FM
+#EXTINF:-1  group-title="Radio" tvg-id="SARAWAKFM.mana2" tvg-chno="812" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Sarawak_FM_2021.png/revision/latest?cb=20211114001059",Sarawak FM
 https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="813" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Iban
+#EXTINF:-1  group-title="Radio" tvg-id="WAIFM.mana2" tvg-chno="813" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Iban
 https://28093.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="814" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Bidayuh
+#EXTINF:-1  group-title="Radio" tvg-id="411241" tvg-chno="814" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Bidayuh
 https://22253.live.streamtheworld.com/WAI_FM_BKAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Redfm_2021_.png/revision/latest?cb=20211114000515",Red FM Sarawak
+#EXTINF:-1  group-title="Radio" tvg-id="411240" tvg-chno="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Redfm_2021_.png/revision/latest?cb=20211114000515",Red FM Sarawak
 https://22253.live.streamtheworld.com/RED_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="816" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Selangor_FM_2021.png/revision/latest/scale-to-width-down/1000?cb=20211114001119",Selangor FM
+#EXTINF:-1  group-title="Radio" tvg-id="411256" tvg-chno="816" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Selangor_FM_2021.png/revision/latest/scale-to-width-down/1000?cb=20211114001119",Selangor FM
 https://22273.live.streamtheworld.com/SELANGOR_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="817" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Hot_FM_logo_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240630020739",Hot FM
+#EXTINF:-1  group-title="Radio" tvg-id="HOTFM.mana2" tvg-chno="817" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Hot_FM_logo_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240630020739",Hot FM
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="818" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Fly_FM_logo_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240721043233",Fly FM
+#EXTINF:-1  group-title="Radio" tvg-id="FLYFM.mana2" tvg-chno="818" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Fly_FM_logo_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240721043233",Fly FM
 https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Eight_FM_%282025%29.svg/revision/latest?cb=20251104152308",Eight WuXian
+#EXTINF:-1  group-title="Radio" tvg-id="EIGHTFM.mana2" tvg-chno="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Eight_FM_%282025%29.svg/revision/latest?cb=20251104152308",Eight WuXian
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="820" tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/04191241/Suria-Logo-01.jpg",Suria FM
+#EXTINF:-1  group-title="Radio" tvg-id="SURIAFM.mana2" tvg-chno="820" tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/04191241/Suria-Logo-01.jpg",Suria FM
 https://28093.live.streamtheworld.com/SURIA_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="821" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwwzCd1KdqY3vwO-SZ_sDVyFQ5qYp_JYa8A&s",988 FM
+#EXTINF:-1  group-title="Radio" tvg-id="988FM.mana2" tvg-chno="821" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwwzCd1KdqY3vwO-SZ_sDVyFQ5qYp_JYa8A&s",988 FM
 https://22273.live.streamtheworld.com/988_FMAAC.aac
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="822" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Radio_Masti_24x7.png/revision/latest?cb=20221013033457",Radio Mastii 24x7
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="822" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Radio_Masti_24x7.png/revision/latest?cb=20221013033457",Radio Mastii 24x7
 https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="823" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Kool_FM_%282025%29.svg/revision/latest?cb=20251104052647",Kool FM
+#EXTINF:-1  group-title="Radio" tvg-id="KOOLFM.mana2" tvg-chno="823" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Kool_FM_%282025%29.svg/revision/latest?cb=20251104052647",Kool FM
 https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="824" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest?cb=20220103100925",Molek FM
+#EXTINF:-1  group-title="Radio" tvg-id="MOLEKFM.mana2" tvg-chno="824" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest?cb=20220103100925",Molek FM
 https://stream.rcs.revma.com/z56xa78mtd3vv
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="825" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/IKIM_FM_2024.png/revision/latest?cb=20240208022639",Ikim FM
+#EXTINF:-1  group-title="Radio" tvg-id="IKIMfm.mana2" tvg-chno="825" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/IKIM_FM_2024.png/revision/latest?cb=20240208022639",Ikim FM
 https://das-edge52-sa28-dal03.cdnstream.com/5035/playlist.m3u8
 
-#EXTINF:-1  group-title="Radio" tvg-id="" tvg-chno="826" tvg-logo="https://static.wikia.nocookie.net/youtube/images/c/c2/BFM_89.9_Malaysia_Logo.webp/revision/latest/scale-to-width-down/1000?cb=20240927042040",BFM 89.9
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="826" tvg-logo="https://static.wikia.nocookie.net/youtube/images/c/c2/BFM_89.9_Malaysia_Logo.webp/revision/latest/scale-to-width-down/1000?cb=20240927042040",BFM 89.9
 https://stream.rcs.revma.com/s91qy9p0zs3vv
