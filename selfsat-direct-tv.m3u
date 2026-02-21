@@ -511,6 +511,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
+#EXTINF:-1  group-title="Variety" tvg-id="703.astro" tvg-chno="632" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8de11e005db5bd0db8228814863cd310": "183b3eafa4c82e68f74c4244d54906b0"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+
+#EXTINF:-1  group-title="Variety" tvg-id="714.astro" tvg-chno="633" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest?cb=20190613183256",Crime & Investigation
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"22fc5baf47ae3b6322bc244206bbb210": "db1ee2b8994b91aac65049ef3e493787"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+
 #EXTINF:-1  group-title="Movies" tvg-id="Local.Programming.Dummy.us" tvg-chno="651" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
@@ -565,6 +577,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
+
+#EXTINF:-1  group-title="Sports" tvg-id="TNA.Wrestling.Channel.distro" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest/scale-to-width-down/1000?cb=20241121201428",TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="703" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/BOWLINGTV.png?raw=true",Bowling TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8?ads.vf=18RSBHgmEAW
@@ -624,34 +639,34 @@ https://14623.live.streamtheworld.com/RADIOBISNESAAC.aac
 #EXTINF:-1  group-title="Audio Channels" tvg-id="KL FM.my" tvg-chno="803" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Kuala_Lumpur_FM.PNG/revision/latest?cb=20211113233642",KL FM
 https://28163.live.streamtheworld.com/KL_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="NASIONALFM.mana2" tvg-chno="804" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/NasionalFMMY.png/revision/latest?cb=20191218065554",Nasional FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="NASIONALfm.my" tvg-chno="804" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/NasionalFMMY.png/revision/latest?cb=20191218065554",Nasional FM
 https://22253.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="RADIOKLASIK.mana2" tvg-chno="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Radio_Klasik_2021.png/revision/latest?cb=20230803150446",Radio Klasik
+#EXTINF:-1  group-title="Audio Channels" tvg-id="Radio KLASIK.my" tvg-chno="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Radio_Klasik_2021.png/revision/latest?cb=20230803150446",Radio Klasik
 https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="TRAXXFM.mana2" tvg-chno="806" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Traxx_FM.png/revision/latest?cb=20191218065550",TraXX FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="TRAXXfm.my" tvg-chno="806" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Traxx_FM.png/revision/latest?cb=20191218065550",TraXX FM
 https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="ASYIKFM.mana2" tvg-chno="807" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg",Asyik FM/Salam FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="Asyik FM.my" tvg-chno="807" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg",Asyik FM/Salam FM
 https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="AIFM.mana2" tvg-chno="808" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Ai_FM_Logo.png/revision/latest?cb=20131101032953",Ai FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="AIfm.my" tvg-chno="808" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Ai_FM_Logo.png/revision/latest?cb=20131101032953",Ai FM
 https://22243.live.streamtheworld.com/AI_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="MINNALFM.mana2" tvg-chno="809" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Minnal_FM.jpg/revision/latest?cb=20210413202833",Minnal FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="MINNALfm.my" tvg-chno="809" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Minnal_FM.jpg/revision/latest?cb=20210413202833",Minnal FM
 https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="SABAHFM.mana2" tvg-chno="810" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sabahfmlogo2012.png/revision/latest?cb=20240430092848",Sabah FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="Sabah FM.my" tvg-chno="810" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sabahfmlogo2012.png/revision/latest?cb=20240430092848",Sabah FM
 https://28163.live.streamtheworld.com/SABAH_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="SABAHVFM.mana2" tvg-chno="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah Vfm
+#EXTINF:-1  group-title="Audio Channels" tvg-id="SabahV FM.my" tvg-chno="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah Vfm
 https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="SARAWAKFM.mana2" tvg-chno="812" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Sarawak_FM_2021.png/revision/latest?cb=20211114001059",Sarawak FM
+#EXTINF:-1  group-title="Audio Channels" tvg-id="Sarawak FM.my" tvg-chno="812" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Sarawak_FM_2021.png/revision/latest?cb=20211114001059",Sarawak FM
 https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
 
-#EXTINF:-1  group-title="Audio Channels" tvg-id="WAIFM.mana2" tvg-chno="813" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Iban
+#EXTINF:-1  group-title="Audio Channels" tvg-id="Wai FM Iban.my" tvg-chno="813" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Iban
 https://28093.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
 #EXTINF:-1  group-title="Audio Channels" tvg-id="Wai FM.my" tvg-chno="814" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Bidayuh
