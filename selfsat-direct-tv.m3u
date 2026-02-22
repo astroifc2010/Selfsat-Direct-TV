@@ -92,6 +92,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TV5ENJOYTV.mana2" tvg-chno="123" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509",Enjoy TV5
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
+#EXTINF:-1  group-title="FTA/Local" tvg-id="SELANGORTV.mana2" tvg-chno="124" tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png",Selangor TV
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
+
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TVIKIM.mana2" tvg-chno="125" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
@@ -409,9 +412,6 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="Cartoonito.id" tvg-chno="557" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest?cb=20211112214721",Cartoonito
-https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
-
 #EXTINF:-1  group-title="Kids" tvg-id="617.astro" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/NICKJR-2023-Outline.svg/revision/latest/scale-to-width-down/1000?cb=20250411172726",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
@@ -451,20 +451,11 @@ https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-
 #EXTINF:-1  group-title="Variety" tvg-id="717.astro" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="Kix.id" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
-
 #EXTINF:-1  group-title="Variety" tvg-id="707.astro" tvg-chno="610" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TLC_logo_2009.png/revision/latest?cb=20101216181632",TLC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
-
-#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="611" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Food_Network_2013.svg/revision/latest/scale-to-width-down/1000?cb=20250329153410",Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Warner.id" tvg-chno="612" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909",Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -525,12 +516,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="624" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png/revision/latest?cb=20180102212624",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest?cb=20100418162838",DMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
-
 #EXTINF:-1  group-title="Variety" tvg-id="715.astro" tvg-chno="627" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128",HGTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8c1bb309955eee32882390abebe19810": "2a695b046e7cf5811a634d1348441195"}
@@ -563,12 +548,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={"8de11e005db5bd0db8228814863cd310": "183b3eafa4c82e68f74c4244d54906b0"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
-
-#EXTINF:-1  group-title="Variety" tvg-id="714.astro" tvg-chno="633" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest?cb=20190613183256",Crime & Investigation
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"22fc5baf47ae3b6322bc244206bbb210": "db1ee2b8994b91aac65049ef3e493787"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="Local.Programming.Dummy.us" tvg-chno="651" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
@@ -609,9 +588,6 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBOH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"98e8255fae9b41aebb334645a916c82b": "3b631ef06c2782808a6d53ff0e24d9e3"}
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBOF
-
-#EXTINF:-1  group-title="Movies" tvg-id="Local.Programming.Dummy.us" tvg-chno="659" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest?cb=20250505123120",HBO Signature
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="wedotv Movies.my" tvg-chno="660" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
@@ -658,18 +634,6 @@ https://service.samproject.my.id/unifi/spoTV.mpd
 #KODIPROP:inputstream.adaptive.license_key={"1af079fb8e1d43d890c1d804431ad84c": "3dc40bc5aaf09af8b1572646a45b1242"}
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2
 https://service.samproject.my.id/unifi/spoTV2.mpd
-
-#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="716" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest?cb=20210911120727",Eurosport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
-
-#EXTINF:-1  group-title="Sports" tvg-id="833.astro" tvg-chno="717" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Premier_Sports_2021.svg/revision/latest?cb=20210709144608",Premier Sports Rugby
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9bfeb5068725617dbad6338473da6d10": "06577ffcc4935ba24aff4c4c9dd6846d"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="wedotv Sports.my" tvg-chno="718" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png",WeDoTV Sports
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
