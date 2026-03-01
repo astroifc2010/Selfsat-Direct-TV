@@ -127,13 +127,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mediampd/TVRINasiona
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="135" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Citra_Drama_Logo_September_2019.png/revision/latest?cb=20191014050913",Citra Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
-
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="136" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Citra_Dangdut_Logo_September_2019.png/revision/latest?cb=20191014051226",Citra Dangdut
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="135" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Citra_Dangdut_Logo_September_2019.png/revision/latest?cb=20191014051226",Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
