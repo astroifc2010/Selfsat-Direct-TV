@@ -717,52 +717,52 @@ https://slive.mana2.my/SpotvNow/index.mpd
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="801" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
-https://22243.live.streamtheworld.com/MUZIKFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="802" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Radio_Bisnes.png/revision/latest?cb=20240803131732",Radio Bisnes
-https://14623.live.streamtheworld.com/RADIOBISNESAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBISNESAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="KL FM.my" tvg-chno="803" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Kuala_Lumpur_FM.PNG/revision/latest?cb=20211113233642",KL FM
-https://22253.live.streamtheworld.com/KL_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="NASIONALfm.my" tvg-chno="804" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/NasionalFMMY.png/revision/latest?cb=20191218065554",Nasional FM
-https://22253.live.streamtheworld.com/NASIONAL_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Radio KLASIK.my" tvg-chno="805" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Radio_Klasik_2021.png/revision/latest?cb=20230803150446",Radio Klasik
-https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="TRAXXfm.my" tvg-chno="806" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Traxx_FM.png/revision/latest?cb=20191218065550",TraXX FM
-https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Asyik FM.my" tvg-chno="807" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg",Asyik FM/Salam FM
-https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="AIfm.my" tvg-chno="808" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Ai_FM_Logo.png/revision/latest?cb=20131101032953",Ai FM
-https://22243.live.streamtheworld.com/AI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="MINNALfm.my" tvg-chno="809" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Minnal_FM.jpg/revision/latest?cb=20210413202833",Minnal FM
-https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Sabah FM.my" tvg-chno="810" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sabahfmlogo2012.png/revision/latest?cb=20240430092848",Sabah FM
-https://28153.live.streamtheworld.com/SABAH_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="SabahV FM.my" tvg-chno="811" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah Vfm
-https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Sarawak FM.my" tvg-chno="812" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Sarawak_FM_2021.png/revision/latest?cb=20211114001059",Sarawak FM
-https://22273.live.streamtheworld.com/SARAWAK_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Wai FM Iban.my" tvg-chno="813" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Iban
-https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBANAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Wai FM.my" tvg-chno="814" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest?cb=20211114094310",Wai FM Bidayuh
-https://22273.live.streamtheworld.com/WAI_FM_BKAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BKAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Red FM.my" tvg-chno="815" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Redfm_2021_.png/revision/latest?cb=20211114000515",Red FM Sarawak
-https://22253.live.streamtheworld.com/RED_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Selangor FM.my" tvg-chno="816" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Selangor_FM_2021.png/revision/latest/scale-to-width-down/1000?cb=20211114001119",Selangor FM
-https://28163.live.streamtheworld.com/SELANGOR_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="HOTFM.mana2" tvg-chno="817" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Hot_FM_logo_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240630020739",Hot FM
 https://stream.rcs.revma.com/drakdf8mtd3vv
@@ -777,7 +777,7 @@ https://stream.rcs.revma.com/qp0xrd9mtd3vv
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="988FM.mana2" tvg-chno="821" radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwwzCd1KdqY3vwO-SZ_sDVyFQ5qYp_JYa8A&s",988 FM
-https://22273.live.streamtheworld.com/988_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="822" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Radio_Masti_24x7.png/revision/latest?cb=20221013033457",Radio Mastii 24x7
 https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8
