@@ -134,8 +134,8 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TVIKIM.mana2" tvg-chno="137" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
+###EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
+###https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
 
 #EXTINF:-1  group-title="Oriental" tvg-id="306.astro" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -226,6 +226,18 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=phoenixhongkong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
+#EXTINF:-1  group-title="Oriental" tvg-id="395.astro" tvg-chno="216" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=530",tvN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"faf4d62bb898de503446c28fb1aa9210": "19e80ecc5d337215c64004cb49c9cb01"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
+#EXTINF:-1  group-title="Oriental" tvg-id="416.astro" tvg-chno="217" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=530",tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
 #EXTINF:-1  group-title="Oriental" tvg-id="319.astro" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
 https://cdn6.163189.xyz/163189/tvbxh
 
@@ -243,6 +255,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="Thanthi.One.in" tvg-chno="301" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bcea7fce3598bc29fd4db2d2ba6d22f7.png",Thanthi One
 https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="201.astro" tvg-chno="302" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Astro_Vaanavil_%28Nov_2024%29.png/revision/latest?cb=20241121175436",Astro Vaanavil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"72499c6ad44cc37d95a9075420911110": "b5416326114a13e90662a4fbaf3c532b"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="Makkal.TV.in" tvg-chno="304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c8f1ae2e296bb1e53f5dea441f95fcd4.png",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
@@ -315,6 +333,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={"8e7863a8e770b0d72ebe4a68437b6410": "73648ceba3751645926d45421c85d927"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+
+#EXTINF:-1  group-title="Indian" tvg-id="Kairali.TV.in" tvg-chno="323" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Kairali.News.in" tvg-chno="324" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/284?cb=20191221124115",Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Kairali.WE.TV.in" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png",Kairali We
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Reporter.TV.in" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/99d351f479ec516a9cf55a85b15857d3.png",Reporter TV
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -584,14 +614,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=RockEnt
 https://unifi.whacat.tech/RockEnt
 
-#EXTINF:-1  group-title="Variety" tvg-id="rockaction" tvg-chno="618" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829",Rock Action
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c64cf911505e42c8aa17869ae51206ba": "2f3f5f1c609c1120216d4d72377d1ac2"}
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=RockAction
-https://unifi.whacat.tech/RockAction
-
 #EXTINF:-1  group-title="Variety" tvg-id="Qello.distro" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
@@ -691,6 +713,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="FreeMovies" tvg-chno="663" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/SG600002L3_20250416T004506SQUARE.png&h=250",Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-id="rockaction" tvg-chno="664" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829",Rock Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c64cf911505e42c8aa17869ae51206ba": "2f3f5f1c609c1120216d4d72377d1ac2"}
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=RockAction
+https://unifi.whacat.tech/RockAction
+
+#EXTINF:-1  group-title="Movies" tvg-id="401.astro" tvg-chno="665" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ff1febd7018d0dd711601e795e0d6210": "38fbfb3a56e40ff92c9df8acbcba9ef6"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+###EXTINF:-1  group-title="Movies" tvg-id="412.astro" tvg-chno="666" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Astro_FAM_Time_%28Apr_2026%29.png/revision/latest?cb=20260228003010",Astro FAM Time
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
