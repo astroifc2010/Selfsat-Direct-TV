@@ -750,7 +750,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 #EXTINF:-1  group-title="Sports" tvg-id="TNA.Wrestling.Channel.distro" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest/scale-to-width-down/1000?cb=20241121201428",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="832.astro" tvg-chno="703" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Cricbuzz_%282021%29.svg/revision/latest?cb=20210920122235",Cricbuzz
+#EXTINF:-1  group-title="Sports" tvg-id="832.astro" tvg-chno="703" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png",Cricbuzz
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
