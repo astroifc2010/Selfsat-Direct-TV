@@ -153,8 +153,8 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Sensasi
 https://unifi.whacat.tech/Sensasi
 
-###EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
-###https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 
 #EXTINF:-1  group-title="Oriental" tvg-id="306.astro" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -257,6 +257,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
+#EXTINF:-1  group-title="Oriental" tvg-id="317.astro" tvg-chno="220" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/TVB_Entertainment_News.png/revision/latest?cb=20230803044813&path-prefix=vi",TVB Entertainment News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa629c3640ce533c755509f67f75e610": "af710a06fd67975b99db4a47a757b84b"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
+
 #EXTINF:-1  group-title="Oriental" tvg-id="319.astro" tvg-chno="221" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
 https://cdn6.163189.xyz/163189/tvbxh
 
@@ -355,6 +361,9 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Reporter.TV.in" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/99d351f479ec516a9cf55a85b15857d3.png",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Amrita.TV.in" tvg-chno="327" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -786,6 +795,12 @@ https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="HorseCountry" tvg-chno="716" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse And Country
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
+
+#EXTINF:-1  group-title="Sports" tvg-id="817.astro" tvg-chno="717" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"81352bc47ec1177b321ee65ac1be7f10": "c8b886142005d7e5067c8717777eaac4"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
 
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="801" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC
