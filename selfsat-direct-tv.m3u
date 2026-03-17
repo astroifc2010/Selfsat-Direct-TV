@@ -362,7 +362,7 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1  group-title="Indian" tvg-id="Reporter.TV.in" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/99d351f479ec516a9cf55a85b15857d3.png",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Amrita.TV.in" tvg-chno="327" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png",Amrita TV
+#EXTINF:-1  group-title="Indian" tvg-id="AMRITA.in" tvg-chno="327" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
@@ -630,7 +630,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=RockEnt
 https://unifi.whacat.tech/RockEnt
 
-#EXTINF:-1  group-title="Variety" tvg-id="Qello.distro" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
+#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="628.myTV" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest?cb=20250820172319",That's Rock
@@ -753,7 +753,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 
-#EXTINF:-1  group-title="Sports" tvg-id="TNA.Wrestling.Channel.distro" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest/scale-to-width-down/1000?cb=20241121201428",TNA Wrestling Channel
+#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest/scale-to-width-down/1000?cb=20241121201428",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="832.astro" tvg-chno="703" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png",Cricbuzz
