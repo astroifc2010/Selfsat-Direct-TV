@@ -346,12 +346,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
 
 ###EXTINF:-1  group-title="News" tvg-id="parlimenmalaysia" tvg-chno="412" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530",Parlimen Malaysia
-###KODIPROP:inputstreamaddon=inputstream.adaptive
-###KODIPROP:inputstream.adaptive.manifest_type=dash
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-###KODIPROP:inputstream.adaptive.license_key={"dce6cb3389014684b2abc82f6a478bff": "086c0ad70d90bbd9e39478dd0c2460b0"}
-###https://sghost.mobileads.uno/uni5/uni5.mpd?id=parlimen
-###https://service.samproject.my.id/unifi/parlimen.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
+https://unifi.whacat.tech/parlimen
 
 #EXTINF:-1  group-title="News" tvg-id="CNN HD.my" tvg-chno="413" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524",CNN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -438,10 +437,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="cbeebieshd" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Cbeebies2022_%28ident%29.svg/revision/latest/scale-to-width-down/1000?cb=20220307182447",CBeebies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"50c699c444e5f80dacafc4c99667d810": "de6c5feaae5f6963b4b392ddc8b6a778"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
+https://unifi.whacat.tech/Cbeebies
 
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="553" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMJR.jpg?raw=true",RTM Jr.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
@@ -504,10 +504,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="bbclifestylehd" tvg-chno="608" tvg-logo="https://calama.bbcstudios.com//api/assets/fac45e14-b767-47c4-856b-2aa26107ff7c",BBC Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f429292dc744f284355308561577ac10": "b12e1f894129c517dc8845baaeebec8a"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
+https://unifi.whacat.tech/BBCLife
 
 #EXTINF:-1  group-title="Variety" tvg-id="HITS NOW.my" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/scale-to-width-down/1200?cb=20240711133443",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
