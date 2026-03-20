@@ -798,6 +798,9 @@ https://das-edge54-sa28-lax02.cdnstream.com/5035/playlist.m3u8
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="826" radio="true" tvg-logo="https://static.wikia.nocookie.net/youtube/images/c/c2/BFM_89.9_Malaysia_Logo.webp/revision/latest/scale-to-width-down/1000?cb=20240927042040",BFM 89.9
 https://stream.rcs.revma.com/s91qy9p0zs3vv
 
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="827" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/revision/latest?cb=20220425141420",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
 #EXTINF:-1  group-title="Foreign" tvg-id="NHK World Premium.my" tvg-chno="901" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/NHK_World_Premium_2006.png/revision/latest?cb=20250324073605",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
@@ -819,3 +822,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="905" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/France_24_en_Fran%C3%A7ais.svg/revision/latest?cb=20231031204516",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="906" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Cgtn_cn_arabic.png/revision/latest?cb=20170127161813",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="907" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest?cb=20171112085348",Al Jazeera Arabic
+https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
