@@ -345,7 +345,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1  group-title="News" tvg-id="Berita RTM.my" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
 
-###EXTINF:-1  group-title="News" tvg-id="parlimenmalaysia" tvg-chno="412" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530",Parlimen Malaysia
+#EXTINF:-1  group-title="News" tvg-id="parlimenmalaysia" tvg-chno="412" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530",Parlimen Malaysia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -361,7 +361,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
 #EXTINF:-1  group-title="News" tvg-id="Al Jazeera English HD.my" tvg-chno="414" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="Bloomberg TV HD.my" tvg-chno="415" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest?cb=20100524171519",Bloomberg TV Asia
+#EXTINF:-1  group-title="News" tvg-id="Bloomberg TV HD.my" tvg-chno="415" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
@@ -688,14 +688,14 @@ https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1  group-title="Sports" tvg-id="305.myTV" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Trace_Sports_Stars.svg/revision/latest?cb=20191113143747",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="spotv" tvg-chno="712" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
+#EXTINF:-1  group-title="Sports" tvg-id="spotv" tvg-chno="712" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=530",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5b593bd530f1403a8f3eb9b2cd9236c8": "d07c6a7f0b37a4090341e6380ff85060"}
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spoTV&kid=5b593bd5-30f1-403a-8f3e-b9b2cd9236c8
 
-#EXTINF:-1  group-title="Sports" tvg-id="spotv2" tvg-chno="713" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",SPOTV2
+#EXTINF:-1  group-title="Sports" tvg-id="spotv2" tvg-chno="713" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=530",SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -714,7 +714,7 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1  group-title="Sports" tvg-id="Horse And Country.my" tvg-chno="716" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse And Country
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="817.astro" tvg-chno="717" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
+#EXTINF:-1  group-title="Sports" tvg-id="Astro Sports Plus.my" tvg-chno="717" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"81352bc47ec1177b321ee65ac1be7f10": "c8b886142005d7e5067c8717777eaac4"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
