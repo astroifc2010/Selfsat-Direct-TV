@@ -571,7 +571,7 @@ https://unifi.whacat.tech/RockEnt
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="628.myTV" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest?cb=20250820172319",That's Rock
+#EXTINF:-1  group-title="Variety" tvg-id="628.myTV" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/That%27s_Rock.svg/revision/latest?cb=20240819002602",That's Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="KCM.my" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest/scale-to-width-down/1000?cb=20240802061617",KCM
@@ -721,7 +721,7 @@ https://unifi.whacat.tech/spoTV2
 #EXTINF:-1  group-title="Sports" tvg-id="wedotv Sports.my" tvg-chno="714" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png",WeDoTV Sports
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="SPOTVNOW.mana2" tvg-chno="715" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SPOTV_Now_logo_%28%C4%90N%C3%81%29.png/revision/latest/scale-to-width-down/1000?cb=20231224030110&path-prefix=vi",SPOTVNOW
+#EXTINF:-1  group-title="Sports" tvg-id="SPOTVNOW.mana2" tvg-chno="715" tvg-logo="https://activate.unifi.com.my/authsv/images/logo/spotv.png",SPOTVNOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -818,7 +818,7 @@ https://stream.rcs.revma.com/s91qy9p0zs3vv
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="827" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/revision/latest?cb=20220425141420",BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1  group-title="Foreign" tvg-id="NHK World Premium.my" tvg-chno="901" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/NHK_World_Premium_2006.png/revision/latest?cb=20250324073605",NHK World Premium
+#EXTINF:-1  group-title="Foreign" tvg-id="NHK World Premium.my" tvg-chno="901" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/NHK_World_Premium.png/revision/latest?cb=20231006054734&path-prefix=vi",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
