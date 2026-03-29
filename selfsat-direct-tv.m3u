@@ -258,11 +258,8 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/inde
 #EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="PTC.Punjabi.in" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="PTC.Punjabi.Gold.in" tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg/revision/latest?cb=20191217211703",PTC Punjabi Gold
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="Pitaara.in" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9e8ecfbe919c4262f25a3019aa5aac26.png",Pitaara TV
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="KALAIGNAR.CHITHIRAM.in" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
 https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -290,9 +287,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="MURASU.in" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="319" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony Kal Hindi
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="KTV.my" tvg-chno="320" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=272",KTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -368,7 +362,7 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
-#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest?cb=20240803101302",RTM Asean
+#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="416" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/RTM_2021.svg/revision/latest?cb=20210405142613",RTM World
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="ABC Australia HD.my" tvg-chno="417" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
@@ -501,9 +495,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
-
-#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",Duck TV
-https://d6lk10bkdgfae.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/33730865-2d01-458d-8810-e2290515d1b0/1.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="562" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/3/33/Kartoon_Channel%21.jpeg/revision/latest?cb=20250804203623",Kartoon Channel
 https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
