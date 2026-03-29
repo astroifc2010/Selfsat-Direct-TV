@@ -300,9 +300,6 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="323" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
-https://mumt01.tangotv.in/KAIRALI/index.m3u8
-
 #EXTINF:-1  group-title="Indian" tvg-id="Kairali.News.in" tvg-chno="324" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/284?cb=20191221124115",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 
@@ -349,12 +346,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #EXTINF:-1  group-title="News" tvg-id="CNA HD.my" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="412" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530",Parlimen Malaysia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=parlimen
+###EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="412" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530",Parlimen Malaysia
+###KODIPROP:inputstreamaddon=inputstream.adaptive
+###KODIPROP:inputstream.adaptive.manifest_type=dash
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
+###https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=parlimen
 
 #EXTINF:-1  group-title="News" tvg-id="CNN HD.my" tvg-chno="413" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524",CNN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -858,7 +855,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 ###############################################################Foreign#################################################################
 
-#EXTINF:-1  group-title="Foreign" tvg-id="NHK World Premium.my" tvg-chno="901" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/NHK_World_Premium.png/revision/latest?cb=20231006054734&path-prefix=vi",NHK World Premium
+#EXTINF:-1  group-title="Foreign" tvg-id="NHK World Premium.my" tvg-chno="901" tvg-logo="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=272",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
