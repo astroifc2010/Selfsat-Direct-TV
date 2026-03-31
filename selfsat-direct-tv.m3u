@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://www.open-epg.com/files/malaysia3.xml, https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/starhub.xml, https://walpak1.github.io/epg/mana2.xml, https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/malaysia2.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
+#EXTM3U  x-tvg-url="https://www.open-epg.com/files/malaysia3.xml, https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/starhub.xml, https://walpak1.github.io/epg/mana2.xml, https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/malaysia2.xml, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
 
 
 #################################################################FTA/Local##############################################################
@@ -873,3 +873,37 @@ https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU
 
 #EXTINF:-1  group-title="Foreign" tvg-id="AlJazeeraArabicHD.mana2" tvg-chno="907" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest?cb=20171112085348",Al Jazeera Arabic
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+
+
+##############################################################Others###############################################################
+
+#EXTINF:-1  group-title="Others" tvg-id="Uniques.id" tvg-chno="951" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",UNIQUES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#EXTINF:-1  group-title="Others" tvg-id="Originals.id" tvg-chno="952" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",ORIGINALS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+
+#EXTINF:-1  group-title="Others" tvg-id="Cineedge.id" tvg-chno="953" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CINEEDGE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+#EXTINF:-1  group-title="Others" tvg-id="Buddy Star.id" tvg-chno="954" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",BUDDY STARS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+#EXTINF:-1  group-title="Others" tvg-id="Superrix.id" tvg-chno="955" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",SUPERRIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
