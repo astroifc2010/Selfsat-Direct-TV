@@ -34,7 +34,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="111" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAPETITO.jpg?raw=true",RTM Apetito
-https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="112" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMSNAP.jpg?raw=true",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
@@ -55,8 +55,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Astro Oasis.my" tvg-chno="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"17d5d62dc61954b82ee016da264abd10": "5f35f815699140e2649d825f0d24028e"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
@@ -90,7 +90,7 @@ https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://slive.mana2.my/DramaChannel/index.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="133" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29.svg/revision/latest?cb=20210109093524",TVRI Nasional
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TVRI.id" tvg-chno="133" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29.svg/revision/latest?cb=20210109093524",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -118,26 +118,26 @@ https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 ##################################################################Oriental##############################################################
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Astro AEC.my" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"06282157da4e8f97623a70ed017fad10": "8da72ca8501a4deb4bfc381fe1737ef4"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Astro AOD.my" tvg-chno="202" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Astro_AOD_%28Nov_2024%29.png/revision/latest?cb=20241121180737",Astro AOD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"286aef4e8d85db66e05fe4a5c799e410": "176e2938bce795d1c85559a2440477f7"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="TVB Jade.my" tvg-chno="203" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/TVB_Jade_2023.webp/revision/latest?cb=20251115070001",TVB Jade
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fe1219019a9f36cdef347088e592ca10": "cb9e1a122ed1c6445f7d3fd2162358f1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="TVBS Asia HD.my" tvg-chno="204" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",TVBS Asia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e76a89a1e23f8f7b828f4dbdc2d09a10": "346f0f60cbd7591e1ae72ca589157bb1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 
@@ -145,68 +145,68 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Astro Hua Hee Dai.my" tvg-chno="207" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"60507ef0dc9c813d5f8c7b2229412f10": "c8a0f7e69bb31dfd475da26fc6c6003b"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="iQIYI HD.my" tvg-chno="208" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7ef7e913ce85a1131b27036069169a10": "77d98ed71db7524c27875a09a975f9e6"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="K Plus HD.my" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K-Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa48b28bd723f91214887df6ed9fad10": "b5a3a800848120c843ae0fa68c09c261"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Phoenix Chinese Channel HD.my" tvg-chno="210" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427",Phoenix Chinese Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"517c308ef6419b1767e9ae710c897710": "fd6be1cea9fa23c98f20f1b2abcae276"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="CCTV4 HD.my" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest?cb=20200119091533",CCTV-4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"db1a338f71d40186f5997cb085bb3f10": "8425690c4844fbb01b5eae706bc2f7c6"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Phoenix Info News HD.my" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Phoenix_InfoNews_Channel.png/revision/latest/scale-to-width-down/1000?cb=20221122014417&path-prefix=vi",Phoenix InfoNews
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9729558a9bff8d94774bfa2f019a1310": "8b9eb7ab7196a425d9ab618a5c9f99d9"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="KBS World HD.my" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"692950d39869c92af9a9ddea453c0d10": "eadc626ab959255f7ab881c03d306fe2"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="ONE HD.my" tvg-chno="215" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d8fe398c79065173fa9788f226056510": "45e77e6a8ba767b63cacfdb01ef2ac29"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="tvN HD.my" tvg-chno="216" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=530",tvN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"faf4d62bb898de503446c28fb1aa9210": "19e80ecc5d337215c64004cb49c9cb01"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="tvN Movies HD.my" tvg-chno="217" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=530",tvN Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="TVB Entertainment News HD.my" tvg-chno="220" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/TVB_Entertainment_News.png/revision/latest?cb=20230803044813&path-prefix=vi",TVB Entertainment News
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fa629c3640ce533c755509f67f75e610": "af710a06fd67975b99db4a47a757b84b"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
 
@@ -214,32 +214,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
 https://cdn6.163189.xyz/163189/tvbxh
 
 #EXTINF:-1  group-title="Oriental" tvg-id="TVB Classic HD.my" tvg-chno="222" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest?cb=20230714155414&path-prefix=vi",TVB Classic
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"071448690a0ec9b27eb2c1a7d5e03010": "933ae273b166baa8fb203eef1a7adbdf"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Celestial Classic Movies.my" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi",CCM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Celestial Movies HD.my" tvg-chno="227" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c5c1ba26907291afec11a9a78d513410": "361197805d0149c29801946cf2dde67c"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 
 #################################################################Indian#################################################################
 
-#EXTINF:-1  group-title="Indian" tvg-id="Thanthi.One.in" tvg-chno="301" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bcea7fce3598bc29fd4db2d2ba6d22f7.png",Thanthi One
-https://mumt02.tangotv.in/THANTHIONE/index.m3u8
-
 #EXTINF:-1  group-title="Indian" tvg-id="Astro Vaanavil.my" tvg-chno="303" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Astro_Vaanavil_%28Nov_2024%29.png/revision/latest?cb=20241121175436",Astro Vaanavil
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"72499c6ad44cc37d95a9075420911110": "b5416326114a13e90662a4fbaf3c532b"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
@@ -265,8 +262,8 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="SUN TV HD.my" tvg-chno="312" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=272",Sun TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"83076ff2f68d1764b559c432ab49ca10": "ebdf56ba4a3562cc82053a2952975432"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
@@ -279,18 +276,29 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1  group-title="Indian" tvg-id="YRF music.my" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
+#EXTINF:-1  group-title="Indian" tvg-id="Z Cinema HD.my" tvg-chno="316" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Zee_Cinema_%282025%29.svg/revision/latest?cb=20251214050832",Zee Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+
 #EXTINF:-1  group-title="Indian" tvg-id="Colors Hindi HD.my" tvg-chno="317" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615",Colors Hindi
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ad3cb242cde3b687e2398cd21eb9bd10": "6ed9b4976a854a289ce62cac957a55d5"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="MURASU.in" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 
+#EXTINF:-1  group-title="Indian" tvg-id="Zee.TV.in" tvg-chno="319" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zee_TV_2025.svg/revision/latest?cb=20250608214903",Zee TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
 #EXTINF:-1  group-title="Indian" tvg-id="KTV.my" tvg-chno="320" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=272",KTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8e7863a8e770b0d72ebe4a68437b6410": "73648ceba3751645926d45421c85d927"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
@@ -348,8 +356,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 ###https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=parlimen
 
 #EXTINF:-1  group-title="News" tvg-id="CNN HD.my" tvg-chno="413" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524",CNN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1b618a291cece44c9845dddfc4fd9b10": "bf7e1b97555c4acb7455f711b2a9ff16"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
 
@@ -357,8 +365,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Bloomberg TV HD.my" tvg-chno="415" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png",Bloomberg TV Asia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"db1343545ae25ddecf8dfa4422f35410": "79a044b30d64f5c37e6d45d503cbb280"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
@@ -366,8 +374,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="ABC Australia HD.my" tvg-chno="417" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6a9fcc2f94258cee0f2108687c42e710": "99bd7c1ff2391244b4e40e08bef1109d"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 
@@ -397,23 +405,26 @@ https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRIWorld.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="BBC News HD.my" tvg-chno="425" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest?cb=20220425110627",BBC News
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"01767d1c2315c0e9556f477fb1f0c710": "77ec0eeb21c07812fd7c58628366ccb3"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+
+#EXTINF:-1  group-title="News" tvg-id="Wion.in" tvg-chno="426" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/WION_TV_logo.jpg/revision/latest?cb=20200109055936",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
 
 ################################################################Knowledge###############################################################
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="Discovery Asia HD.my" tvg-chno="501" tvg-logo="https://i.imgur.com/foLICwL.png",Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3ff02fcd80c2e3230c52ae70fe903410": "c3a58ec867cc25829e1fbe8938442553"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="Discovery Channel HD.my" tvg-chno="502" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Discovery_white_2019.svg/revision/latest?cb=20210804150956",Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"276767a578aae2eacb284247ccd9eb10": "03ef88df1a47669e5459e105e3b535b1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
@@ -424,8 +435,8 @@ https://ml-pull-hwc.myco.io/CGTN/hls/CGTN_H264-720p.m3u8?pkg_media=video&pkg_hm=
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="BBC Earth.my" tvg-chno="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250",BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"dbf62ff0804bc5b8d523ef009d786310": "bb1bdb27cc5fe1ec637d257999344cc3"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
@@ -439,20 +450,20 @@ https://slive.mana2.my/GlobalTrekker/index.mpd
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="Love Nature.my" tvg-chno="509" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Love_Nature_%282025%29.svg/revision/latest?cb=20250206095703",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"168bd815468639fe4528b4bf0141f310": "775a654c0610811ad022329a68884de1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="Astro Tutor TV.my" tvg-chno="510" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Astro_Tutor_TV_%28Nov_2024%29.png/revision/latest?cb=20241121181922",Astro Tutor TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8829b8f4d91d2630f398c67ed94c2310": "aed9dc02038725aadbd0c7bd1709240b"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="History HD.my" tvg-chno="511" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750",History
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3feecc36930732cbb69306dc687c6f10": "3458265f7530bf1fef204ca8cb4689db"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
@@ -506,14 +517,14 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #################################################################Variety################################################################
 
 #EXTINF:-1  group-title="Variety" tvg-id="AXN HD.my" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c24a7811d9ab46b48b746a0e7e269210": "c321afe1689b07d5b7e55bd025c483ce"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Asian Food Network HD.my" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest?cb=20191129100706",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"346b9f41e2933748c8861f82932e0110": "cf0cffb637b81598a27bd6b0d90d65a8"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
@@ -521,8 +532,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="HITS HD.my" tvg-chno="606" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest?cb=20240506054820",Hits
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1fe92685a75844dc54c9dac124802510": "36cb2063bf5338d18d31657371b15817"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
@@ -537,14 +548,14 @@ https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=BBCLife
 
 #EXTINF:-1  group-title="Variety" tvg-id="HITS NOW.my" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/scale-to-width-down/1200?cb=20240711133443",Hits Now
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4307def6a29bec082f8c93f1f98e5910": "a4d49bda8cd29ba2888c732b4e7d9d63"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="TLC HD.my" tvg-chno="610" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TLC_logo_2009.png/revision/latest?cb=20101216181632",TLC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
@@ -584,6 +595,12 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockEnt
 
+#EXTINF:-1  group-title="Variety" tvg-id="304.myTV" tvg-chno="618" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
 #EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934",Qello Concerts By Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
@@ -603,14 +620,17 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Lifetime HD.my" tvg-chno="625" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509",Lifetime
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8de11e005db5bd0db8228814863cd310": "183b3eafa4c82e68f74c4244d54906b0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 
+#EXTINF:-1  group-title="Variety" tvg-id="629.myTV" tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/That%27s_90s00s_II.png/revision/latest?cb=20260219165635",That's 90s00s
+https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8
+
 #EXTINF:-1  group-title="Variety" tvg-id="HGTV HD.my" tvg-chno="627" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128",HGTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8c1bb309955eee32882390abebe19810": "2a695b046e7cf5811a634d1348441195"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
@@ -622,6 +642,12 @@ https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="Pet club.my" tvg-chno="629" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
+
+#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="630" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Adult_Swim_%28Black_Box%29.svg/revision/latest?cb=20220417175456",Adult Swim
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 
 
 #################################################################Movies#################################################################
@@ -673,8 +699,8 @@ https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg010
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="Astro Showcase.my" tvg-chno="661" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Astro_Showcase_%28Nov_2024%29.png/revision/latest?cb=20241121181548",Astro Showcase
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
@@ -694,31 +720,41 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesa
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="HITS MOVIES HD.my" tvg-chno="665" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",Hits Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ff1febd7018d0dd711601e795e0d6210": "38fbfb3a56e40ff92c9df8acbcba9ef6"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-###EXTINF:-1  group-title="Movies" tvg-id="Astro FAM Time.my" tvg-chno="666" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Astro_FAM_Time_%28Apr_2026%29.png/revision/latest?cb=20260228003010",Astro FAM Time
+###EXTINF:-1  group-title="Movies" tvg-id="Local.Programming.Dummy.us" tvg-chno="666" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Astro_FAM_Time_%28Apr_2026%29.png/revision/latest?cb=20260228003010",Astro FAM Time
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=
+###KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5186/
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
+#EXTINF:-1  group-title="Movies" tvg-id="HBOSignatureHD.sg" tvg-chno="667" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest?cb=20250505123120",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
 #################################################################Sports#################################################################
 
-#EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
+#EXTINF:-1  group-title="Sports" tvg-id="Sportstars.id" tvg-chno="701" tvg-logo="https://i.postimg.cc/ydthvytz/Sportstars.png",Sportstars
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest/scale-to-width-down/1000?cb=20241121201428",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="CricBuzz.my" tvg-chno="703" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png",Cricbuzz
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan Plus
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
@@ -753,10 +789,16 @@ https://slive.mana2.my/SpotvNow/index.mpd
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Astro Sports Plus.my" tvg-chno="717" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"81352bc47ec1177b321ee65ac1be7f10": "c8b886142005d7e5067c8717777eaac4"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
+
+#EXTINF:-1  group-title="Sports" tvg-id="Astro Football.my" tvg-chno="718" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458",Astro Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 
 ###############################################################Radio###################################################################
@@ -847,8 +889,8 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 ###############################################################Foreign#################################################################
 
 #EXTINF:-1  group-title="Foreign" tvg-id="NHK World Premium.my" tvg-chno="901" tvg-logo="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=272",NHK World Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98817b144bcf19fd0ddca7fe54cee110:44b423a77dd34ace162db35cbb0fb6a3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
