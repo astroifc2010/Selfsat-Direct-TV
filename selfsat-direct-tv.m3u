@@ -258,8 +258,8 @@ https://cdn-3.pishow.tv/live/1612/master.m3u8
 #EXTINF:-1  group-title="Indian" tvg-id="Pitaara.in" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9e8ecfbe919c4262f25a3019aa5aac26.png",Pitaara TV
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="KALAIGNAR.CHITHIRAM.in" tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest?cb=20191224115415",Chithiram TV
-https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="310" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/feeb8e10a1bcad7cb7f8dde053c56ae9.png",GTC Punjabi
+http://103.180.212.191:3500/live/3470.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="211.astro" tvg-chno="312" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=272",Sun TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -291,8 +291,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="MURASU.in" tvg-chno="318" tvg-logo="http://1.bp.blogspot.com/-CT7AosmMzRc/T_Z2su_TfMI/AAAAAAAAFQc/gR0cF_iL2kM/s1600/murasu+logo+1.png",Murasu TV
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="Win.TV.in" tvg-chno="318" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/6142ac350185bccb38b98ee5b74b0212.png",Win TV
+https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Zee.TV.in" tvg-chno="319" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zee_TV_2025.svg/revision/latest?cb=20250608214903",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -305,6 +305,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
+#EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="323" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
+http://103.180.212.191:3500/live/710.m3u8
+
 #EXTINF:-1  group-title="Indian" tvg-id="Kairali.News.in" tvg-chno="324" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/284?cb=20191221124115",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 
@@ -316,6 +319,9 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="AMRITA.in" tvg-chno="327" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Flower.TV.in" tvg-chno="328" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/de5dd5584d9b2b0b956b5818437de5e7.png",Flowers TV
+http://103.180.212.191:3500/live/634.m3u8
 
 
 #####################################################################News###############################################################
@@ -711,7 +717,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="412.astro" tvg-chno="666" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Astro_FAM_Time_%28Apr_2026%29.png/revision/latest?cb=20260228003010",Astro FAM Time
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5186/
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wzb9fIuxjRe_Y8nkYDKo7Q","kid":"B_pqn3_ngGu6mw6X0KxbEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
@@ -737,7 +743,7 @@ https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sukan_RTM_%282021%29.svg/revision/latest/scale-to-width-down/1000?cb=20240921120447",Sukan Plus
+#EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png/revision/latest/scale-to-width-down/1000?cb=20260402075508",Sukan Plus
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
@@ -783,6 +789,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF:-1  group-title="Sports" tvg-id="801.astro" tvg-chno="719" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Arena_%28Oct_2024%29.png/revision/latest?cb=20241121182235",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 
 ###############################################################Radio###################################################################
@@ -885,13 +897,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={"a7c942778e874d43be92b8d0a0cd11b4": "6d54358306571658ffdb952c6560688b"}
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV4_HD/manifest.mpd
 
-#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="903" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TV5Monde_Asie_2025.svg/revision/latest?cb=20251001024339",TV5Monde Asie
+#EXTINF:-1  group-title="Foreign" tvg-id="TV5Monde.id" tvg-chno="903" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TV5Monde_Asie_2025.svg/revision/latest?cb=20251001024339",TV5Monde Asie
 https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="904" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV5Monde_Style_2025.svg/revision/latest?cb=20251010000729",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="France 24 (French).hk" tvg-chno="905" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/France_24_en_Fran%C3%A7ais.svg/revision/latest?cb=20231031204516",France 24 French
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="905" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/France_24_en_Fran%C3%A7ais.svg/revision/latest?cb=20231031204516",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="906" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Cgtn_cn_arabic.png/revision/latest?cb=20170127161813",CGTN Arabic
