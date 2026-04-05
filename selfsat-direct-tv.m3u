@@ -250,7 +250,7 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+http://103.180.212.191:3500/live/1518.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8
@@ -387,7 +387,11 @@ https://692f685b5aa52.streamlock.net/tic/indonusa/chunklist_w308166095.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="NHKWORLD.mana2" tvg-chno="421" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/NHK_World-Japan_2020_II.svg/revision/latest?cb=20221125061100",NHK World-Japan
-http://103.58.160.157:8278/720-NHKWORLD/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
 
 #EXTINF:-1  group-title="News" tvg-id="RTInternational.mana2" tvg-chno="422" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
