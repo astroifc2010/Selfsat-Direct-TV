@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/hongkong4.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"  
+#EXTM3U  url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/hongkong4.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/AstroVOD" billed-msg="Selfsat Direct TV"  
 
 # --- FTA/Local ---
 
@@ -765,6 +765,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 #EXTINF:-1  group-title="Movies" tvg-id="HBO Signature.hk" tvg-chno="667" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest?cb=20250505123120",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
+#EXTINF:-1  group-title="Others" tvg-id="Uniques.id" tvg-chno="668" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",UNIQUES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#EXTINF:-1  group-title="Others" tvg-id="Cineedge.id" tvg-chno="669" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CINEEDGE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+#EXTINF:-1  group-title="Others" tvg-id="Superrix.id" tvg-chno="670" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",SUPERRIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
 # --- Sports ---
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.id" tvg-chno="701" tvg-logo="https://i.postimg.cc/ydthvytz/Sportstars.png",Sportstars
@@ -833,6 +851,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="801.astro" tvg-chno="719" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Arena_%28Oct_2024%29.png/revision/latest?cb=20241121182235",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:-1  group-title="Sports" tvg-id="802.astro" tvg-chno="720" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Arena_2_%28Oct_2024%29.png/revision/latest?cb=20241121182424",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -957,33 +981,14 @@ https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 
 # --- Others ---
 
-#EXTINF:-1  group-title="Others" tvg-id="Uniques.id" tvg-chno="951" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",UNIQUES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-
 #EXTINF:-1  group-title="Others" tvg-id="Originals.id" tvg-chno="952" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",ORIGINALS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#EXTINF:-1  group-title="Others" tvg-id="Cineedge.id" tvg-chno="953" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CINEEDGE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
 #EXTINF:-1  group-title="Others" tvg-id="Buddy Star.id" tvg-chno="954" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",BUDDY STARS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-
-#EXTINF:-1  group-title="Others" tvg-id="Superrix.id" tvg-chno="955" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",SUPERRIX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-
