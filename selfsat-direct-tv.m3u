@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/hongkong4.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/AstroVOD" billed-msg="Selfsat Direct TV"
 
+
 #EXTINF:-1  group-title="FTA/Local" tvg-id="101.astro" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
@@ -517,7 +518,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="ZOOMOO.mana2" tvg-chno="563" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://slive.mana2.my/ZooMoo/index.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -732,7 +736,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="HBO Signature.hk" tvg-chno="667" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest?cb=20250505123120",HBO Signature
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="Uniques.id" tvg-chno="668" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",UNIQUES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -774,7 +781,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="UK:.FIFA+.be" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA Plus
-https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="305.myTV" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Trace_Sports_Stars.svg/revision/latest?cb=20191113143747",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
