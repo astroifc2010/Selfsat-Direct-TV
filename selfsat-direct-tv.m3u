@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AdSM6gNr0-ts75PtRJbX_Q","kid":"erqRUKLNEz4wKEbNq1UVEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="101.astro" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -288,14 +288,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 #EXTINF:-1  group-title="Oriental" tvg-id="558273" tvg-chno="228" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089305'&EntityType='Item'&EntityId='558273'&Width=150&Height=59",FoodON
 https://tglmp01.akamaized.net/out/v1/5c657d3b7e4e44eea311598f1b368e56/manifest.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="Dragon.TV.Intl.sg" tvg-chno="229" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Dragon_TV_logo.svg/revision/latest?cb=20251109185612",Dragon TV
+#EXTINF:-1  group-title="Oriental" tvg-id="Dragon.TV.Intl.sg" tvg-chno="229" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Dragon_TV_logo.svg/revision/latest?cb=20251109185612",Dragon TV International
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="Hunan.International.sg" tvg-chno="230" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Hunan_Television_%282009%29.png/revision/latest?cb=20251008143832",Hunan TV
+#EXTINF:-1  group-title="Oriental" tvg-id="Hunan.International.sg" tvg-chno="230" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Hunan_Television_%282009%29.png/revision/latest?cb=20251008143832",Hunan International
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
