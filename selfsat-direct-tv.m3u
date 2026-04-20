@@ -1,11 +1,7 @@
-#EXTM3U
-#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/hongkong4.xml.gz,https://www.open-epg.com/files/indonesia2.xml"  vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroVOD,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/hongkong4.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AdSM6gNr0-ts75PtRJbX_Q","kid":"erqRUKLNEz4wKEbNq1UVEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="101.astro" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
@@ -330,22 +326,22 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
-http://103.180.212.191:3500/live/1518.m3u8
+http://103.154.3.101:5001/live/1518.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Raj.TV.in" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/36369cba498189d05e3f0912a93727b6.png",Raj TV
-http://103.180.212.191:3500/live/707.m3u8
+http://103.154.3.101:5001/live/707.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Jaya.TV.HD.in" tvg-chno="310" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/38564ce8c8aaac2c0529abbc55318d6f.png",Jaya TV
-http://103.180.212.191:3500/live/419.m3u8
+http://103.154.3.101:5001/live/419.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Polimer.TV.in" tvg-chno="311" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/57b303557fb3de635213a6a9911c4ad8.png",Polimer TV
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Colors.Rishtey.in" tvg-chno="312" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",Rishtey TV
-http://103.180.212.191:3500/live/279.m3u8
+http://103.154.3.101:5001/live/279.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="202.astro" tvg-chno="313" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Astro_Vinmeen_%28Nov_2024%29.png/revision/latest?cb=20241121175837",Astro Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,7 +379,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="323" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
-http://103.180.212.191:3500/live/710.m3u8
+http://103.154.3.101:5001/live/710.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Kairali.News.in" tvg-chno="324" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/284?cb=20191221124115",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
@@ -398,7 +394,7 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Flower.TV.in" tvg-chno="328" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/de5dd5584d9b2b0b956b5818437de5e7.png",Flowers TV
-http://103.180.212.191:3500/live/634.m3u8
+http://103.154.3.101:5001/live/634.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -600,7 +596,7 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="Nick.HD+.in" tvg-chno="564" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Nick_hd_plus_2.png/revision/latest?cb=20251013111129",Nickelodeon HD Plus
-http://103.180.212.191:3500/live/1226.m3u8
+http://103.154.3.101:5001/live/1226.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
