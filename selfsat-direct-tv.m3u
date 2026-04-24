@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
+#############################################################FTA/Local##################################################################
+
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
 https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
 
@@ -52,7 +54,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="113" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMFITRAH.jpg?raw=true",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="114.astro" tvg-chno="114" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",TV Alhijrah
+#EXTINF:-1  group-title="FTA/Local" tvg-id="114.astro" tvg-chno="114" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TV_Alhijrah_%282013%29.svg/revision/latest?cb=20240630121348",TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -138,6 +140,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
+
+
+################################################################Oriental################################################################
 
 #EXTINF:-1  group-title="Oriental" tvg-id="306.astro" tvg-chno="201" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Astro_AEC_%28Nov_2024%29.png/revision/latest?cb=20241121180336",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -286,6 +291,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 
+
+################################################################Indian##################################################################
+
 #EXTINF:-1  group-title="Indian" tvg-id="203.astro" tvg-chno="301" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Astro_Vellithirai_%28Nov_2024%29.png/revision/latest?cb=20241121180041",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
@@ -390,6 +398,9 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 http://103.180.212.191:3500/live/634.m3u8
 ###http://103.154.3.101:5001/live/634.m3u8
 
+
+#################################################################News###################################################################
+
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="401" tvg-logo="https://pikfilm.com.my/wp-content/uploads/elementor/thumbs/DW-channel-logo-English-pqsepoq22ri06va8l84x3h6a8ke362kqowy5fmiltc.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
@@ -475,6 +486,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 #EXTINF:-1  group-title="News" tvg-id="Wion.in" tvg-chno="426" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9f31d642976f5887bb62bd3b6a07f556.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
+
+#############################################################Knowledge##################################################################
+
 #EXTINF:-1  group-title="Knowledge" tvg-id="553.astro" tvg-chno="501" tvg-logo="https://i.imgur.com/foLICwL.png",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
@@ -531,6 +545,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="English.Club.HD.sk" tvg-chno="512" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/English_Club_TV.svg/revision/latest?cb=20200101202615",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+
+
+#################################################################Kids###################################################################
 
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="551" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst
 https://streams2.sofast.tv/ptnr-lg/title-BABYFIRST-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/703f3916-19b4-4d69-ae16-7a95f375e719/manifest.m3u8
@@ -589,6 +606,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-sa
 #EXTINF:-1  group-title="Kids" tvg-id="Nick.HD+.in" tvg-chno="564" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Nick_hd_plus_2.png/revision/latest?cb=20251013111129",Nickelodeon HD Plus
 http://103.180.212.191:3500/live/1226.m3u8
 ###http://103.154.3.101:5001/live/1226.m3u8
+
+
+################################################################Variety#################################################################
 
 #EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -684,10 +704,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hl
 https://ml-pull-hwc.myco.io/CGTN5/hls/CGTN5_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1  group-title="Variety" tvg-id="626.myTV" tvg-chno="623" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest/scale-to-width-down/1000?cb=20230316115746",That's 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="627.myTV" tvg-chno="624" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/That%27s_80s_2023.png/revision/latest?cb=20230109161537",That's 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="703.astro" tvg-chno="625" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -816,6 +836,9 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
+
+################################################################Sports##################################################################
+
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.id" tvg-chno="701" tvg-logo="https://i.postimg.cc/ydthvytz/Sportstars.png",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -913,6 +936,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1  group-title="Sports" tvg-id="Fight Sports.id" tvg-chno="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Fight_Sports.png/revision/latest?cb=20260414070241",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
 
+
+####################################################################Radio###############################################################
+
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="801" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/RadioMuzik_2025.png/revision/latest?cb=20251116134856",Radio Muzik
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC
 
@@ -997,6 +1023,9 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1  group-title="Radio" tvg-id="RAKITAFM.mana2" tvg-chno="828" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/RAKITA.png/revision/latest?cb=20221013034327",Rakita FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC
+
+
+###############################################################Foreign##################################################################
 
 #EXTINF:-1  group-title="Foreign" tvg-id="398.astro" tvg-chno="901" tvg-logo="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=272",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
