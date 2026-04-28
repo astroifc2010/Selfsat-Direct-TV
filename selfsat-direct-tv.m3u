@@ -224,7 +224,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="320.astro" tvg-chno="219" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",TVBS Asia
+#EXTINF:-1  group-title="Oriental" tvg-id="320.astro" tvg-chno="219" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/TVBS_Asia_logo_2017.png/revision/latest?cb=20220223000857&path-prefix=vi",TVBS Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -532,9 +532,6 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
 #################################################################Kids###################################################################
 
-#EXTINF:-1  group-title="Kids" tvg-id="556893" tvg-chno="551" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/3/33/Kartoon_Channel%21.jpeg/revision/latest?cb=20250804203623",Kartoon Channel
-https://d29ecfnk3jwkp9.cloudfront.net/out/v1/f246ce87793444d9bbbc56f244ec3c2c/manifest.mpd
-
 #EXTINF:-1  group-title="Kids" tvg-id="553" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Cbeebies2022_%28ident%29.svg/revision/latest?cb=20220307182447",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
@@ -666,7 +663,7 @@ https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="512" tvg-chno="617" tvg-logo="https://freetv.fun/media/images/channel/2022/08/17/large/20220817142713635100_54.png",BBC Lifestyle
-https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+https://cdn-1.ttvb.eu.org/api/BBC-Lifestyle/index.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="472" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -843,12 +840,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1  group-title="Sports" tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-chno="706" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest?cb=20241121201428",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1  group-title="Sports" tvg-id="832.astro" tvg-chno="707" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cricbuzz.png",Cricbuzz
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="801.astro" tvg-chno="708" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Arena_%28Oct_2024%29.png/revision/latest?cb=20241121182235",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
