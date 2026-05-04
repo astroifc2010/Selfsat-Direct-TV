@@ -347,6 +347,12 @@ https://cdn-4.pishow.tv/live/1531/master.m3u8
 #EXTINF:-1  group-title="Indian" tvg-id="558279" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
+#EXTINF:-1  group-title="Indian" tvg-id="222.astro" tvg-chno="316" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png?w=272",Colors Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+
 #EXTINF:-1  group-title="Indian" tvg-id="117.astro" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88d48f23e45528093490f913ddb88de6.png",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
@@ -370,9 +376,12 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="COLORS.RISHTEY.in" tvg-chno="330" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",Rishtey TV
+#EXTINF:-1  group-title="Indian" tvg-id="COLORS.RISHTEY.in" tvg-chno="330" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Colors_rishtey.png/revision/latest?cb=20210514120116",Colors Rishtey
 http://103.180.212.191:3500/live/279.m3u8
 ###http://103.154.3.101:5001/live/279.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Colors.Cineplex.HD.in" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
+http://103.180.212.191:3500/live/1477.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="340" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
 http://103.180.212.191:3500/live/710.m3u8
@@ -431,7 +440,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
-#EXTINF:-1  group-title="News" tvg-id="517.astro" tvg-chno="413" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/Bloomberg_Television_2016.png/revision/latest?cb=20220127022818&path-prefix=vi",Bloomberg TV Asia
+#EXTINF:-1  group-title="News" tvg-id="517.astro" tvg-chno="413" tvg-logo="https://epg.yang-1989.eu.org/logo/Bloomberg-TV.png",Bloomberg TV Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -557,6 +566,12 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
 #################################################################Kids###################################################################
 
+#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="551" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png",Kiddo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
+
 #EXTINF:-1  group-title="Kids" tvg-id="553" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Cbeebies2022_%28ident%29.svg/revision/latest?cb=20220307182447",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
@@ -658,10 +673,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockEnt
 
 #EXTINF:-1  group-title="Variety" tvg-id="631.myTV" tvg-chno="606" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest?cb=20221111193717",Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+https://amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="628.myTV" tvg-chno="607" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/That%27s_Rock.svg/revision/latest?cb=20240819002602",That's Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="707.astro" tvg-chno="608" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TLC_logo_2009.png/revision/latest?cb=20101216181632",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -751,6 +766,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://slive.mana2.my/AniPlus/index.mpd
 
+#EXTINF:-1  group-title="Variety" tvg-id="Colors.Infinity.HD.in" tvg-chno="629" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Colors_Infinity_2018.jpg/revision/latest?cb=20180731024556",Colors Infinity
+http://103.180.212.191:3500/live/1158.m3u8
+
 
 ################################################################Movies##################################################################
 
@@ -824,10 +842,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #EXTINF:-1  group-title="Movies" tvg-id="Moviesphere.au" tvg-chno="662" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="208.myTV" tvg-chno="663" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff2c732af-553a-4ec1-b8ab-14277415e5b0%2FRCM_logo_white_-_Angela_Chan.png",RCM
-https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1  group-title="Movies" tvg-id="208.myTV" tvg-chno="663" tvg-logo="https://epg.yang-1989.eu.org/logo/RCM.png",RCM
+https://amg01076-amg01076c11-mytvsuper-apac-7916.playouts.now.amagi.tv/playlist/amg01076-lightning-rialtorcm-mytvsuperapac/playlist.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="202.myTV" tvg-chno="664" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204",Thrill
+#EXTINF:-1  group-title="Movies" tvg-id="202.myTV" tvg-chno="664" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -836,8 +854,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTINF:-1  group-title="Movies" tvg-id="plex.tv.Miramax.Movie.Channel.plex" tvg-chno="665" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Miramax_2022.svg/revision/latest?cb=20221029144725",Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-id="207.myTV" tvg-chno="666" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000114M_20220329T055323SQUARE.png_20220329055323.png&h=250",Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1  group-title="Movies" tvg-id="207.myTV" tvg-chno="666" tvg-logo="https://epg.yang-1989.eu.org/logo/ActionHollywoodMovies.png",Action Hollywood Movies
+https://amg01076-amg01076c4-mytvsuper-apac-7830.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="wedotv Movies.my" tvg-chno="667" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
@@ -894,7 +912,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="305.myTV" tvg-chno="710" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg/revision/latest?cb=20221203193933",Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+https://amg01131-amg01131c2-mytvsuper-apac-7991.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-tracesportstars-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Outdoor Channel.id" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -1072,3 +1090,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/VTV4_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=98817b144bcf19fd0ddca7fe54cee110:44b423a77dd34ace162db35cbb0fb6a3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+
+#EXTINF:-1  group-title="Foreign" tvg-id="CGTN.Français.fr" tvg-chno="910" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/CGTN_Fran%C3%A7ais.svg/revision/latest?cb=20230828091252",CGTN French
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
