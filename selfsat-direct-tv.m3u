@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -117,7 +117,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://slive.mana2.my/DramaChannel/index.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Vision Prime.id" tvg-chno="142" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest?cb=20230422230423",Vision Prime
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Vision.Prime.id" tvg-chno="142" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest?cb=20230422230423",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -189,7 +189,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="Xing kong TV.id" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Xing_Kong_China.svg/revision/latest?cb=20230402103758",Xing Kong TV
+#EXTINF:-1  group-title="Oriental" tvg-id="Local.Programming.Dummy.us" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Xing_Kong_China.svg/revision/latest?cb=20230402103758",Xing Kong TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -693,7 +693,7 @@ https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-
 #EXTINF:-1  group-title="Variety" tvg-id="Pet club.my" tvg-chno="611" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="415.astro" tvg-chno="612" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",Rock XStream
+#EXTINF:-1  group-title="Variety" tvg-id="415.astro" tvg-chno="612" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/ROCK_X_Stream.png/revision/latest?cb=20260202134637",Rock XStream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yI_o80udyOEKAOh2pv9BNg","kid":"MlNw1yJWWrXtCaVIujYOEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -707,12 +707,6 @@ https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1  group-title="Variety" tvg-id="629.myTV" tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/That%27s_90s00s_II.png/revision/latest?cb=20260219165635",That's 90s00s
 https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8
-
-#EXTINF:-1  group-title="Variety" tvg-id="Adult.Swim.ca2" tvg-chno="616" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Adult_Swim_%28Black_Box%29.svg/revision/latest?cb=20220417175456",Adult Swim
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
-https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="512" tvg-chno="617" tvg-logo="https://freetv.fun/media/images/channel/2022/08/17/large/20220817142713635100_54.png",BBC Lifestyle
 https://cdn-1.ttvb.eu.org/api/BBC-Lifestyle/index.m3u8
@@ -875,19 +869,19 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Sportstars 2.id" tvg-chno="702" tvg-logo="https://i.postimg.cc/MHB74jJf/Sportstars-2.png",Sportstars 2
+#EXTINF:-1  group-title="Sports" tvg-id="Sportstars.2.id" tvg-chno="702" tvg-logo="https://i.postimg.cc/MHB74jJf/Sportstars-2.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Sportstars 3.id" tvg-chno="703" tvg-logo="https://i.postimg.cc/664fTF46/Sportstars-3.png",Sportstars 3
+#EXTINF:-1  group-title="Sports" tvg-id="Sportstars.3.id" tvg-chno="703" tvg-logo="https://i.postimg.cc/664fTF46/Sportstars-3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Sportstars 4.id" tvg-chno="704" tvg-logo="https://i.postimg.cc/RVrQtGw7/Sportstars-4.png",Sportstars 4
+#EXTINF:-1  group-title="Sports" tvg-id="Sportstars.4.id" tvg-chno="704" tvg-logo="https://i.postimg.cc/RVrQtGw7/Sportstars-4.png",Sportstars 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -914,7 +908,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1  group-title="Sports" tvg-id="305.myTV" tvg-chno="710" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg/revision/latest?cb=20221203193933",Trace Sports Stars
 https://amg01131-amg01131c2-mytvsuper-apac-7991.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-tracesportstars-mytvsuperapac/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="Outdoor Channel.id" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
+#EXTINF:-1  group-title="Sports" tvg-id="Outdoor.Channel.id" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM.my" tvg-chno="712" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png/revision/latest?cb=20260402075508",Sukan Plus
@@ -948,7 +942,7 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://slive.mana2.my/SpotvNow/index.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Fight Sports.id" tvg-chno="718" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Fight_Sports.png/revision/latest?cb=20260414070241",Fight Sports
+#EXTINF:-1  group-title="Sports" tvg-id="Fight.Sports.id" tvg-chno="718" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Fight_Sports.png/revision/latest?cb=20260414070241",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Red.Bull.TV.in" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Red Bull TV
