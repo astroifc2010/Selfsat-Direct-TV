@@ -189,12 +189,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="Local.Programming.Dummy.us" tvg-chno="211" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Xing_Kong_China.svg/revision/latest?cb=20230402103758",Xing Kong TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
-
 #EXTINF:-1  group-title="Oriental" tvg-id="300.astro" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
@@ -335,7 +329,7 @@ https://cdn-3.pishow.tv/live/1612/master.m3u8
 http://103.180.212.191:3500/live/1518.m3u8
 ###http://103.154.3.101:5001/live/1518.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Puthiya.Thalimurai.in" tvg-chno="312" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436",Puthiya Thalaimurai TV
+#EXTINF:-1  group-title="Indian" tvg-id="Puthiya.Thalimurai.in" tvg-chno="312" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88e831acf02f0768754d7648fc97a245.png",Puthiya Thalaimurai TV
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Polimer.TV.in" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/57b303557fb3de635213a6a9911c4ad8.png",Polimer TV
@@ -943,7 +937,7 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Fight.Sports.id" tvg-chno="718" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Fight_Sports.png/revision/latest?cb=20260414070241",Fight Sports
-https://hls.iill.top/api/Fight-Sports/index.m3u8
+https://cdn-1.ttvb.eu.org/api/Fight-Sports/index.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Red.Bull.TV.in" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -1047,6 +1041,15 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1  group-title="Radio" tvg-id="RAKITAFM.mana2" tvg-chno="828" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/RAKITA.png/revision/latest?cb=20221013034327",Rakita FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC
+
+#EXTINF:-1  group-title="Radio" tvg-id="856.astro" tvg-chno="829" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ERA_logo_%282018%29.svg/revision/latest?cb=20240711074150",Era FM
+https://stream.rcs.revma.com/crec9cmbv4uvv
+
+#EXTINF:-1  group-title="Radio" tvg-id="853.astro" tvg-chno="830" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/MY2017.png/revision/latest?cb=20200229113540",My FM
+https://stream.rcs.revma.com/hc3unrtbv4uvv
+
+#EXTINF:-1  group-title="Radio" tvg-id="852.astro" tvg-chno="831" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/36F0B1AB-15B2-4D5C-ACBB-53D509F09529.jpeg/revision/latest?cb=20190529204834",Hitz FM
+https://stream.rcs.revma.com/488kt4sbv4uvv
 
 
 ###############################################################Foreign##################################################################
