@@ -305,13 +305,14 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="Jaya.TV.HD.in" tvg-chno="306" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/38564ce8c8aaac2c0529abbc55318d6f.png",Jaya TV
-http://103.180.212.191:3500/live/419.m3u8
-###http://103.154.3.101:5001/live/419.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="222.astro" tvg-chno="306" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png?w=272",Colors Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="Raj.TV.in" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/36369cba498189d05e3f0912a93727b6.png",Raj TV
-http://103.180.212.191:3500/live/707.m3u8
-###http://103.154.3.101:5001/live/707.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="558279" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="Kalaignar.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
@@ -326,8 +327,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="311" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
-http://103.180.212.191:3500/live/1518.m3u8
-###http://103.154.3.101:5001/live/1518.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Puthiya.Thalimurai.in" tvg-chno="312" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88e831acf02f0768754d7648fc97a245.png",Puthiya Thalaimurai TV
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
@@ -337,15 +337,6 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Win.TV.in" tvg-chno="314" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/6142ac350185bccb38b98ee5b74b0212.png",Win TV
 https://cdn-4.pishow.tv/live/1531/master.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="558279" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
-https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
-
-#EXTINF:-1  group-title="Indian" tvg-id="222.astro" tvg-chno="316" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png?w=272",Colors Tamil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="117.astro" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88d48f23e45528093490f913ddb88de6.png",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -370,16 +361,8 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="COLORS.RISHTEY.in" tvg-chno="330" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Colors_rishtey.png/revision/latest?cb=20210514120116",Colors Rishtey
-http://103.180.212.191:3500/live/279.m3u8
-###http://103.154.3.101:5001/live/279.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="Colors.Cineplex.HD.in" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-http://103.180.212.191:3500/live/1477.m3u8
-
 #EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="340" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
-http://103.180.212.191:3500/live/710.m3u8
-###http://103.154.3.101:5001/live/710.m3u8
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Kairali.News.in" tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest?cb=20191221124115",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
@@ -392,10 +375,6 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Reporter.TV.in" tvg-chno="344" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/99d351f479ec516a9cf55a85b15857d3.png",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="Flower.TV.in" tvg-chno="345" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/de5dd5584d9b2b0b956b5818437de5e7.png",Flowers TV
-http://103.180.212.191:3500/live/634.m3u8
-###http://103.154.3.101:5001/live/634.m3u8
 
 
 #################################################################News###################################################################
@@ -487,9 +466,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorld
 
 #EXTINF:-1  group-title="News" tvg-id="522.astro" tvg-chno="432" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/France_24_in_English.svg/revision/latest?cb=20231031204651",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-
-#EXTINF:-1  group-title="News" tvg-id="Times.NOW.in" tvg-chno="433" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Times_Now.png/revision/latest?cb=20110930232549",Times Now
-http://103.180.212.191:3500/live/383.m3u8
 
 
 #############################################################Knowledge##################################################################
@@ -600,10 +576,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
-#EXTINF:-1  group-title="Kids" tvg-id="NICK.HD+.in" tvg-chno="558" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Nick_hd_plus_2.png/revision/latest?cb=20251013111129",Nickelodeon HD Plus
-http://103.180.212.191:3500/live/1226.m3u8
-###http://103.154.3.101:5001/live/1226.m3u8
-
 #EXTINF:-1  group-title="Kids" tvg-id="617.astro" tvg-chno="559" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
@@ -705,9 +677,6 @@ https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/
 #EXTINF:-1  group-title="Variety" tvg-id="512" tvg-chno="617" tvg-logo="https://freetv.fun/media/images/channel/2022/08/17/large/20220817142713635100_54.png",BBC Lifestyle
 https://cdn-1.ttvb.eu.org/api/BBC-Lifestyle/index.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="Local.Programming.Dummy.us" tvg-chno="618" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2026-04-02/2604023524020.jpg?width=700",Journy
-http://103.180.212.191:3500/live/3524.m3u8
-
 #EXTINF:-1  group-title="Variety" tvg-id="472" tvg-chno="619" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -753,9 +722,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://slive.mana2.my/AniPlus/index.mpd
-
-#EXTINF:-1  group-title="Variety" tvg-id="Colors.Infinity.HD.in" tvg-chno="629" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Colors_Infinity_2018.jpg/revision/latest?cb=20180731024556",Colors Infinity
-http://103.180.212.191:3500/live/1158.m3u8
 
 
 ################################################################Movies##################################################################
