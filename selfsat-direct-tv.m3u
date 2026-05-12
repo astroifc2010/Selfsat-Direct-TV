@@ -1023,7 +1023,7 @@ https://stream.rcs.revma.com/488kt4sbv4uvv
 #EXTINF:-1  group-title="Foreign" tvg-id="France.24.(French).hk" tvg-chno="901" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/France_24_en_Fran%C3%A7ais.svg/revision/latest?cb=20231031204516",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="TV5Monde.id" tvg-chno="902" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TV5Monde_Asie_2025.svg/revision/latest?cb=20251001024339",TV5Monde Asie
+#EXTINF:-1  group-title="Foreign" tvg-id="TV5MONDE.ASIE.hk" tvg-chno="902" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TV5Monde_Asie_2025.svg/revision/latest?cb=20251001024339",TV5Monde Asie
 https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="TV5MONDE.Style.hk" tvg-chno="903" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV5Monde_Style_2025.svg/revision/latest?cb=20251010000729",TV5Monde Style
