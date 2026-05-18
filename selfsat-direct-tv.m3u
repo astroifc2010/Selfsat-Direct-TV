@@ -22,7 +22,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="147.astro" tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest?cb=20210529054804",DidikTV KPM
+#EXTINF:-1  group-title="FTA/Local" tvg-id="147.astro" tvg-chno="107" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -215,7 +215,7 @@ https://cdn.19891230.eu.org/myTV/CCO/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="310.astro" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/TVB_Jade_2023.webp/revision/latest?cb=20251115070001",TVB Jade
+#EXTINF:-1  group-title="Oriental" tvg-id="310.astro" tvg-chno="213" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=530",TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -262,18 +262,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
-
-#EXTINF:-1  group-title="Oriental" tvg-id="325.astro" tvg-chno="221" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427",Phoenix Chinese Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
-
-#EXTINF:-1  group-title="Oriental" tvg-id="326.astro" tvg-chno="222" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Phoenix_InfoNews_Channel.png/revision/latest?cb=20221122014417&path-prefix=vi",Phoenix InfoNews
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="392.astro" tvg-chno="223" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001",KBS World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -471,7 +459,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTINF:-1  group-title="News" tvg-id="Lead.rtm" tvg-chno="424" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMLEAD.jpg?raw=true",RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="518.astro" tvg-chno="425" tvg-logo="https://static.wixstatic.com/media/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg/v1/fill/w_280,h_158,q_90,enc_avif,quality_auto/87eafa_de2193eb048d4e19a2daa4748b318e38~mv2.jpg",ABC Australia
+#EXTINF:-1  group-title="News" tvg-id="518.astro" tvg-chno="425" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F16A709A-F106-4164-8E34-DFD79461B61A/0-16x9.png?width=530",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
