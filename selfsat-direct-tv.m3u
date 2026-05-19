@@ -967,7 +967,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 #EXTINF:-1  group-title="Radio" tvg-id="TRAXXfm.rtm" tvg-chno="806" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Traxx_FM.png/revision/latest?cb=20191218065550",TraXX FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC
 
-#EXTINF:-1  group-title="Radio" tvg-id="Asyik FM.rtm" tvg-chno="807" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg",Asyik FM/Salam FM
+#EXTINF:-1  group-title="Radio" tvg-id="Asyik FM.rtm" tvg-chno="807" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/AsyikFM.jpg/revision/latest?cb=20210407184816",Asyik FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="AIfm.rtm" tvg-chno="808" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Ai_FM_Logo.png/revision/latest?cb=20131101032953",Ai FM
@@ -979,7 +979,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC
 #EXTINF:-1  group-title="Radio" tvg-id="Sabah FM.rtm" tvg-chno="810" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sabahfmlogo2012.png/revision/latest?cb=20240430092848",Sabah FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC
 
-#EXTINF:-1  group-title="Radio" tvg-id="SabahV FM.rtm" tvg-chno="811" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah Vfm
+#EXTINF:-1  group-title="Radio" tvg-id="SabahV FM.rtm" tvg-chno="811" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Sabah_V_FM_2018.png/revision/latest?cb=20211114102615",Sabah VFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC
 
 #EXTINF:-1  group-title="Radio" tvg-id="Sarawak FM.rtm" tvg-chno="812" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Sarawak_FM_2021.png/revision/latest?cb=20211114001059",Sarawak FM
