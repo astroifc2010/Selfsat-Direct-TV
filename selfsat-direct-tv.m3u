@@ -597,7 +597,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 #EXTINF:-1  group-title="Kids" tvg-id="ZOOMOO.mana2" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst
+#EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst TV
 https://streams2.sofast.tv/ptnr-lg/title-BABYFIRST-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/703f3916-19b4-4d69-ae16-7a95f375e719/manifest.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="618.astro" tvg-chno="562" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Moonbug.svg/revision/latest?cb=20231004100400",Moonbug
