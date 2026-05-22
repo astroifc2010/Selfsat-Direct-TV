@@ -677,7 +677,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls
 #EXTINF:-1  group-title="Variety" tvg-id="FTV.my" tvg-chno="610" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest?cb=20191026175440",Fashion TV
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="Pet club.my" tvg-chno="611" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",Pet Club TV
+#EXTINF:-1  group-title="Variety" tvg-id="Pet club.my" tvg-chno="611" tvg-logo="https://epg.yang-1989.eu.org/logo/PetClubTV.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="415.astro" tvg-chno="612" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/ROCK_X_Stream.png/revision/latest?cb=20260202134637",ROCK XStream
@@ -936,7 +936,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2&provider=mytech
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Fight.Sports.id" tvg-chno="718" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Fight_Sports.png/revision/latest?cb=20260414070241",Fight Sports
-https://cdn-1.ttvb.eu.org/api/Fight-Sports/index.m3u8
+https://cdn.19891230.eu.org/api/Fight-Sports/index.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Red.Bull.TV.in" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
