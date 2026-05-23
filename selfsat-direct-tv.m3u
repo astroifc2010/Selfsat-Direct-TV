@@ -936,7 +936,11 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2&provider=mytech
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Fight.Sports.id" tvg-chno="718" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Fight_Sports.png/revision/latest?cb=20260414070241",Fight Sports
-https://cdn.19891230.eu.org/api/Fight-Sports/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Red.Bull.TV.in" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
