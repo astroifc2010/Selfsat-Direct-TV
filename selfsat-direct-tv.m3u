@@ -847,7 +847,7 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 
 #EXTINF:-1  group-title="Movies" tvg-id="CinemaWorld" tvg-chno="668" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png/revision/latest?cb=20250323085928",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
@@ -1087,10 +1087,3 @@ https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="CGTN.Français.fr" tvg-chno="908" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/CGTN_Fran%C3%A7ais.svg/revision/latest?cb=20230828091252",CGTN French
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
-#EXTINF:-1  group-title="Foreign" tvg-id="Al.Quran.Al.Kareem.id" tvg-chno="922" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Saudi_Quran_TV_2009-2014.webp/revision/latest?cb=20260423153745",Saudi Quran TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
