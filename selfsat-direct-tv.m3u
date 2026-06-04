@@ -424,7 +424,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1  group-title="News" tvg-id="515.astro" tvg-chno="411" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="EURONEWS.mana2" tvg-chno="412" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg/revision/latest?cb=20230131161916",Euronews
+#EXTINF:-1  group-title="News" tvg-id="612" tvg-chno="412" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg/revision/latest?cb=20230131161916",Euronews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -475,7 +475,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 #EXTINF:-1  group-title="News" tvg-id="521.astro" tvg-chno="430" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6A3F3B67-97AB-469D-B2D8-00B6A1C5A2DD/0-16x9.png?width=530",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="NHKWORLD.mana2" tvg-chno="431" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/NHK_World-Japan_2020_II.svg/revision/latest?cb=20221125061100",NHK World-Japan
+#EXTINF:-1  group-title="News" tvg-id="643" tvg-chno="431" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/NHK_World-Japan_2020_II.svg/revision/latest?cb=20221125061100",NHK World-Japan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
