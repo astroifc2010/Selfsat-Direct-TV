@@ -446,7 +446,7 @@ https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_
 #EXTINF:-1  group-title="News" tvg-id="Wion.in" tvg-chno="416" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9f31d642976f5887bb62bd3b6a07f556.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="RTInternational.mana2" tvg-chno="417" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest?cb=20180603181710",RT
+#EXTINF:-1  group-title="News" tvg-id="RTInternational.mana2" tvg-chno="417" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest?cb=20180603181710",RT International
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="502.astro" tvg-chno="421" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
