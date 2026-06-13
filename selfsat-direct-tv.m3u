@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://github.com/AqFad2811/epg/raw/refs/heads/main/rtmklik.xml,https://github.com/walpak1/epg/raw/refs/heads/gh-pages/vidio.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania2.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://github.com/AqFad2811/epg/raw/refs/heads/main/rtmklik.xml,https://github.com/walpak1/epg/raw/refs/heads/gh-pages/vidio.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -579,7 +579,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b1
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd
 
-#EXTINF:-1  group-title="Kids" tvg-id="JimJam.lt" tvg-chno="553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest?cb=20180723182655",JimJam
+#EXTINF:-1  group-title="Kids" tvg-id="Jim Jam.lt" tvg-chno="553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest?cb=20180723182655",JimJam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
