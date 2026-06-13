@@ -463,7 +463,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1  group-title="News" tvg-id="Local.Programming.Dummy.us" tvg-chno="423" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest?cb=20260331093002",RTM World
+#EXTINF:-1  group-title="News" tvg-id="RTM World.rtm" tvg-chno="423" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTM_World_%282026%29.png/revision/latest?cb=20260331093002",RTM World
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="Lead" tvg-chno="424" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMLEAD.jpg?raw=true",RTM Lead
@@ -980,15 +980,15 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
+https://get.perfecttv.net/fifawc.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1  group-title="Specials" tvg-id="703" tvg-chno="781" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH02
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
@@ -996,7 +996,7 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
@@ -1077,7 +1077,6 @@ https://stream.rcs.revma.com/z56xa78mtd3vv
 
 #EXTINF:-1  group-title="Radio" tvg-id="IKIMfm.mana2" tvg-chno="825" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/IKIM_FM_2024.png/revision/latest?cb=20240208022639",Ikim FM
 https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
-https://das-edge54-sa28-lax02.cdnstream.com/5035/playlist.m3u8
 
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="826" radio="true" tvg-logo="https://static.wikia.nocookie.net/youtube/images/c/c2/BFM_89.9_Malaysia_Logo.webp/revision/latest?cb=20240927042040",BFM 89.9
 https://stream.rcs.revma.com/s91qy9p0zs3vv
