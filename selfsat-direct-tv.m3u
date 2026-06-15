@@ -633,6 +633,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="564" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest?cb=20221226165505",Da Vinci TV
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
+#EXTINF:-1  group-title="Kids" tvg-id="My Toonz.my" tvg-chno="566" tvg-logo="https://image.roku.com/developer_channels/prod/114b42bf814b61d95806dbbfdc4ef6a80ef490e52cd417567e241ca09eb9bfaf.png",MyToonz
+https://amg27925-amg27925c1-amgplt0131.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg27925-amg27925c1-amgplt0131/playlist.m3u8
+
 
 #################################################################Variety################################################################
 
@@ -999,6 +1002,21 @@ https://get.perfecttv.net/fifawc2.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://get.perfecttv.net/fifawc3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+
+#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 1" tvg-chno="783" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH04 Atmos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 2" tvg-chno="784" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH05 Atmos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 3" tvg-chno="785" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH06 Atmos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 
 
 ###############################################################Radio###################################################################
