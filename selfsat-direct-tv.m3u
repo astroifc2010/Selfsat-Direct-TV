@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://github.com/AqFad2811/epg/raw/refs/heads/main/rtmklik.xml,https://github.com/walpak1/epg/raw/refs/heads/gh-pages/vidio.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://github.com/walpak1/epg/raw/refs/heads/gh-pages/vidio.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -6,12 +6,12 @@
 #EXTINF:-1  group-title="FTA/Local" tvg-id="plex.tv.Stingray.Naturescape.plex" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV1" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",TV1
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV1.mana2" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV2" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",TV2
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV2.mana2" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
@@ -40,7 +40,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Okey" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",TV Okey
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TVOKEY.mana2" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -73,9 +73,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="wedotv Amor.my" tvg-chno="120" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png",WeDoTV Amor
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV6" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV6.mana2" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -377,6 +379,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="YRF music.my" tvg-chno="328" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
@@ -458,7 +462,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1  group-title="News" tvg-id="Berita RTM" tvg-chno="422" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",Berita RTM
+#EXTINF:-1  group-title="News" tvg-id="BERITARTM.mana2" tvg-chno="422" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
@@ -530,6 +534,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="wedotv Big stories.my" tvg-chno="506" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png",WeDoTV Big Stories
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Knowledge" tvg-id="409.myTV" tvg-chno="507" tvg-logo="https://epg.yang-1989.eu.org/logo/Globetrotter.png",Globetrotter
@@ -634,6 +640,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="My Toonz.my" tvg-chno="566" tvg-logo="https://image.roku.com/developer_channels/prod/114b42bf814b61d95806dbbfdc4ef6a80ef490e52cd417567e241ca09eb9bfaf.png",MyToonz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg27925-amg27925c1-amgplt0131.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg27925-amg27925c1-amgplt0131/playlist.m3u8
 
 
@@ -686,12 +694,18 @@ https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="GustoTV HD.my" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="FTV.my" tvg-chno="610" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest?cb=20191026175440",Fashion TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="Pet club.my" tvg-chno="611" tvg-logo="https://epg.yang-1989.eu.org/logo/PetClubTV.png",Pet Club TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="415.astro" tvg-chno="612" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/ROCK_X_Stream.png/revision/latest?cb=20260202134637",ROCK XStream
@@ -738,6 +752,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="KCM.my" tvg-chno="622" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest?cb=20240802061617",KCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="China.Travel.distro" tvg-chno="623" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/CHINATRAVEL.jpg?raw=true",CGTN China Travel
@@ -798,6 +814,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="FreeMovies.mana2" tvg-chno="656" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/SG600002L3_20250416T004506SQUARE.png",Free Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="401" tvg-chno="657" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/HBO_White.svg/revision/latest?cb=20251215051310",HBO
@@ -857,6 +875,8 @@ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3
 https://amg01076-amg01076c4-mytvsuper-apac-7830.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="wedotv Movies.my" tvg-chno="667" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png",WeDoTV Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Movies" tvg-id="CinemaWorld" tvg-chno="668" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png/revision/latest?cb=20250323085928",CinemaWorld
@@ -916,15 +936,19 @@ https://amg01131-amg01131c2-mytvsuper-apac-7991.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1  group-title="Sports" tvg-id="Outdoor.Channel.id" tvg-chno="711" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest?cb=20170428060444",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="Sukan RTM" tvg-chno="712" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png/revision/latest?cb=20260402075508" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",Sukan+
+#EXTINF:-1  group-title="Sports" tvg-id="SUKAN.mana2" tvg-chno="712" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png/revision/latest?cb=20260402075508" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",Sukan+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="wedotv Sports.my" tvg-chno="713" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png",WeDoTV Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="Horse And Country.my" tvg-chno="714" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Horse_%26_Country_%282009%29.svg/revision/latest?cb=20210222134331",Horse And Country
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="706" tvg-chno="715" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=530",SPOTV
