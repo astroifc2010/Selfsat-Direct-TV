@@ -600,7 +600,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b1
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd
 
-#EXTINF:-1  group-title="Kids" tvg-id="Jim Jam.lt" tvg-chno="553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest?cb=20180723182655",JimJam
+#EXTINF:-1  group-title="Kids" tvg-id="JimJam.lt" tvg-chno="553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest?cb=20180723182655",JimJam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -808,7 +808,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="412.astro" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Astro_FAM_Time_%28Apr_2026%29.png/revision/latest?cb=20260228003010",Astro FAM Time
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wzb9fIuxjRe_Y8nkYDKo7Q","kid":"B_pqn3_ngGu6mw6X0KxbEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
@@ -997,20 +997,14 @@ https://slive.mana2.my/SpotvNow/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Red.Bull.TV.in" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Red Bull TV
+#EXTINF:-1  group-title="Sports" tvg-id="Red.Bull.TV.in" tvg-chno="719" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="817.astro" tvg-chno="725" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
+#EXTINF:-1  group-title="Sports" tvg-id="817.astro" tvg-chno="720" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
-
-#EXTINF:-1  group-title="Sports" tvg-id="814.astro" tvg-chno="726" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458",Astro Football
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="826.astro" tvg-chno="727" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/54/W-Sport.png/revision/latest?cb=20240131050043&path-prefix=vi",W-Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
