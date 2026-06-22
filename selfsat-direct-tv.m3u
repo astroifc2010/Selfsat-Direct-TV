@@ -990,26 +990,17 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 ###############################################################Specials#################################################################
 
-#EXTINF:-1  group-title="Specials" tvg-id="702" tvg-chno="780" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH01
-
-
-#EXTINF:-1  group-title="Specials" tvg-id="703" tvg-chno="781" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH02
-
-
-#EXTINF:-1  group-title="Specials" tvg-id="704" tvg-chno="782" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH03
-
-
-#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 1.rtm" tvg-chno="783" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH01 Atmos
+#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 1.rtm" tvg-chno="780" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH01 Atmos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
 
-#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 2.rtm" tvg-chno="784" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH02 Atmos
+#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 2.rtm" tvg-chno="781" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH02 Atmos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
 
-#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 3.rtm" tvg-chno="785" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH03 Atmos
+#EXTINF:-1  group-title="Specials" tvg-id="FIFA WC 3.rtm" tvg-chno="782" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest?cb=20230523174302",FIFA WC26 CH03 Atmos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
