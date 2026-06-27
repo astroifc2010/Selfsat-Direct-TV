@@ -196,18 +196,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="614.myTV" tvg-chno="210" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV娱乐.png",CCTV Entertainment
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e173591f7ab25dbc47f6c05abcbb92c7:21c5e4987d1e255d0e171280ad13d815
-https://cdn.19891230.eu.org/myTV/CCE/index.mpd
-
-#EXTINF:-1  group-title="Oriental" tvg-id="615.myTV" tvg-chno="211" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV戏曲.png",CCTV Opera
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=310ee76e894b8361fefdedf5c7b50983:f113fcca4a982e53ba2fc31e7fbf6e2c
-https://cdn.19891230.eu.org/myTV/CCO/index.mpd
-
 #EXTINF:-1  group-title="Oriental" tvg-id="300.astro" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
@@ -219,12 +207,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
-
-#EXTINF:-1  group-title="Oriental" tvg-id="206.myTV" tvg-chno="214" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/POPCtv.png/revision/latest?cb=20250210173013",PopC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-https://cdn.19891230.eu.org/myTV/POPC/index.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="319.astro" tvg-chno="215" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=530",TVB Xing He
 #KODIPROP:inputstream.adaptive.license_type=clearkey
