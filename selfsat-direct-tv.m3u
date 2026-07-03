@@ -254,7 +254,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="" tvg-chno="225" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Astro_Daebak.png/revision/latest?cb=20260624075945",Astro Daebak
+#EXTINF:-1  group-title="Oriental" tvg-id="astro609" tvg-chno="225" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Astro_Daebak.png/revision/latest?cb=20260624075945",Astro Daebak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
