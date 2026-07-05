@@ -535,7 +535,7 @@ https://amg01076-amg01076c9-mytvsuper-apac-7917.playouts.now.amagi.tv/playlist/a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1  group-title="Knowledge" tvg-id="English.Club.HD.sk" tvg-chno="513" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/English_Club_TV.svg/revision/latest?cb=20200101202615",English Club TV
+#EXTINF:-1  group-title="Knowledge" tvg-id="Local.Programming.Dummy.us" tvg-chno="513" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/English_Club_TV.svg/revision/latest?cb=20200101202615",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
 
