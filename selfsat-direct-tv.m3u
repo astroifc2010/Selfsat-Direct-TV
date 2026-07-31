@@ -19,7 +19,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="astro106" tvg-chno="103" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/TV3_%28Malaysia%29.svg/revision/latest?cb=20220302110726",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="astro93" tvg-chno="107" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530",DidikTV KPM
@@ -31,13 +31,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="astro115" tvg-chno="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/8TV_Malaysia-Chinese.svg/revision/latest?cb=20221104063304",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="astro48" tvg-chno="109" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/TV9.svg/revision/latest?cb=20230307233250",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Okey.rtm" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",Okey
@@ -69,7 +69,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
 #EXTINF:-1  group-title="FTA/Local" tvg-id="astro315" tvg-chno="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Astro_Oasis_%28Nov_2024%29.png/revision/latest?cb=20241121174646",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Apetito.rtm" tvg-chno="118" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMAPETITO.jpg?raw=true",RTM Apetito
