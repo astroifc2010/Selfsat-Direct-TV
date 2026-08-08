@@ -577,25 +577,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #EXTINF:-1  group-title="Kids" tvg-id="astro370" tvg-chno="557" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="astro392" tvg-chno="559" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20241015184948",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="101.myTV" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ZooMoo_2020.svg/revision/latest?cb=20240711201920",ZooMoo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="Local.Programming.Dummy.us" tvg-chno="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20240724193816",BabyFirst TV
-https://streams2.sofast.tv/ptnr-lg/title-BABYFIRST-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/703f3916-19b4-4d69-ae16-7a95f375e719/manifest.m3u8
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="astro465" tvg-chno="562" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Moonbug.svg/revision/latest?cb=20231004100400",Moonbug
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="My Toonz.my" tvg-chno="566" tvg-logo="https://image.roku.com/developer_channels/prod/114b42bf814b61d95806dbbfdc4ef6a80ef490e52cd417567e241ca09eb9bfaf.png",MyToonz
@@ -609,7 +609,7 @@ https://amg27925-amg27925c1-amgplt0131.playout.now3.amagi.tv/ts-ap-s1-n1/playlis
 #EXTINF:-1  group-title="Variety" tvg-id="701.astro" tvg-chno="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png?w=272",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="451" tvg-chno="602" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909",Warner TV
@@ -618,13 +618,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 #EXTINF:-1  group-title="Variety" tvg-id="709.astro" tvg-chno="603" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Asian_Food_Network_logo_2019_Gradient.svg/revision/latest?cb=20240614114459",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="706.astro" tvg-chno="604" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest?cb=20240506054820",Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="473" tvg-chno="605" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",ROCK Entertainment
@@ -644,7 +644,7 @@ https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1  group-title="Variety" tvg-id="707.astro" tvg-chno="608" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TLC_logo_2009.png/revision/latest?cb=20101216181632",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="GustoTV HD.my" tvg-chno="609" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Gusto_TV_CA.svg/revision/latest?cb=20220218194634",Gusto TV
@@ -665,7 +665,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-ast
 #EXTINF:-1  group-title="Variety" tvg-id="415.astro" tvg-chno="612" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/ROCK_X_Stream.png/revision/latest?cb=20260202134637",ROCK XStream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="626.myTV" tvg-chno="613" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746",That's 70s
@@ -686,13 +686,13 @@ https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/
 #EXTINF:-1  group-title="Variety" tvg-id="703.astro" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="715.astro" tvg-chno="621" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
 #EXTINF:-1  group-title="Variety" tvg-id="KCM.my" tvg-chno="622" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/KCM_logo_%282023%29.svg/revision/latest?cb=20240802061617",KCM
@@ -715,7 +715,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title="Variety" tvg-id="702.astro" tvg-chno="627" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest?cb=20240711133443",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
 
@@ -724,31 +724,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #EXTINF:-1  group-title="Movies" tvg-id="411.astro" tvg-chno="651" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Astro_Showtime_%28Mar_2026%29.png/revision/latest?cb=20260228003007",Astro Showtime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="412.astro" tvg-chno="652" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Astro_FAM_Time_%28Apr_2026%29.png/revision/latest?cb=20260228003010",Astro FAM Time
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="413.astro" tvg-chno="653" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Astro_Showcase_%28Nov_2024%29.png/revision/latest?cb=20241121181548",Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="414.astro" tvg-chno="654" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1EEE031E-E97D-468E-A503-ECE1F41E3AC0/0-16x9.png?width=530",ROCK Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="401.astro" tvg-chno="655" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="FreeMovies.mana2" tvg-chno="656" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/SG600002L3_20250416T004506SQUARE.png",Free Movies
@@ -843,13 +843,13 @@ https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu
 #EXTINF:-1  group-title="Sports" tvg-id="801.astro" tvg-chno="708" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Arena_%28Oct_2024%29.png/revision/latest?cb=20241121182235",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="802.astro" tvg-chno="709" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Arena_2_%28Oct_2024%29.png/revision/latest?cb=20241121182424",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="305.myTV" tvg-chno="710" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg/revision/latest?cb=20221203193933",Trace Sports Stars
@@ -900,7 +900,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1  group-title="Sports" tvg-id="817.astro" tvg-chno="720" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_Sports_Plus_%28Oct_2024%29.png/revision/latest?cb=20241121182814",Astro Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
 
 #EXTINF:-1  group-title="Sports" tvg-id="826.astro" tvg-chno="727" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/54/W-Sport.png/revision/latest?cb=20240131050043&path-prefix=vi",W-Sport
