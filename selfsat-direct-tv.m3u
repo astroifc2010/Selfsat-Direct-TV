@@ -598,7 +598,12 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-id="553" tvg-chno="552" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Cbeebies2022_%28ident%29.svg/revision/latest?cb=20220307182447",CBeebies
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cbeebies&kid=cc5bdbd0-24fe-456b-a661-3471e4931041
 
 #EXTINF:-1  group-title="Kids" tvg-id="JimJam.lt" tvg-chno="553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest?cb=20180723182655",JimJam
 #KODIPROP:inputstream=inputstream.adaptive
