@@ -887,27 +887,27 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 #################################################################Sports#################################################################
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.id" tvg-chno="701" tvg-logo="https://i.postimg.cc/ydthvytz/Sportstars.png",Sportstars
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=112&type=fitnah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.2.id" tvg-chno="702" tvg-logo="https://i.postimg.cc/MHB74jJf/Sportstars-2.png",Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=113&type=fitnah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.3.id" tvg-chno="703" tvg-logo="https://i.postimg.cc/664fTF46/Sportstars-3.png",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=114&type=fitnah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.4.id" tvg-chno="704" tvg-logo="https://i.postimg.cc/RVrQtGw7/Sportstars-4.png",Sportstars 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=205&type=fitnah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="FIFA+" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA+
