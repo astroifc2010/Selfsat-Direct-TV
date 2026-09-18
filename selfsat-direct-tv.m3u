@@ -1007,27 +1007,63 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 
 #EXTINF:-1  group-title="Specials" tvg-id="astro623" tvg-chno="780" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xfPVJhNaopXSkPdu5st0eQ","kid":"PmKEwhI3Bu3vxZuwwFSOEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=3e6284c2123706edefc59bb0c0548e10:c5f3d526135aa295d290f76ee6cb7479
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
 
 #EXTINF:-1  group-title="Specials" tvg-id="astro624" tvg-chno="781" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UqXH_srQVY4JSQP9yLfNdw","kid":"M5y-1tv0_vgaGdkWj-t5EA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
 
 #EXTINF:-1  group-title="Specials" tvg-id="astro625" tvg-chno="782" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6-rhoMYyRh75nRkSLpQI5Q","kid":"UAsxk5KUDBh7qTKmmHgHEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=500b319392940c187ba932a698780710:ebeae1a0c632461ef99d19122e9408e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
 
 #EXTINF:-1  group-title="Specials" tvg-id="astro626" tvg-chno="783" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"geEqtMe7JbLZ9YSceUN53g","kid":"nEiVJjMQrCvaqcz_G2VFEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=9c4895263310ac2bdaa9ccff1b654510:81e12ab4c7bb25b2d9f5849c794379de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="astro627" tvg-chno="784" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5605/default_primary.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="20th Asian Games Aichi-Nagoya 2026 CH1.rtm" tvg-chno="785" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event1/DASH/event1.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="20th Asian Games Aichi-Nagoya 2026 CH2.rtm" tvg-chno="786" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event2/DASH/event2.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="20th Asian Games Aichi-Nagoya 2026 CH3.rtm" tvg-chno="787" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event3/DASH/event3.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="20th Asian Games Aichi-Nagoya 2026 CH4.rtm" tvg-chno="788" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="20th Asian Games Aichi-Nagoya 2026 CH5.rtm" tvg-chno="789" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event5/DASH/event5.mpd
+
+#EXTINF:-1  group-title="Specials" tvg-id="20th Asian Games Aichi-Nagoya 2026 CH6.rtm" tvg-chno="790" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event6/DASH/event6.mpd
 
 
 ###############################################################Radio###################################################################
