@@ -139,6 +139,14 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
+#EXTINF:-1  group-title="FTA/Local" tvg-id="116" tvg-chno="130" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=530",Sensasi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
+
 #EXTINF:-1  group-title="Specials" tvg-id="astro622" tvg-chno="140" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Astro_30_CH_100_Logo.png/revision/latest?cb=20260816091807",Astro30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
@@ -371,6 +379,9 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ZeeThi&kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
 
+#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="324" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+
 #EXTINF:-1  group-title="Indian" tvg-id="astro490" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88d48f23e45528093490f913ddb88de6.png",Z Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
@@ -395,6 +406,12 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="340" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
@@ -588,6 +605,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #EXTINF:-1  group-title="Knowledge" tvg-id="English Club TV.sk" tvg-chno="513" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/English_Club_TV.svg/revision/latest?cb=20200101202615",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
+#EXTINF:-1  group-title="Knowledge" tvg-id="411.myTV" tvg-chno="514" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/PLUSE400x200.png",Pulse TV
+https://amg01076-amg01076c8-mytvsuper-apac-7918.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-mytvsuperapac/playlist.m3u8
 
 ###################################################################Kids#################################################################
 
@@ -747,6 +766,9 @@ https://amg15905-k20-amg15905c3-rlaxx-us-8702.playouts.now.amagi.tv/playlist/amg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=BBCLife&kid=2610c65b-f277-40e2-9f9c-c41dc3549781
 
+#EXTINF:-1  group-title="Variety" tvg-id="aweplus" tvg-chno="619" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/AWeplus_logo.png",AWE Plus
+https://amg00450-amg00450c4-rlaxx-gb-7704.playouts.now.amagi.tv/playlist/amg00450-herringnetworkfast-aweplus-rlaxxgb/playlist.m3u8
+
 #EXTINF:-1  group-title="Variety" tvg-id="astro447" tvg-chno="620" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
@@ -859,6 +881,14 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1  group-title="Movies" tvg-id="Studio.Universal.id" tvg-chno="661" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png",Studio Universal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-id="Moviesphere.au" tvg-chno="662" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/MovieSphere_alternate_transparent_logo.png/revision/latest?cb=20250814141243",Moviesphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
@@ -996,6 +1026,14 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1&kid=d48b6088-253c-443e-b94d-27cb7828f707
+
+#EXTINF:-1  group-title="Sports" tvg-id="astro466" tvg-chno="729" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530",BeIN Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 
 #EXTINF:-1  group-title="Sports" tvg-id="astro313" tvg-chno="730" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530",BeIN Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1190,3 +1228,12 @@ https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="CGTN.Français.fr" tvg-chno="908" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/CGTN_Fran%C3%A7ais.svg/revision/latest?cb=20230828091252",CGTN French
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="909" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfvo.png",TV5Monde Voyage
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="910" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfm.png",TV5Monde Info
+https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
+
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="911" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tv5ch.png",TV5Monde Chefs
+https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
