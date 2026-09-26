@@ -11,7 +11,7 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="TV2.rtm" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest?cb=20220121144523",TV2
+#EXTINF:-1  group-title="FTA/Local" tvg-id="TV2.rtm" tvg-chno="102" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TV2_%28Malaysia%29_-2022-.png/revision/latest?cb=20260911114532",TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
@@ -379,7 +379,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ZeeThi&kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
 
-#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="324" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
+#EXTINF:-1  group-title="Indian" tvg-id="268df233ec6c29f7" tvg-chno="324" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro490" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88d48f23e45528093490f913ddb88de6.png",Z Cinema
@@ -407,10 +407,10 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
+#EXTINF:-1  group-title="Indian" tvg-id="32314320c2505878" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
+#EXTINF:-1  group-title="Indian" tvg-id="383b70523a6cd104" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="340" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
@@ -918,32 +918,32 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.id" tvg-chno="701" tvg-logo="https://i.postimg.cc/ydthvytz/Sportstars.png",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=112&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.2.id" tvg-chno="702" tvg-logo="https://i.postimg.cc/MHB74jJf/Sportstars-2.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=113&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.3.id" tvg-chno="703" tvg-logo="https://i.postimg.cc/664fTF46/Sportstars-3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=114&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="Sportstars.4.id" tvg-chno="704" tvg-logo="https://i.postimg.cc/RVrQtGw7/Sportstars-4.png",Sportstars 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=205&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-id="FIFA+" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-chno="706" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest?cb=20241121201428",TNA Wrestling Channel
+#EXTINF:-1  group-title="Sports" tvg-id="a6452540ca45a8f6" tvg-chno="706" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest?cb=20241121201428",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="9cc0ef5e781287e9" tvg-chno="707" tvg-logo="http://img.platform.wurl.dev/channel/2295/lg/6fda4e/LG-Logo-PNG-100x100_v2.png",GameON
