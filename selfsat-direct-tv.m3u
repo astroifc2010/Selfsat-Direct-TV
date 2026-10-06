@@ -107,23 +107,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Lawak Sentral.my" tvg-chno="124" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Lawak_Sentral.png/revision/latest?cb=20260102080509",Lawak Sentral
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Drama Hebat.my" tvg-chno="125" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Drama_Hebat.png/revision/latest?cb=20260102080145",Drama Hebat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Filem Mantap.my" tvg-chno="126" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Filem_Mantap.png/revision/latest?cb=20260102080318",Filem Mentap
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Travel And Taste.my" tvg-chno="127" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Travel_%26_Taste.png/revision/latest?cb=20260102080638",Travel And Taste
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="128" tvg-chno="128" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530",Dunia Sinema
@@ -146,6 +142,22 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="131" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",Selfsat Movies
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="132" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",Selfsat Local
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_9/dash.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="133" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",Selfsat Asian
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_8/dash.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="134" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",Selfsat Lifestyle
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_10/dash.mpd
 
 #EXTINF:-1  group-title="Specials" tvg-id="astro622" tvg-chno="140" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Astro_30_CH_100_Logo.png/revision/latest?cb=20260816091807",Astro30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -290,8 +302,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="Drama Hotpot.my" tvg-chno="226" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Drama_Hotpot.png/revision/latest?cb=20260102080231",Drama Hotpot
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="FoodON" tvg-chno="227" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089305'&EntityType='Item'&EntityId='558273'&Width=150&Height=59",FoodON
@@ -483,6 +494,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1  group-title="News" tvg-id="RT.hk" tvg-chno="417" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest?cb=20180603181710",RT International
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
+#EXTINF:-1  group-title="News" tvg-id="cnaoriginals" tvg-chno="418" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg-images/CNA/cna_logo.png",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01082-cnafast-cnanews-rlaxxus/playlist.m3u8
+
 #EXTINF:-1  group-title="News" tvg-id="astro160" tvg-chno="421" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",Bernama TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
@@ -633,8 +647,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="Oh My Ceria.my" tvg-chno="554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",Oh My Ceria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1  group-title="Kids" tvg-id="JR..rtm" tvg-chno="555" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/RTMJR.jpg?raw=true",RTM Jr.
@@ -766,6 +779,9 @@ https://amg15905-k20-amg15905c3-rlaxx-us-8702.playouts.now.amagi.tv/playlist/amg
 #KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=BBCLife&kid=2610c65b-f277-40e2-9f9c-c41dc3549781
+
+#EXTINF:-1  group-title="Variety" tvg-id="630.myTV" tvg-chno="618" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CONCERTO400x200.png",Concerto
+https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="Variety" tvg-id="aweplus" tvg-chno="619" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/AWeplus_logo.png",AWE Plus
 https://amg00450-amg00450c4-rlaxx-gb-7704.playouts.now.amagi.tv/playlist/amg00450-herringnetworkfast-aweplus-rlaxxgb/playlist.m3u8
@@ -1047,11 +1063,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3&kid=816ee2f7-c19f-49ed-8427-6f34541b465b
-
-#EXTINF:-1  group-title="Specials" tvg-id="FIFA ASEAN CUP 2026.rtm" tvg-chno="779" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/2026_FIFA_Asean_Cup_%28Inverted%29.svg/revision/latest?cb=20260914032821",FIFAAC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://d30aylox5wvifh.cloudfront.net/smil:ag1/chunklist_b2596000_slENG.m3u8?id=10052
 
 #EXTINF:-1  group-title="Specials" tvg-id="astro623" tvg-chno="780" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
