@@ -1064,36 +1064,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3&kid=816ee2f7-c19f-49ed-8427-6f34541b465b
 
-#EXTINF:-1  group-title="Specials" tvg-id="astro623" tvg-chno="780" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e6284c2123706edefc59bb0c0548e10:c5f3d526135aa295d290f76ee6cb7479
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
-
-#EXTINF:-1  group-title="Specials" tvg-id="astro624" tvg-chno="781" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
-
-#EXTINF:-1  group-title="Specials" tvg-id="astro625" tvg-chno="782" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=500b319392940c187ba932a698780710:ebeae1a0c632461ef99d19122e9408e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
-
-#EXTINF:-1  group-title="Specials" tvg-id="astro626" tvg-chno="783" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c4895263310ac2bdaa9ccff1b654510:81e12ab4c7bb25b2d9f5849c794379de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
-
-#EXTINF:-1  group-title="Specials" tvg-id="astro627" tvg-chno="784" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/2026_Asian_Games_logo.svg/revision/latest?cb=20230121153246",ASG5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5605/default_primary.mpd
-
 
 ###############################################################Radio###################################################################
 
