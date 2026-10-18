@@ -327,11 +327,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 
 #################################################################Indian#################################################################
 
-#EXTINF:-1  group-title="Indian" tvg-id="astro167" tvg-chno="302" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Astro_Vinmeen_%28Nov_2024%29.png/revision/latest?cb=20241121175837",Astro Vinmeen
+#EXTINF:-1  group-title="Indian" tvg-id="Polimer.TV.in" tvg-chno="301" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/57b303557fb3de635213a6a9911c4ad8.png",Polimer TV
+https://cdn.pishow.tv/ott/live/1241/master.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="astro399" tvg-chno="302" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Astro_Vellithirai_%28Nov_2024%29.png/revision/latest?cb=20241121180041",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro397" tvg-chno="303" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Astro_Vaanavil_%28Nov_2024%29.png/revision/latest?cb=20241121175436",Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,11 +345,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #EXTINF:-1  group-title="Indian" tvg-id="Makkal.TV.in" tvg-chno="304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c8f1ae2e296bb1e53f5dea441f95fcd4.png",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="astro399" tvg-chno="305" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Astro_Vellithirai_%28Nov_2024%29.png/revision/latest?cb=20241121180041",Astro Vellithirai
+#EXTINF:-1  group-title="Indian" tvg-id="astro167" tvg-chno="305" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Astro_Vinmeen_%28Nov_2024%29.png/revision/latest?cb=20241121175837",Astro Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro298" tvg-chno="306" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png?w=272",Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -357,28 +360,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 #EXTINF:-1  group-title="Indian" tvg-id="Vijay Takkar" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="Kalaignar.TV.in" tvg-chno="308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="astro357" tvg-chno="309" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507",Star Vijay
+#EXTINF:-1  group-title="Indian" tvg-id="astro357" tvg-chno="308" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507",Star Vijay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="310" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
-https://cdn.pishow.tv/ott/live/1612/master.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="Kalaignar.TV.in" tvg-chno="309" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/afc358c02802ccdb6b72714375e23c94.png",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="311" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
+#EXTINF:-1  group-title="Indian" tvg-id="Moon.TV.in" tvg-chno="310" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb09feec8a4360e8f1161dd48cce43b2.png",Moon TV
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+
+#EXTINF:-1  group-title="Indian" tvg-id="Thanthi.TV.in" tvg-chno="311" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/86b2910e34f85e44525b2de42c521acc.png",Thanthi TV
+https://cdn.pishow.tv/ott/live/1612/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="Puthiya.Thalimurai.in" tvg-chno="312" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88e831acf02f0768754d7648fc97a245.png",Puthiya Thalaimurai TV
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="Polimer.TV.in" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/57b303557fb3de635213a6a9911c4ad8.png",Polimer TV
-https://cdn.pishow.tv/ott/live/1241/master.m3u8
-
-#EXTINF:-1  group-title="Indian" tvg-id="Vendhar.TV.in" tvg-chno="315" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ce5de13ed1621e06c89426c3f9665e69.png",Vendhar TV
+#EXTINF:-1  group-title="Indian" tvg-id="Vendhar.TV.in" tvg-chno="313" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ce5de13ed1621e06c89426c3f9665e69.png",Vendhar TV
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="303" tvg-chno="316" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=530",Sony YAY!
@@ -398,7 +398,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ZeeThi&kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
 
 #EXTINF:-1  group-title="Indian" tvg-id="268df233ec6c29f7" tvg-chno="324" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+https://jmp2.uk/stvp-IN460001373
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro490" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88d48f23e45528093490f913ddb88de6.png",Z Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,7 +426,7 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="32314320c2505878" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+https://jmp2.uk/stvp-IN46000140Q
 
 #EXTINF:-1  group-title="Indian" tvg-id="383b70523a6cd104" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
