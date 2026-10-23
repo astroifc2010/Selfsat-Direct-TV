@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia2.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -376,7 +376,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ZeeThi&kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
 
-#EXTINF:-1  group-title="Indian" tvg-id="268df233ec6c29f7" tvg-chno="324" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
+#EXTINF:-1  group-title="Indian" tvg-id="IN460001373" tvg-chno="324" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro490" tvg-chno="325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/88d48f23e45528093490f913ddb88de6.png",Z Cinema
@@ -404,7 +404,7 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 #EXTINF:-1  group-title="Indian" tvg-id="ZOOM.in" tvg-chno="329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:-1  group-title="Indian" tvg-id="32314320c2505878" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
+#EXTINF:-1  group-title="Indian" tvg-id="IN46000140Q" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
 https://jmp2.uk/stvp-IN46000140Q
 
 #EXTINF:-1  group-title="Indian" tvg-id="383b70523a6cd104" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
@@ -1023,12 +1023,10 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 
 #EXTINF:-1  group-title="Sports" tvg-id="astro313" tvg-chno="730" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530",BeIN Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3&kid=816ee2f7-c19f-49ed-8427-6f34541b465b
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
 ###############################################################Radio###################################################################
