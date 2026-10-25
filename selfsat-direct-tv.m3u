@@ -385,10 +385,8 @@ https://jmp2.uk/stvp-IN460001373
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="ZEE.TV.in" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/48d1dfb39bedbc69a3ede78fbf94a556.png",Z TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1  group-title="Indian" tvg-id="Zee TV HD" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/48d1dfb39bedbc69a3ede78fbf94a556.png",Z TV
+https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro365" tvg-chno="327" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png?w=272",Colors Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -407,8 +405,8 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1  group-title="Indian" tvg-id="IN46000140Q" tvg-chno="330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
 https://jmp2.uk/stvp-IN46000140Q
 
-#EXTINF:-1  group-title="Indian" tvg-id="383b70523a6cd104" tvg-chno="331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+#EXTINF:-1  group-title="Indian" tvg-id="IN4000600Q" tvg-chno="331" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20261020T052421SQUARE.png",BollyGold
+https://jmp2.uk/stvp-IN4000600Q
 
 #EXTINF:-1  group-title="Indian" tvg-id="KAIRALI.in" tvg-chno="340" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea4af867a91ddeb85fb5990c9be079e5.png",Kairali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
