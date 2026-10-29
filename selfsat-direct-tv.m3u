@@ -728,7 +728,7 @@ https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
 
-#EXTINF:-1  group-title="Variety" tvg-id="astro605" tvg-chno="612" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/ROCK_X_Stream.png/revision/latest?cb=20260202134637",ROCK XStream
+#EXTINF:-1  group-title="Variety" tvg-id="astro605" tvg-chno="612" tvg-logo="https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp",ROCK XStream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1135,7 +1135,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BORNEOAA
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1  group-title="Foreign" tvg-id="TV5MONDE.ASIE.hk" tvg-chno="902" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TV5Monde_Asie_2025.svg/revision/latest?cb=20251001024339",TV5Monde Asie
-https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
 
 #EXTINF:-1  group-title="Foreign" tvg-id="TV5MONDE.Style.hk" tvg-chno="903" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV5Monde_Style_2025.svg/revision/latest?cb=20251010000729",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
