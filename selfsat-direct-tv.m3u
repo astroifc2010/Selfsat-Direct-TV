@@ -174,6 +174,11 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="139" tvg-logo="https://siaratv.my/images/logo/Untitled-1.png",Siara TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://cuwf8jayq1.tenbytecdn.com/live/siaratv/abr/siaratv_1080p/chunks.m3u8
+
 #EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="140" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
@@ -186,6 +191,11 @@ https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gEEZsSj1/lHbo3HRizxwxQ","kid":"1qIhHP+VRZefbxoJhR+klQ"}],"type":"temporary"}
 https://service.samproject.my.id/unifi/Pesona.mpd
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="The Indonesia Channel" tvg-chno="142" tvg-logo="https://www.theindonesiachannel.world/logotic.png",The Indonesia Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/abr/theindonesiachannel_1080p/chunks.m3u8
 
 
 ################################################################Oriental################################################################
@@ -202,7 +212,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="304.myTV" tvg-chno="203" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
+#EXTINF:-1  group-title="Oriental" tvg-id="KIX" tvg-chno="203" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest?cb=20241107194642",Kix
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 
 #EXTINF:-1  group-title="Oriental" tvg-id="astro172" tvg-chno="204" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Astro_AOD_%28Nov_2024%29.png/revision/latest?cb=20241121180737",Astro AOD
@@ -419,7 +429,7 @@ https://jmp2.uk/stvp-IN460001373
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="Zee TV HD" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/48d1dfb39bedbc69a3ede78fbf94a556.png",Z TV
+#EXTINF:-1  group-title="Indian" tvg-id="Zee.TV.hk" tvg-chno="326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/48d1dfb39bedbc69a3ede78fbf94a556.png",Z TV
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro365" tvg-chno="327" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png?w=272",Colors Hindi
@@ -470,7 +480,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 #EXTINF:-1  group-title="News" tvg-id="astro374" tvg-chno="402" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1  group-title="News" tvg-id="709.myTV" tvg-chno="403" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NEWSWORLD_400x200.png",Newsworld
+#EXTINF:-1  group-title="News" tvg-id="NewsWorld" tvg-chno="403" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NEWSWORLD_400x200.png",Newsworld
 https://amg01076-amg01076c5-mytvsuper-apac-7829.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-mytvsuperapac/playlist.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="astro336" tvg-chno="404" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524",CNN
@@ -479,7 +489,7 @@ https://amg01076-amg01076c5-mytvsuper-apac-7829.playouts.now.amagi.tv/playlist/a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
 
-#EXTINF:-1  group-title="News" tvg-id="708.myTV" tvg-chno="405" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411",Arirang TV
+#EXTINF:-1  group-title="News" tvg-id="Arirang TV" tvg-chno="405" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411",Arirang TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="astro436" tvg-chno="406" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_Awani_%282026%29.png/revision/latest?cb=20251231175003",Astro Awani
@@ -503,7 +513,7 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1  group-title="News" tvg-id="CGTN.Global.Biz.distro" tvg-chno="415" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/cgtn/Lglogos/GLOBAL%20BIZ%20(400_200).png",CGTN Global Biz
 https://ml-pull-hwc.myco.io/CGTN6/hls/CGTN6_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
-#EXTINF:-1  group-title="News" tvg-id="Wion.in" tvg-chno="416" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9f31d642976f5887bb62bd3b6a07f556.png",WION
+#EXTINF:-1  group-title="News" tvg-id="Wion.in" tvg-chno="416" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/xbzydg.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1  group-title="News" tvg-id="cnaoriginals" tvg-chno="418" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg-images/CNA/cna_logo.png",CNA Originals
@@ -1168,20 +1178,14 @@ https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1  group-title="Foreign" tvg-id="Nepal.one.in" tvg-chno="905" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/703135cacddcfdf92cffd3f6bf96d10a.png",Nepal 1
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="CGTN.Arabic.ae" tvg-chno="906" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Cgtn_cn_arabic.png/revision/latest?cb=20170127161813",CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-
-#EXTINF:-1  group-title="Foreign" tvg-id="AlJazeera.Arabic.net" tvg-chno="907" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest?cb=20171112085348",Al Jazeera Arabic
+#EXTINF:-1  group-title="Foreign" tvg-id="AlJazeera.Arabic.net" tvg-chno="906" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest?cb=20171112085348",Al Jazeera Arabic
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="CGTN.Français.fr" tvg-chno="908" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/CGTN_Fran%C3%A7ais.svg/revision/latest?cb=20230828091252",CGTN French
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
-#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="909" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfvo.png",TV5Monde Voyage
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="907" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfvo.png",TV5Monde Voyage
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="910" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfm.png",TV5Monde Info
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="908" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfm.png",TV5Monde Info
 https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
 
-#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="911" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tv5ch.png",TV5Monde Chefs
+#EXTINF:-1  group-title="Foreign" tvg-id="Local.Programming.Dummy.us" tvg-chno="909" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tv5ch.png",TV5Monde Chefs
 https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
