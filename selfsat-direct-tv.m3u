@@ -909,17 +909,17 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 
 #################################################################Sports#################################################################
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="701" tvg-logo="",Sportstars
+#EXTINF:-1  group-title="Sports" tvg-id="LN_CC63F1D9-7CF2-41EB-B97D-984C1320E32B" tvg-chno="701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc",Sports Illustrated TV
+https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/dist/localnow/235/hls/master/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n4=content_name&ads.v4=Sports%20Illustrated%20TV&ads.n21=channel_language&ads.v21=en&ads.n22=channel_title&ads.v22=Sports%20Illustrated%20TV&ads.n23=content_livestream&ads.v23=1&ads.n24=device_type&ads.v24=&ads.n25=w&ads.v25=1920&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=channel_company_id&ads.v27=AMDP500508&ads.n28=app_version&ads.v28=0.0.0&ads.n29=content_custom_1_param&ads.v29=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n30=channel_id&ads.v30=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n31=network_name&ads.v31=sports-illustrated&ads.n32=app_bundle&ads.v32=&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_name&ads.v34=Sports%20Illustrated%20TV&ads.n35=gpp&ads.v35=&ads.n36=ifa_type&ads.v36=&ads.n37=ip&ads.v37=185.217.168.164&ads.n38=ua&ads.v38=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n39=channel_brand_id&ads.v39=AMDB013682&ads.n40=channel_corp&ads.v40=Navio%20Networks%20INC&ads.n41=content_type&ads.v41=channel&ads.n42=us_privacy&ads.v42=1YNY&ads.n43=pos&ads.v43=midroll&ads.n44=content_provider&ads.v44=sports-illustrated&ads.n45=gpp_sid&ads.v45=&ads.n46=did&ads.v46=&ads.n47=content_custom_3_param&ads.v47=channel&ads.n48=device_make&ads.v48=&ads.n49=channel_ext_id&ads.v49=&ads.n50=device_model&ads.v50=&ads.n51=channel_genre&ads.v51=Sports&ads.n52=app_name&ads.v52=&ads.n53=content_custom_2_param&ads.v53=AMDB013682&ads.n54=dnt&ads.v54=&ads.n55=content_producer_name&ads.v55=Navio%20Networks%20INC&ads.n56=h&ads.v56=1080&ads.n57=url&ads.v57=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n58=app_store_url&ads.v58=
 
+#EXTINF:-1  group-title="Sports" tvg-id="7c634c9c84885b47" tvg-chno="702" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/e4a95fb2-4cea-449c-9bf6-2ce0c7fea80e",FLSTV
+https://amg26268-amg26268c27-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c27-amgplt0201/playlist.m3u8
 
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="702" tvg-logo="",Sportstars 2
+#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="703" tvg-logo="https://i.imgur.com/6dvf4Bi.jpeg",EdgeSports
+http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="703" tvg-logo="",Sportstars 3
-
-
-#EXTINF:-1  group-title="Sports" tvg-id="" tvg-chno="704" tvg-logo="",Sportstars 4
-
+#EXTINF:-1  group-title="Sports" tvg-id="2a5146f2d303a0e4" tvg-chno="704" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/unbeaten/lg/Unbeaten_logo.png",Unbeaten TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="a6452540ca45a8f6" tvg-chno="706" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest?cb=20241121201428",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
