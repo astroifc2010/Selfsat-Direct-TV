@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia2.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml,https://iptv.yang-1989.xyz/epg.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia2.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -248,47 +248,56 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5607/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="astro355" tvg-chno="212" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
+#EXTINF:-1  group-title="Oriental" tvg-id="astro355" tvg-chno="209" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20250215110012",iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="astro203" tvg-chno="213" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=530",TVB Jade
+#EXTINF:-1  group-title="Oriental" tvg-id="astro384" tvg-chno="210" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/TVBS_Asia_logo_2017.png/revision/latest?cb=20220223000857&path-prefix=vi",TVBS Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+
+#EXTINF:-1  group-title="Oriental" tvg-id="astro203" tvg-chno="211" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=530",TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="astro383" tvg-chno="215" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=530",TVB Xing He
+#EXTINF:-1  group-title="Oriental" tvg-id="astro383" tvg-chno="212" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=530",TVB Xing He
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="astro427" tvg-chno="216" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/TVB_Entertainment_News.png/revision/latest?cb=20230803044813&path-prefix=vi",TVB Entertainment News
+#EXTINF:-1  group-title="Oriental" tvg-id="astro427" tvg-chno="213" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/TVB_Entertainment_News.png/revision/latest?cb=20230803044813&path-prefix=vi",TVB Entertainment News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="astro425" tvg-chno="217" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest?cb=20230714155414&path-prefix=vi",TVB Classic
+#EXTINF:-1  group-title="Oriental" tvg-id="astro425" tvg-chno="214" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest?cb=20230714155414&path-prefix=vi",TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+
+#EXTINF:-1  group-title="Oriental" tvg-id="無綫新聞台" tvg-chno="215" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp",TVB News
+https://cdn.qd.je/163189/wxxwt
+
+#EXTINF:-1  group-title="Oriental" tvg-id="TVB Drama" tvg-chno="216" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Drama.webp",TVB Drama
+https://cdn.qd.je/163189/tvbd
+
+#EXTINF:-1  group-title="Oriental" tvg-id="TVB 功夫台" tvg-chno="217" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20功夫台.webp",Asian Action Channel
+https://cdn.qd.je/163189/yzwx
 
 #EXTINF:-1  group-title="Oriental" tvg-id="astro162" tvg-chno="218" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Astro_Hua_Hee_Dai_%28Nov_2024%29.png/revision/latest?cb=20241121180849",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
-
-#EXTINF:-1  group-title="Oriental" tvg-id="astro384" tvg-chno="219" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/TVBS_Asia_logo_2017.png/revision/latest?cb=20220223000857&path-prefix=vi",TVBS Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 
 #EXTINF:-1  group-title="Oriental" tvg-id="astro385" tvg-chno="220" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest?cb=20200119091533",CCTV-4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
