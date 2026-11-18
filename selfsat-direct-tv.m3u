@@ -3,8 +3,8 @@
 
 #############################################################FTA/Local##################################################################
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="plex.tv.Stingray.Naturescape.plex" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Info.Guide.Dummy.us" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
+https://vodcdn.bamboo-cloud.com/livehls/6afc561e280406d39d0a4664/master.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TV1.rtm" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -169,13 +169,16 @@ https://cuwf8jayq1.tenbytecdn.com/live/siaratv/abr/siaratv_1080p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
 https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="141" tvg-chno="141" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530",Pesona HD
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Vision.Prime.id" tvg-chno="141" tvg-logo="",Vision Prime
 
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="The Indonesia Channel" tvg-chno="142" tvg-logo="https://www.theindonesiachannel.world/logotic.png",The Indonesia Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/abr/theindonesiachannel_1080p/chunks.m3u8
+
+#EXTINF:-1  group-title="FTA/Local" tvg-id="141" tvg-chno="143" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530",Pesona HD
+
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="GMA.Pinoy.TV.hk" tvg-chno="161" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/GMA_Pinoy_TV_%282024%29.png/revision/latest?cb=20240907155423",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
