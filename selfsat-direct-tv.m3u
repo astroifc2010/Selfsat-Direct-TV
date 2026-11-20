@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml,https://iptv.yang-1989.xyz/epg.xml.gz,https://walpak1.github.io/epg/mewatch.xml,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia2.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml,https://iptv.yang-1989.xyz/epg.xml.gz,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -343,9 +343,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5608/default_primary.mpd
 
-#EXTINF:-1  group-title="Oriental" tvg-id="astro619" tvg-chno="236" tvg-logo="https://astromedia.com.my/wp-content/uploads/2026/09/upanda-1.png",Formosa TV
+#EXTINF:-1  group-title="Oriental" tvg-id="民視" tvg-chno="236" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/FTS_logo.png/revision/latest?cb=20101105104452",Formosa TV
 http://211.72.174.95:8115/0.ts
 
+#EXTINF:-1  group-title="Oriental" tvg-id="美亞電影台" tvg-chno="237" tvg-logo="https://smart.946985.filegear-sg.me/logo/美亞電影台.png",Mei Ah Movie Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 
 #################################################################Indian#################################################################
 
@@ -379,7 +384,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
-#EXTINF:-1  group-title="Indian" tvg-id="Vijay Takkar" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
+#EXTINF:-1  group-title="Indian" tvg-id="Local.Programming.Dummy.us" tvg-chno="307" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
 #EXTINF:-1  group-title="Indian" tvg-id="astro357" tvg-chno="308" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507",Star Vijay
@@ -1006,7 +1011,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="FIFA+" tvg-chno="726" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA+
+#EXTINF:-1  group-title="Sports" tvg-id="FIFA.tonton" tvg-chno="726" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/FIFA%2B_%282025%29.svg/revision/latest?cb=20250521135758",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1  group-title="Sports" tvg-id="astro503" tvg-chno="727" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/54/W-Sport.png/revision/latest?cb=20240131050043&path-prefix=vi",W-Sport
@@ -1130,12 +1135,17 @@ https://stream.rcs.revma.com/hc3unrtbv4uvv
 #EXTINF:-1  group-title="Radio" tvg-id="astro17" tvg-chno="831" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/36F0B1AB-15B2-4D5C-ACBB-53D509F09529.jpeg/revision/latest?cb=20190529204834",Hitz FM
 https://stream.rcs.revma.com/488kt4sbv4uvv
 
-#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="832" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/CNA938_logo.png/revision/latest?cb=20190605155322",CNA938
-https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="832" radio="true" tvg-logo="https://travel-fm.com/travel-fm-logo-20260729.png",Travel FM
+https://radio.travel-fm.com/live
 
 #EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="833" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RadioBorneo1.png",Radio Gema Borneo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BORNEOAAC
 
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="834" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Kupikupifm2023.png/revision/latest?cb=20230708125453",Kupi-Kupi FM Sabah
+https://stream.rcs.revma.com/axht8yawe1bwv
+
+#EXTINF:-1  group-title="Radio" tvg-id="24.7.Dummy.us" tvg-chno="835" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Kupikupifm2023.png/revision/latest?cb=20230708125453",Kupi-Kupi FM Sarawak
+https://stream.rcs.revma.com/vx54zkbwe1bwv
 
 ###############################################################Foreign##################################################################
 
