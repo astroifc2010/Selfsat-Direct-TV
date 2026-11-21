@@ -162,7 +162,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/siaratv/abr/siaratv_1080p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
 https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Vision.Prime.id" tvg-chno="141" tvg-logo="",Vision Prime
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Vision.Prime.id" tvg-chno="141" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest?cb=20230422230423",Vision Prime
 
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="The Indonesia Channel" tvg-chno="142" tvg-logo="https://www.theindonesiachannel.world/logotic.png",The Indonesia Channel
