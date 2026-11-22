@@ -3,8 +3,8 @@
 
 #############################################################FTA/Local##################################################################
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Info.Guide.Dummy.us" tvg-chno="100" tvg-logo="https://github.com/astroifc2010/Selfsat-Direct-TV/blob/main/Selfsat%20Direct%20TV%20Logo%20Gallery/ISDTV.jpg?raw=true",iSDTV
-https://vodcdn.bamboo-cloud.com/livehls/6afc561e280406d39d0a4664/master.m3u8
+#EXTINF:-1  group-title="FTA/Local" tvg-id="plex.tv.Stingray.Naturescape.plex" tvg-chno="100" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d12329eda6e3dcc1f42ce2a350a4623d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260369972_Stingray_naturescape_HUDlogo_centered_260x147.png",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1  group-title="FTA/Local" tvg-id="TV1.rtm" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
