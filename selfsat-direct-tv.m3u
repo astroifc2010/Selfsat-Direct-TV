@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml,https://iptv.yang-1989.xyz/epg.xml.gz,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia.xml,https://github.com/walpak1/epg/raw/refs/heads/gh-pages/amazon.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://onm.rocket-ott.shop/test/manatv_guide.xml,https://raw.githubusercontent.com/yufeilai666/test/refs/heads/main/epg/mytvsuper.xml,https://iptv.yang-1989.xyz/epg.xml.gz,https://www.open-epg.com/files/lithuania.xml,https://www.open-epg.com/files/malaysia.xml,https://github.com/joaquinito2036-rgb/iptvfast/raw/refs/heads/main/output/all.xml.gz,https://www.open-epg.com/files/slovakia.xml,https://github.com/walpak1/epg/raw/refs/heads/gh-pages/amazon.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="2" max-conn="1" refresh="4" billed-msg="Selfsat Direct TV"
 
 
 #############################################################FTA/Local##################################################################
@@ -50,7 +50,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://cuwf8jayq1.tenbytecdn.com/live/borneotv/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="112" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png",TVIKIM
+#EXTINF:-1  group-title="FTA/Local" tvg-id="226.ManaTV" tvg-chno="112" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png",TVIKIM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://cuwf8jayq1.tenbytecdn.com/live/tvikim/abr/tvikim_1080p/chunks.m3u8
@@ -92,7 +92,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="120" tvg-logo="https://www.usim.edu.my/wp-content/uploads/2016/04/USIMTV-LOGO.png",USIMTV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="224.ManaTV" tvg-chno="120" tvg-logo="https://www.usim.edu.my/wp-content/uploads/2016/04/USIMTV-LOGO.png",USIMTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://cuwf8jayq1.tenbytecdn.com/live/usimtv/abr/usimtv_1080p/chunks.m3u8
@@ -103,7 +103,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/usimtv/abr/usimtv_1080p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="123" tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png",Selangor TV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="225.ManaTV" tvg-chno="123" tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png",Selangor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
@@ -150,7 +150,7 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1  group-title="FTA/Local" tvg-id="Local.Programming.Dummy.us" tvg-chno="139" tvg-logo="https://siaratv.my/images/logo/Untitled-1.png",Siara TV
+#EXTINF:-1  group-title="FTA/Local" tvg-id="200.ManaTV" tvg-chno="139" tvg-logo="https://siaratv.my/images/logo/Untitled-1.png",Siara TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://cuwf8jayq1.tenbytecdn.com/live/siaratv/abr/siaratv_1080p/chunks.m3u8
@@ -1043,7 +1043,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/SPOTVNEW/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
 https://shtvgo-prod.gcdn.co/bpk-tv/SPOTV2NEW/output/manifest.mpd
 
-#EXTINF:-1  group-title="Sports" tvg-id="Local.Programming.Dummy.us" tvg-chno="717" tvg-logo="https://mysportsmedia.tv/wp-content/uploads/2026/06/Untitled-design-2-scaled-e1781179051865.png",MySports
+#EXTINF:-1  group-title="Sports" tvg-id="228.ManaTV" tvg-chno="717" tvg-logo="https://mysportsmedia.tv/wp-content/uploads/2026/06/Untitled-design-2-scaled-e1781179051865.png",MySports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_1080p/chunks.m3u8
